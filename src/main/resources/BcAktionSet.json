@@ -1,0 +1,145 @@
+@startjson
+{
+  "AktionSet": {
+    "Code": "Code20",
+    "Beschreibung": "Text100",
+    "Referenzart": {
+      "Option": [
+        "Stückliste-Fertigung",
+        "Arbeitsplan"
+      ]
+    },
+    "Aktionsart 1": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 1": "Text80",
+    "Aktionsart 2": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 2": "Text80",
+    "Aktionsart 3": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 3": "Text80",
+    "Aktionsart 4": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 4": "Text80",
+    "Aktionsart 5": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 5": "Text80",
+    "Aktionsart 6": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 6": "Text80",
+    "Aktionsart 7": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 7": "Text80",
+    "Aktionsart 8": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 8": "Text80",
+    "Aktionsart 9": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 9": "Text80",
+    "Aktionsart 10": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 10": "Text80",
+    "Tabellenname": "Text250"
+  }
+}
+@endjson

@@ -1,0 +1,46 @@
+@startjson
+{
+  "BedingungSet": {
+    "Code": "Code20",
+    "Beschreibung": "Text100",
+    "Referenzart": {
+      "Option": [
+        "Stückliste-Fertigung",
+        "Arbeitsplan"
+      ]
+    },
+    "Bedingungsart 1": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 1": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 1": "Text80",
+    "Bedingungsart 2": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Tabellenname": "Text250",
+    "Leere Bedingung gültig": "Boolean"
+  }
+}
+@endjson

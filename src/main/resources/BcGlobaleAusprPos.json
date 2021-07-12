@@ -1,0 +1,20 @@
+@startjson
+{
+  "GlobaleAusprPos": {
+    "Sachmerkmalcode":"Code10",
+    "Ausprägung":"Code20",
+    "Geändert am":"Date",
+    "Geändert von":"Code50",
+    "Lfd. Nr.":"Integer",
+    "Beschreibung":"Text100",
+    "Drucken":"Boolean",
+    "Bild":"MediaSet",
+    "Nicht Plausibel":"Boolean",
+    "Wertenfilter":"Boolean",
+    "Nummerischer Wert":"Decimal",
+    "Pulksortierpriorität":"Integer",
+    "Gültig bis":"Date",
+    "Gültig von":"Date"
+  }
+}
+@endjson

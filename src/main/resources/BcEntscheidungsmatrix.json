@@ -1,0 +1,40 @@
+@startjson
+{
+  "Entscheidungsmatrix": {
+    "Code":"Code20",
+    "Lfd. Nr.":"Integer",
+    "Bedingungswert 1":"Code200",
+    "Bedingungswert 2":"Code200",
+    "Bedingungswert 3":"Code200",
+    "Bedingungswert 4":"Code200",
+    "Bedingungswert 5":"Code200",
+    "Bedingungswert 6":"Code200",
+    "Bedingungswert 7":"Code200",
+    "Bedingungswert 8":"Code200",
+    "Bedingungswert 9":"Code200",
+    "Bedingungswert 10":"Code200",
+    "Reihenfolge":"Integer",
+    "Aktion 1":"Code40",
+    "Aktion 2":"Code40",
+    "Aktion 3":"Code40",
+    "Aktion 4":"Code40",
+    "Aktion 5":"Code40",
+    "Aktion 6":"Code40",
+    "Aktion 7":"Code40",
+    "Aktion 8":"Code40",
+    "Aktion 9":"Code40",
+    "Aktion 10":"Code40",
+    "Nummerischer Bedingungswert 1":"Decimal",
+    "Nummerischer Bedingungswert 2":"Decimal",
+    "Nummerischer Bedingungswert 3":"Decimal",
+    "Nummerischer Bedingungswert 4":"Decimal",
+    "Nummerischer Bedingungswert 5":"Decimal",
+    "Nummerischer Bedingungswert 6":"Decimal",
+    "Nummerischer Bedingungswert 7":"Decimal",
+    "Nummerischer Bedingungswert 8":"Decimal",
+    "Nummerischer Bedingungswert 9":"Decimal",
+    "Nummerischer Bedingungswert 10":"Decimal",
+    "Variantenchecksumme":"Code40"
+  }
+}
+@endjson

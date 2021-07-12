@@ -1,0 +1,11 @@
+@startjson
+{
+  "Artikelübersetzung": {
+    "Artikelnr.": "Code20",
+    "Variantencode": "Code10",
+    "Sprachcode": "Code10",
+    "Beschreibung": "Text100",
+    "Beschreibung 2": "Text50"
+  }
+}
+@endjson

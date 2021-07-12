@@ -1,0 +1,27 @@
+@startjson
+{
+  "Klasse": {
+    "Klassenart":{"Option" : [
+    "Klassifizierung",
+    "Suchen"]},
+    "Code":"Code10",
+    "Beschreibung":"Text100",
+    "Suchbegriff":"Code100",
+    "Status":{"Option": [
+    "In Entwicklung",
+    "Zertifiziert"]},
+    "Änderung erlaubt":"Boolean",
+    "Geändert am":"Date",
+    "Geändert von":"Code50",
+    "Variantennummern":"Code20",
+    "Subvarianten Nummern":"Code20",
+    "LHD Subvarianten Checksumme":"Code40",
+    "Technik Subvarianten Checksumme":"Code40",
+    "Verkauf Subvarianten Checksumme":"Code40",
+    "Produktion Subvarianten Checksumme":"Code40",
+    "Bild Subvarianten Checksumme":"Code40",
+    "Export Subvarianten Checksumme":"Code40",
+    "Variantenstring Checksumme":"Code40"
+  }
+}
+@endjson

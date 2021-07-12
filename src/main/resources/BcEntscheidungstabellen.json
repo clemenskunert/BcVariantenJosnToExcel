@@ -1,0 +1,39 @@
+@startjson
+{
+  "Entscheidungstabellen": {
+    "Code": "Code20",
+    "Beschreibung": "Text100",
+    "Referenzart": {
+      "Option": [
+        "Stückliste-Fertigung",
+        "Arbeitsplan"
+      ]
+    },
+    "Status": {
+      "Option" : [
+        "In Entwicklung",
+        "Zertifiziert"
+      ]
+    },
+    "Bedingungsset Code": "Code20",
+    "Aktionsset Code": "Code20",
+    "Art": {
+      "Option": [
+        "Standard",
+        "Prüfung",
+        "Select",
+        "Sachmerkmal ausblenden",
+        "Preisgruppen"
+      ]
+    },
+    "Nicht plausible Ausprägungen ausblenden": "Boolean",
+    "Verwendung": {
+      "Option": [
+        "Allgemein",
+        "Speziell"
+      ]
+    },
+    "Tabellenname": "Text250"
+  }
+}
+@endjson

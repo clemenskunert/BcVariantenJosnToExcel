@@ -1,0 +1,247 @@
+@startjson
+{
+  "Artikel": {
+      "Kred.-Artikelnr.": "Text50",
+      "Beschaffungszeit": "DateFormula",
+      "Meldebestand": "Decimal",
+      "Maximalbestand": "Decimal",
+      "Bestellmenge": "Decimal",
+      "Alternative Artikelnr.": "Code20",
+      "Richtpreis": "Decimal",
+      "Abgabenteil %": "Decimal",
+      "Abgabencode": "Code10",
+      "Bruttogewicht": "Decimal",
+      "Nettogewicht": "Decimal",
+      "Anzahl pro Paket": "Decimal",
+      "Volumen": "Decimal",
+      "Haltbarkeit": "Code10",
+      "Frachtform": "Code10",
+      "Zollpos.": "Code20",
+      "Zollfaktor": "Decimal",
+      "Herkunftsland/-region": "Code10",
+      "Budgetierte Menge": "Decimal",
+      "Budgetierter Betrag": "Decimal",
+      "Budgetierter DB": "Decimal",
+      "Gesperrt": "Boolean",
+      "Sperrungsgrund": "Text250",
+      "Datum/Uhrzeit der letzten Änderung": "DateTime",
+      "Korrigiert am": "Date",
+"Korrigiert um": "Time",
+      "VK-Preis inkl. MwSt.": "Boolean",
+      "MwSt.-Geschäftsbuch.-G. (Preis)": "Code20",
+      "Produktbuchungsgruppe": "Code20",
+      "Bild": "MediaSet",
+      "Ursprungsland/-region": "Code10",
+      "Automat. Textbaustein": "Boolean",
+      "Nummernserie": "Code20",
+      "Steuergruppencode": "Code20",
+      "MwSt.-Produktbuchungsgruppe": "Code20",
+      "Reservieren": {
+        "Option": [
+          "Nie",
+          "Optinal",
+          "Immer"
+        ]
+    },
+      "Globaler Dimensionscode 1": "Code20",
+      "Globaler Dimensionscode 2": "Code20",
+      "Bestandswarnung": {
+        "Option": [
+          "Standard",
+          "Nein",
+          "Ja"
+        ]
+    },
+      "Negativen Lagerbestand verhindern": {
+        "Option": [
+          "Standard",
+          "Nein",
+          "Ja"
+        ]
+    },
+      "Benutzer-ID für Ausgleichsvorschlag": "Code128",
+      "Montagerichtlinie": {
+        "Option": [
+          "Lagerfertigung",
+          "Programmfertigung"
+        ]
+    },
+      "GTIN": "Code14",
+      "Standard-Abgrenzungsvorlagencode": "Code10",
+      "Stücklistenebene": "Integer",
+      "Losgröße": "Decimal",
+      "Seriennummern": "Code20",
+      "Datum letzte Einst.-Preisber.": "Date",
+      "Mehrstufige Materialkosten": "Decimal",
+      "Mehrstufige Kapazitätskosten": "Decimal",
+      "Ausschuss %": "Decimal",
+      "Ohne Lagerbewertung": "Boolean",
+      "Anzahl Zyklen zusammenfassen": "Integer",
+      "Minimale Losgröße": "Decimal",
+      "Maximale Losgröße": "Decimal",
+      "Sicherheitsbestand": "Decimal",
+      "Losgrößenrundungsfaktor": "Decimal",
+      "Sicherh.-Zuschl. Beschaff.-Zt.": "DateFormula",
+      "Buchungsmethode": {
+        "Options": [
+          "Manuell",
+          "Vorwärts",
+          "Rückwärts",
+          "Kommiss. + Vorwärts",
+          "Kommiss. + Rückwärts"
+        ]
+    },
+      "Beschaffungsmethode": {
+        "Option": [
+          "Einkauf",
+          "Fertigungsauftrag",
+          "Umlagerung",
+          "Montage",
+          ""
+        ]
+    },
+      "Rundungspräzision": "Decimal",
+      "Verkaufseinheitencode": "Code10",
+      "Einkaufseinheitencode": "Code10",
+      "Zeitrahmen": "DateFormula",
+      "Wiederbeschaffungsverfahren": {
+        "Option": [
+          "Feste Bestellmenge",
+          "Auffüllen auf Maximalbestand",
+          "Auftrag",
+          "Los-für-Los"
+        ]
+    },
+      "Lagerbestand berücksichtigen": "Boolean",
+      "Produktionsart": {
+        "Option": [
+          "Lagerfertigung",
+          "Auftragsfertigung"
+        ]
+    },
+      "Neuplanungsperiode": "DateFormula",
+      "Loskumulierungsperiode": "DateFormula",
+      "Toleranzperiode": "DateFormula",
+      "Toleranzmenge": "Decimal",
+      "Überlauflevel": "Decimal",
+      "Herstellercode": "Code10",
+      "Artikelkategoriencode": "Code20",
+      "Aus Katalogartikel erstellt": "Boolean",
+      "Einkaufscode": "Code10",
+      "Serviceartikelgruppe": "Code10",
+      "Artikelverfolgungscode": "Code10",
+      "Chargennummern": "Code20",
+      "Ablaufdatumsformel": "DateFormula",
+      "Lagerklassencode": "Code10",
+      "Lagerhilfsmittelcode": "Code10",
+      "Einlagerungsvorlagencode": "Code10",
+      "Einlagerungseinheitencode": "Code10",
+      "Inventurhäufigkeitscode": "Code10",
+      "Letzte Aktual. Inv.-Häufigkeit": "Date",
+      "Zuordnung verwenden": "Boolean",
+      "Startdatum der nächsten Inventur": "Date",
+      "Enddatum der nächsten Inventur": "Date",
+      "ID": "GUID",
+      "Einheitenkennung": "GUID",
+      "Steuergruppen-ID": "GUID",
+      "Verkauf gesperrt": "Boolean",
+      "Einkauf gesperrt": "Boolean",
+      "Artikelkategorie-ID": "GUID",
+      "Eingangsüberschusscode": "Code20",
+      "Hat Umsatzplanung": "Boolean",
+      "Platzhalter": "Boolean",
+      "Klassencode": "Code10",
+      "Generiert": "Boolean",
+      "Variantenleiste einblenden": {
+        "Option": [
+          "keine",
+          "immer"
+        ]
+    },
+      "Gefilterte Variantenausprägung": "Boolean",
+      "Modell": "Boolean",
+      "Zuordnungspflichtig": "Boolean",
+      "Startdatum": "Date",
+      "Enddatum": "Date",
+      "Länge (mm)": "Decimal",
+      "Breite (mm)": "Decimal",
+      "Stärke (mm)": "Decimal",
+      "Set": "Boolean",
+      "Unterpositionen generieren": "Boolean",
+      "Wertenfilter": "Boolean",
+      "Beschreibungen generieren": "Boolean",
+      "Belegmenge": "Decimal",
+      "Ausfuhrlistennr.": "Text20",
+      "Dual-Use Nr.": "Text20",
+      "ECCN": "Text20",
+      "Sachmerkmale drucken": "Boolean",
+      "Verkauf Preisschemacode": "Code10",
+      "Einkauf Preisschemacode": "Code10",
+      "Einkauf Berechnungspreiscode": "Code10",
+      "Verkauf Berechnungspreiscode": "Code10",
+      "Verkauf Preisstücklistennr.": "Code20",
+      "Einkauf Preisstücklistennr.": "Code20",
+      "Verw. Preisfindung für Fremdarbeit": "Boolean",
+      "Prognosekategoriecode": "Code20",
+      "Austauschart": {
+        "Option": [
+          "Ersatzteil",
+          "Verschleißteil"
+        ]
+    },
+      "Projektartikel": "Boolean",
+      "Projektlagerort": "Code10",
+      "Letzte Einstandspreisberechnung von": "Code50",
+      "Letzte Einstandspreisberechnung am": "DateTime",
+      "Kalkulationsgruppencode": "Code10",
+      "Kalkulationszuschlagscode": "Code10",
+      "Kalkulierte Einstandskosten": "Decimal",
+      "Kalkulationsvorlage": "Code20",
+      "Kalkulationslosgröße": "Decimal",
+      "Artikelpostenstatuscode": "Code10",
+      "Dispositionsgruppencode": "Code10",
+      "Colli": "Boolean",
+      "Packstückgruppencode": "Code10",
+      "Menge ignorieren für Packstückbildung": "Boolean",
+      "Colli Komponente": "Boolean",
+      "Det. Collis erzeugen": "Boolean",
+      "Planungszeitraum": "DateFormula",
+      "Nächstes Planungsdatum": "Date",
+      "Einkaufsliefertoleranzencode": "Code10",
+      "Verkaufsliefertoleranzencode": "Code10",
+      "QCM-Integrationsart": {
+        "Option": [
+          "Prüfpflichtig",
+          "Nicht prüfpflichtig"
+        ]
+    },
+      "Checklistenvorlagecode": "Code20",
+      "Artikelstatus": "Code20",
+      "Aus externem System": "Boolean",
+      "Hersteller-ID": "GUID",
+      "Fertigungsstücklisten-ID": "GUID",
+      "Artikelstatus-ID": "GUID",
+      "Zeichnungsnr.": "Text100",
+      "Arbeitsplannr.": "Code20",
+      "Fert.-Stücklistennr.": "Code20",
+      "Einstufige Materialkosten": "Decimal",
+      "Einstufige Kapazitätskosten": "Decimal",
+      "Einstufige Fremdarbeitskosten": "Decimal",
+      "Einstufige Kap.-Gemeinkosten": "Decimal",
+      "Einstufige Prod.-Gemeinkosten": "Decimal",
+      "Gemeinkostensatz": "Decimal",
+      "Mehrstufige Fremdarbeitskosten": "Decimal",
+      "Mehrstufige Prod.-Gemeinkosten": "Decimal",
+      "Mehrstufige Kap.-Gemeinkosten": "Decimal",
+      "Bedarfsverursacherart": {
+        "Option": [
+          "Keine",
+          "Nur Bedarfsverursacher",
+          "Bedarfsverursacher & Ereignismeldung"
+        ]
+    },
+      "Kritisch": "Boolean",
+      "Gemeinsame Artikelnr.": "Code20"
+  }
+}
+@endjson

@@ -1,0 +1,28 @@
+@startjson
+{
+  "AktionSet": {
+    "Code": "Code20",
+    "Beschreibung": "Text100",
+    "Referenzart": {
+      "Option": [
+        "Stückliste-Fertigung",
+        "Arbeitsplan"
+      ]
+    },
+    "Aktionsart 1": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Ja/Nein",
+        "Fehler",
+        "Meldung",
+        "Preisgruppen"
+      ]
+    },
+    "Aktionscode 1": "Text80",
+    "Tabellenname": "Text250"
+  }
+}
+@endjson

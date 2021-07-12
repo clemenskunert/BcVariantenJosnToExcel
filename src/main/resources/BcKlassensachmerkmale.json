@@ -1,0 +1,54 @@
+@startjson
+{
+  "Klassensachmerkmale": {
+    "Klassenart": {
+      "Option": [
+        "Klassifizierung",
+        "Suchen"
+      ]
+    },
+    "Klassencode": "Code10",
+    "Lfd. Nr.": "Integer",
+    "Sachmerkmalcode": "Code10",
+    "Muß/Kann": {
+      "Option": [
+        "kann",
+        "muß für Klassifizierung",
+        "muß für Variantensystem"
+      ]
+    },
+    "Eindeutiges Suchen": "Boolean",
+    "Prüfverfahren": {
+      "Option": [
+        "Keine Prüfung",
+        "Globale Ausprägungen",
+        "Entscheidungstabelle",
+        "Nur Klassensatzwert"
+      ]
+    },
+    "Prüfung": "Code20",
+    "Geändert am": "Date",
+    "Geändert von": "Code50",
+    "Länge": "Integer",
+    "Dezimalstellen": "Integer",
+    "Ausprägung diskret": "Boolean",
+    "Abhängig von Sachmerkmal": "Code10",
+    "Suchrelevant": "Boolean",
+    "Druck abhängig von Sachmerkmal": "Code10",
+    "Kurzeingabe erlaubt": "Boolean",
+    "Subvariante Lagerhaltung relevant": "Boolean",
+    "Ausprägung leer erlaubt": "Boolean",
+    "Subvariante Technik relevant": "Boolean",
+    "Subvariante Verkauf relevant": "Boolean",
+    "Subvariante Produktion relevant": "Boolean",
+    "Subvariante Bild relevant": "Boolean",
+    "Subvariante Export relevant": "Boolean",
+    "Autom. validieren F.u.R": "Boolean",
+    "Sachmerkmale Druck Code": "Code10",
+    "Druckreihenfolge": "Integer",
+    "Beschreibung Parameternr.": "Integer",
+    "Variantenstring Präfix": "Code10",
+    "Variantenstring Reihenfolge": "Integer"
+  }
+}
+@endjson

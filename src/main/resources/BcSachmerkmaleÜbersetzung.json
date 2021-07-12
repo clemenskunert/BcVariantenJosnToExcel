@@ -1,0 +1,9 @@
+@startjson
+{
+  "SachmerkmaleÜbersetzung": {
+    "Sachmerkmalcode":"Code10",
+    "Sprachcode":"Code10",
+    "Beschreibung":"Text100"
+  }
+}
+@endjson

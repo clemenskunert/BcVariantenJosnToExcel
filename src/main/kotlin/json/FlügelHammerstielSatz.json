@@ -1,0 +1,378 @@
+@startjson
+{
+  "FlügelHammerStielSatz_CLASS": {
+    "Klassenart": 1,
+    "Code": "FLÜHAMSTIS",
+    "Beschreibung": "Flügel Hammerstielsatz",
+    "Sachmerkmale": {
+      "FlügelHammerstielFeld_CLASS": {
+        "Klassenart": 1,
+        "Code": "FLÜGEL_HAMMERSTIEL_FELD",
+        "Beschreibung": "Einzelnes Feld im Hammerstielsatz",
+        "Sachmerkmale": {
+          "Sachmerkmal": {
+            "Code": "ANZAHL_DER",
+            "Länge": 5,
+            "Dezimalstellen": 1,
+            "Beschreibung": "Anzahl der Hammerstiele",
+            "AusprägungLeerErlaubt": 0,
+            "Datentyp": 1,
+            "Art": 1,
+            "Standardwert": "25",
+            "Ausprägung von": 1,
+            "Ausprägung bis": 88,
+            "Schrittweite": 1
+          },
+          "Sachmerkmal": {
+            "Code": "KEHLUNG_VO",
+            "Länge": 20,
+            "Beschreibung": "Kehlung vom Hammerstiel",
+            "AusprägungLeerErlaubt": 0,
+            "Datentyp": 2,
+            "Art": 2,
+            "Standardwert": "Bass"
+          },
+          "Sachmerkmal": {
+            "Code": "HOLZART",
+            "Länge": 10,
+            "Beschreibung": "Holzart",
+            "AusprägungLeerErlaubt": 0,
+            "Datentyp": 2,
+            "Art": 2,
+            "Standardwert": "WB"
+          },
+          "FlügelHammerstielBaugruppe_CLASS": {
+            "Klassenart": 1,
+            "Code": "FLÜGEL_HAMMERSTIEL_BAUGRUPPE",
+            "Beschreibung": "Flügel Hammerstiel Baugruppe",
+            "Sachmerkmale": {
+              "Sachmerkmal": {
+                "Code": "RÖLLCHEN_PO",
+                "Länge": 5,
+                "Dezimalstellen": 0.1,
+                "Beschreibung": "RöllchenPosition",
+                "AusprägungLeerErlaubt": 0,
+                "Datentyp": 1,
+                "Art": 2,
+                "Standardwert": "17",
+                "GlobaleAuspen": {
+                  "GlobaleAusprPos.": {
+                    "Ausprägung": "15,5",
+                    "Beschreibung": "15,5 mm",
+                    "NummerischerWert": 15.5
+                  },
+                  "GlobaleAusprPos.": {
+                      "Ausprägung": "16,2",
+                      "Beschreibung": "16,2 mm",
+                      "NummerischerWert": 16.2
+                  },
+                  "GlobaleAusprPos.": {
+                      "Ausprägung": "17",
+                      "Beschreibung": "17 mm",
+                      "NummerischerWert": 17
+                  }
+                }
+              }
+            },
+            "Sachmerkmal": {
+              "Code": "KEHLUNG",
+              "Länge": 10,
+              "Beschreibung": "Kehlung",
+              "AusprägungLeerErlaubt": 0,
+              "Datentyp": 2,
+              "Art": 2,
+              "Standardwert": "Bass",
+              "GlobaleAuspen": {
+                "GlobaleAusprPos.": {
+                  "Ausprägung": "Bass",
+                  "Beschreibung": "Bass",
+                  "NummerischerWert": 0
+                },
+                "GlobaleAusprPos.": {
+                    "Ausprägung": "Medium",
+                    "Beschreibung": "Medium",
+                    "NummerischerWert": 0
+                },
+                "GlobaleAusprPos.": {
+                    "Ausprägung": "Diskant",
+                    "Beschreibung": "Diskant",
+                    "NummerischerWert": 0
+                }
+              }
+            },
+            "Sachmerkmal": {
+              "Code": "ROLLIERUNG",
+              "Länge": 5,
+              "Beschreibung": "Rollierung",
+              "AusprägungLeerErlaubt": 0,
+              "Datentyp": 2,
+              "Art": 2,
+              "Standardwert": "Kurz"
+            },
+            "Sachmerkmal": {
+              "Code": "HOLZART",
+              "Länge": 5,
+              "Beschreibung": "Holzart",
+              "AusprägungLeerErlaubt": 0,
+              "Datentyp": 2,
+              "Art": 2,
+              "Standardwert": "WB",
+              "GlobaleAuspen": {
+                "GlobaleAusprPos.": {
+                  "Ausprägung": "AH",
+                  "Beschreibung": "Ahorn",
+                  "NummerischerWert": 0
+                },
+                "GlobaleAusprPos.": {
+                  "Ausprägung": "WB",
+                  "Beschreibung": "Weißbuche",
+                  "NummerischerWert": 0
+                }
+              }
+            },
+            "Sachmerkmal": {
+              "Code": "VORSORTIER",
+              "Länge": 5,
+              "Beschreibung": "Vorsortiert",
+              "AusprägungLeerErlaubt": 1,
+              "Datentyp": 2,
+              "Art": 2,
+              "Standardwert": "0"
+            },
+            "Sachmerkmal": {
+              "Code": "KAPSEL_VOR",
+              "Länge": 5,
+              "Beschreibung": "Kapsel vorhanden",
+              "AusprägungLeerErlaubt": 1,
+              "Datentyp": 2,
+              "Art": 2,
+              "Standardwert": "1"
+            },
+            "Sachmerkmal": {
+              "Code": "RENNER_LOG",
+              "Länge": 5,
+              "Beschreibung": "Renner Logo vorhanden",
+              "AusprägungLeerErlaubt": 1,
+              "Datentyp": 2,
+              "Art": 2,
+              "Standardwert": "1"
+            },
+            "FlügelHammerstielKapsel_CLASS": {
+              "Klassenart": 1,
+              "Code": "FLÜGEL_HAMMERSTIEL_KAPSEL",
+              "Beschreibung": "FlügelhammerstielKapsel",
+              "Sachmerkmale": {
+                "Sachmerkmal": {
+                  "Code": "PROFILKEHL",
+                  "Länge": 20,
+                  "Beschreibung": "Profilkehlung",
+                  "AusprägungLeerErlaubt": 0,
+                  "Datentyp": 2,
+                  "Art": 2,
+                  "Standardwert": "Renner",
+                  "GlobaleAuspen": {
+                    "GlobaleAusprPos.": {
+                      "Ausprägung": "Renner-Standdard",
+                      "Beschreibung": "Renner Standdard",
+                      "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Renner-Ver-Kap-Schr",
+                        "Beschreibung": "Renner mit versetzter Kapselschraube",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Renner-Stand-O-Senk",
+                        "Beschreibung": "Renner Standard ohne Senkung",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Renner-Ver-Abnick",
+                        "Beschreibung": "Renner mit versetzter Abnickschraube",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Renner-O-Kapsel-Sch",
+                        "Beschreibung": "Renner ohne Kapselschraube",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Renner-Langloch",
+                        "Beschreibung": "Renner mit Langloch",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Steinway",
+                        "Beschreibung": "Steinway Old",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Steinway-Old",
+                        "Beschreibung": "Steinway old",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Yamaha-3.6-Senk",
+                        "Beschreibung": "Yamaha 3.6 mm mit Senkung",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "T-1",
+                        "Beschreibung": "Fazioli T1",
+                        "NummerischerWert": 0 
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Yamaha-4.1-Senk",
+                        "Beschreibung": "Yamaha 4,1 mm mit Senkung",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "T-2",
+                        "Beschreibung": "Fazioli T2",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Falcone",
+                        "Beschreibung": "Falcone",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Baldwin-new",
+                        "Beschreibung": "Baldwin neu",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Baldwin-old",
+                        "Beschreibung": "Baldwin alt",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "MH",
+                        "Beschreibung": "Mason und Hamlin",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "MH-Langloch",
+                        "Beschreibung": "Mason und Hamlin Langloch",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Knabe",
+                        "Beschreibung": "Knabe",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Aeolian",
+                        "Beschreibung": "Aeolian",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Kolberg",
+                        "Beschreibung": "Kolberg",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "PrattRead",
+                        "Beschreibung": "Pratt Read",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Kawai",
+                        "Beschreibung": "Kawai",
+                        "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                        "Ausprägung": "Flemming",
+                        "Beschreibung": "Flemming",
+                        "NummerischerWert": 0
+                    }
+                  }
+                },
+                "Sachmerkmal": {
+                  "Code": "ABNICKSCHR",
+                  "Länge": 5,
+                  "Beschreibung": "Abnickschraube versetzt",
+                  "AusprägungLeerErlaubt": 1,
+                  "Datentyp": 2,
+                  "Art": 2,
+                  "Standardwert": "0"
+                },
+                "Sachmerkmal": {
+                  "Code": "HOLZART",
+                  "Länge": 5,
+                  "Beschreibung": "Holzart",
+                  "AusprägungLeerErlaubt": 0,
+                  "Datentyp": 2,
+                  "Art": 2,
+                  "Standardwert": "WB",
+                  "GlobaleAuspen": {
+                    "GlobaleAusprPos.": {
+                      "Ausprägung": "AH",
+                      "Beschreibung": "Ahorn",
+                      "NummerischerWert": 0
+                    },
+                    "GlobaleAusprPos.": {
+                      "Ausprägung": "WB",
+                      "Beschreibung": "Weißbuche",
+                      "NummerischerWert": 0
+                    }
+                  }
+                },
+                "Sachmerkmal": {
+                  "Code": "SENKUNG_VOR",
+                  "Länge": 5,
+                  "Beschreibung": "SenkungVorhanden",
+                  "AusprägungLeerErlaubt": 1,
+                  "Datentyp": 2,
+                  "Art": 2,
+                  "Standardwert": "0"
+                },
+                "Sachmerkmal": {
+                  "Code": "KERBENDRAH",
+                  "Länge": 5,
+                  "Dezimalstellen": 0.1,
+                  "Beschreibung": "Kerbendraht Abstand",
+                  "AusprägungLeerErlaubt": 0,
+                  "Datentyp": 1,
+                  "Art": 2,
+                  "Standardwert": "3.6",
+                  "GlobaleAuspen": {
+                    "GlobaleAusprPos.": {
+                      "Ausprägung": 3.6,
+                      "Beschreibung": "",
+                      "NummerischerWert": 1
+                    },
+                    "GlobaleAusprPos.": {
+                      "Ausprägung": 4.1,
+                      "Beschreibung": "",
+                      "NummerischerWert": 4.1
+                    }
+                  }
+                },
+                "Sachmerkmal": {
+                  "Code": "KENNRISS",
+                  "Länge": 5,
+                  "Beschreibung": "Kennriss",
+                  "AusprägungLeerErlaubt": 0,
+                  "Datentyp": 2,
+                  "Art": 2,
+                  "Standardwert": "0"
+                },
+                "Sachmerkmal": {
+                  "Code": "KERBENDRAH",
+                  "Länge": 5,
+                  "Beschreibung": "Kerbendraht vorhanden",
+                  "AusprägungLeerErlaubt": 1,
+                  "Datentyp": 2,
+                  "Art": 2,
+                  "Standardwert": "0"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@endjson

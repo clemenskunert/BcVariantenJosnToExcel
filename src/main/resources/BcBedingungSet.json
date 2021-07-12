@@ -1,0 +1,226 @@
+@startjson
+{
+  "BedingungSet": {
+    "Code": "Code20",
+    "Beschreibung": "Text100",
+    "Referenzart": {
+      "Option": [
+        "Stückliste-Fertigung",
+        "Arbeitsplan"
+      ]
+    },
+    "Bedingungsart 1": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 1": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 1": "Text80",
+    "Bedingungsart 2": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 2": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 2": "Text80",
+    "Bedingungsart 3": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 3": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 3": "Text80",
+    "Bedingungsart 4": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 4": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 4": "Text80",
+    "Bedingungsart 5": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 5": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 5": "Text80",
+    "Bedingungsart 6": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 6": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 6": "Text80",
+    "Bedingungsart 7": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 7": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 7": "Text80",
+    "Bedingungsart 8": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 8": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 8": "Text80",
+    "Bedingungsart 9": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 9": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 9": "Text80",
+    "Bedingungsart 10": {
+      "Option": [
+        "Sachmerkmal",
+        "Tabellenfeld",
+        "NV-Numerische Variable",
+        "AV-Alphanumerische Variable",
+        "Artikelnr."
+      ]
+    },
+    "Bedingung Instruktion 10": {
+      "Option": [
+        "= gleich",
+        "> größer",
+        ">= größer oder gleich",
+        "< kleiner",
+        "<= kleiner oder gleich",
+        "<> ungleich",
+        "Wertefilter"
+      ]
+    },
+    "Bedingungscode 10": "Text80",
+    "Tabellenname": "Text250",
+    "Leere Bedingung gültig": "Boolean"
+  }
+}
+@endjson

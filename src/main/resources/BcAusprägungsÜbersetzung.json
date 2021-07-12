@@ -1,0 +1,12 @@
+@startjson
+{
+  "AusprägungsÜbersetzung": {
+    "Sachmerkmalcode":"Code10",
+    "Ausprägung":"Code20",
+    "Sprachcode":"Code10",
+    "Beschreibung":"Text100",
+    "Geändert am":"Date",
+    "Geändert von":"Code50"
+  }
+}
+@endjson

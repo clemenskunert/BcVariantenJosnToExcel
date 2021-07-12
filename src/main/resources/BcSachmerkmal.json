@@ -1,0 +1,35 @@
+@startjson
+{
+  "Sachmerkmal": {
+    "Code": "Code10",
+    "Def.Klasse": "",
+    "Länge": "Integer",
+    "Dezimalstellen": "Integer",
+    "Beschreibung": "Text100",
+    "Geändert am": "Date",
+    "Geändert von": "Code50",
+    "Ausprägung leer erlaubt": "Boolean",
+    "Datentyp": {
+      "Option": [
+        "Numerisch",
+        "Alphanumerisch"
+      ]
+    },
+    "Art": {
+      "Option": [
+        "Bereich",
+        "Wert"
+      ]
+    },
+    "Standardwert": "Code20",
+    "Ausprägung von": "Decimal",
+    "Ausprägung bis": "Decimal",
+    "Schrittweite": "Decimal",
+    "Beschreibung Bereich-Ausprägungen": "Text100",
+    "Dimensionsrelevant": "Boolean",
+    "Druck identisch zum Modell": "Boolean",
+    "Sachmerkmalsgruppencode": "Code10",
+    "Globale Ausprägungen aktual.": "Boolean"
+  }
+}
+@endjson
