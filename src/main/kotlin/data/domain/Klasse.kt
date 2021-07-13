@@ -99,7 +99,7 @@ data class GlobaleAusprPos(
 )
 
 /*
-Entscheidungstabellen
+Entscheidungstabellen Definition 5022797
  */
 data class Entscheidungstabellen(
     @SerializedName("Code")
@@ -117,5 +117,57 @@ data class Entscheidungstabellen(
     @SerializedName("Nicht plausible Ausprägungen ausblenden")
     val nPlauAusprAusb: Boolean,
     @SerializedName("Verwendung")
-    val verwendung: Int,
+    val verwendung: Int = 0
+)
+
+/*
+Klassenentscheidung 5022799
+ */
+data class KlassenEntscheidung(
+    @SerializedName("Klassenart")
+    val klassenart: Int = 0,
+    @SerializedName("Klassencode")
+    val klassencode: String,
+    @SerializedName("SM-Lfdnr.")
+    val smLfd: Int,
+    @SerializedName("Zeilennr.")
+    val zeilenNum: Int,
+    @SerializedName("Entscheidung Definition Code")
+    val entDefCode: String
+)
+
+/*
+Entscheidungsmatrix 5022798
+ */
+data class Entscheidungsmatrix(
+    @SerializedName("Code")
+    val code: String,
+    @SerializedName("Bedingungswerte")
+    val bedingungswerte: List<String>,
+    @SerializedName("Reihenfolge")
+    val rang: Int,
+    @SerializedName("Aktionen")
+    val aktionen: List<String>,
+    @SerializedName("Numerischer Bedingungswerte")
+    val numBedingVal: List<String>
+)
+
+/*
+Fert.-Stücklistenzeile 99000772
+ */
+data class FertStuecklistenzeile(
+    @SerializedName("Fert.-Stücklistennr.")
+    val stueckNum: String,
+    @SerializedName("Zeilennummer")
+    val row: Int,
+    @SerializedName("Art")
+    val art: Int = 0,
+    @SerializedName("Nr.")
+    val number: String,
+    @SerializedName("Beschreibung")
+    val beschreibung: String,
+    @SerializedName("Einheitencode")
+    val einheiten: String,
+    @SerializedName("Menge")
+    val quant: Float
 )
