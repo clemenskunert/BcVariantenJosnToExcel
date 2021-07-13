@@ -366,6 +366,15 @@
                   "Datentyp": 2,
                   "Art": 2,
                   "Standardwert": "0"
+                },
+                "Sachmerkmal": {
+                  "Code": "KERBENDRAH",
+                  "Länge": 5,
+                  "Beschreibung": "Kerbendraht vorhanden",
+                  "AusprägungLeerErlaubt": 1,
+                  "Datentyp": 2,
+                  "Art": 2,
+                  "Standardwert": "0"
                 }
               }
             }
