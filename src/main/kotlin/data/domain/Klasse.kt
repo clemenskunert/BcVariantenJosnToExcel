@@ -130,6 +130,8 @@ data class KlassenEntscheidung(
     val klassencode: String,
     @SerializedName("SM-Lfdnr.")
     val smLfd: Int,
+    @SerializedName("Art.")
+    val art: Int = 0
     @SerializedName("Zeilennr.")
     val zeilenNum: Int,
     @SerializedName("Entscheidung Definition Code")
@@ -158,6 +160,8 @@ Fert.-Stücklistenzeile 99000772
 data class FertStuecklistenzeile(
     @SerializedName("Fert.-Stücklistennr.")
     val stueckNum: String,
+    @SerializedName("Versionscode")
+    val versCode: String,
     @SerializedName("Zeilennummer")
     val row: Int,
     @SerializedName("Art")
