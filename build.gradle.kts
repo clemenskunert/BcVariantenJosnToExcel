@@ -14,6 +14,8 @@ repositories {
 dependencies {
     implementation("com.google.code.gson:gson:2.8.7")
     testImplementation(kotlin("test"))
+    testImplementation ("org.spekframework.spek2:spek-dsl-jvm:2.0.11")
+    testImplementation ("org.spekframework.spek2:spek-runner-junit5:2.0.11")
 }
 
 tasks.test {

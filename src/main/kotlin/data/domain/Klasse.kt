@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName
 /*
 Klasse 5022702
  */
-data class Klasse(
+data class KlasseOut(
     @SerializedName("Klassenart")
     val klassenart: Int = 0,
     @SerializedName("Code")
@@ -20,11 +20,18 @@ data class Klasse(
     val aenderung: Boolean = false
 )
 
+data class KlasseIn(
+    val classMeta: KlasseOut,
+    val classAttributs: List<Pair<KlassensachmerkmalOut, Pair<SachmerkmaleOut, List<GlobaleAusprPosOut>>>>,
+    val classDecision: List<Pair<KlassenEntscheidungOut, Pair<EntscheidungstabellenOut, EntscheidungsmatrixOut>>>,
+    val classRelationShip: List<Pair<KlasseIn, FertStuecklistenzeileOut>>
+)
+
 
 /*
 Klassensachmerkmal 5022709
  */
-data class Klassensachmerkmal(
+data class KlassensachmerkmalOut(
     @SerializedName("Klassenart")
     val klassenart: Int = 0,
     @SerializedName("Klassencode")
@@ -58,7 +65,7 @@ data class Klassensachmerkmal(
 /*
 Sachmerkmale 5022701
  */
-data class Sachmerkmale(
+data class SachmerkmaleOut(
     @SerializedName("Code")
     val code: String,
     @SerializedName("Beschreibung")
@@ -87,7 +94,7 @@ data class Sachmerkmale(
 Globale Auspr.-Pos 5022715
  */
 
-data class GlobaleAusprPos(
+data class GlobaleAusprPosOut(
     @SerializedName("Sachmerkmalscode")
     val sachmerkmalCode: String,
     @SerializedName("Ausprägung")
@@ -101,7 +108,7 @@ data class GlobaleAusprPos(
 /*
 Entscheidungstabellen Definition 5022797
  */
-data class Entscheidungstabellen(
+data class EntscheidungstabellenOut(
     @SerializedName("Code")
     val code: String,
     @SerializedName("Beschreibung")
@@ -123,7 +130,7 @@ data class Entscheidungstabellen(
 /*
 Klassenentscheidung 5022799
  */
-data class KlassenEntscheidung(
+data class KlassenEntscheidungOut(
     @SerializedName("Klassenart")
     val klassenart: Int = 0,
     @SerializedName("Klassencode")
@@ -131,7 +138,7 @@ data class KlassenEntscheidung(
     @SerializedName("SM-Lfdnr.")
     val smLfd: Int,
     @SerializedName("Art.")
-    val art: Int = 0
+    val art: Int = 0,
     @SerializedName("Zeilennr.")
     val zeilenNum: Int,
     @SerializedName("Entscheidung Definition Code")
@@ -140,8 +147,8 @@ data class KlassenEntscheidung(
 
 /*
 Entscheidungsmatrix 5022798
- */
-data class Entscheidungsmatrix(
+ */ 
+data class EntscheidungsmatrixOut(
     @SerializedName("Code")
     val code: String,
     @SerializedName("Bedingungswerte")
@@ -157,7 +164,7 @@ data class Entscheidungsmatrix(
 /*
 Fert.-Stücklistenzeile 99000772
  */
-data class FertStuecklistenzeile(
+data class FertStuecklistenzeileOut(
     @SerializedName("Fert.-Stücklistennr.")
     val stueckNum: String,
     @SerializedName("Versionscode")

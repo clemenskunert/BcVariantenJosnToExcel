@@ -1,0 +1,10 @@
+{
+  "testKlasse_CLASS": {
+    "klassenart": 1,
+    "code": "TEST_KLASSE",
+    "beschreibung": "DasIstEineTestKlasse",
+    "suchbegriff": "DasIstEineTestKlasse",
+    "status": 0,
+    "aenderung": FALSE
+  }
+}
