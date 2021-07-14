@@ -105,7 +105,7 @@
                   "code": "2885DADB94",
                   "expression": "Grau Grau mit Nut",
                   "description": "Grau Grau",
-                  "partNumber": "922107079",
+                  "partNumber": "922107079"
                 },
                 {
                   "code": "05261FFFAD",
@@ -309,6 +309,73 @@
                   "description": "Fazioli T-2",
                   "partNumber": "922107021"
                 }
+              ]
+            },
+            {
+              "code": "E9D53D079E",
+              "description": "Flügel Hebeglied Repetierschenkel",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "2A5289986C",
+                  "expression": "Steinway",
+                  "description": "Steinway",
+                  "partNumber": "922107026"
+                },
+                {
+                  "code": "CCD9D5AA48",
+                  "expression": "Fazioli 308/ 310",
+                  "description": "Fazioli 308/ 310",
+                  "partNumber": "922107024"
+                },
+                {
+                  "code": "AD7AD50C91",
+                  "expression": "Renner 18mm",
+                  "description": "Renner 18mm",
+                  "partNumber": "922107034"
+                },
+                {
+                  "code": "A1F25CA2B0",
+                  "expression": "Renner 20mm",
+                  "description": "Renner 20mm",
+                  "partNumber": "922107031"
+                },
+                {
+                  "code": "31253D3561",
+                  "expression": "Renner mit Stellschraube 18mm",
+                  "description": "Renner mit Stellschraube 18mm",
+                  "partNumber": "922107030"
+                },
+                {
+                  "code": "0F6F8C74FC",
+                  "expression": "Renner mit Stellschraube 20mm",
+                  "description": "Renner mit Stellschraube 20mm",
+                  "partNumber": "922107033"
+                },
+                {
+                  "code": "E2C2D5E0FF",
+                  "expression": "Steinway mit Stellschraube",
+                  "description": "Steinway mit Stellschraube",
+                  "partNumber": "922107035"
+                }
+              ]
+            },
+            {
+              "code": "6955773B32",
+              "description": "Flügel Repetierfeder",
+              "standardValue": "0,95",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 2,
+              "rangeStart": 0.75,
+              "rangeEnd": 1.0,
+              "step": 0.05,
+              "expression": [
+
               ]
             }
           ],
