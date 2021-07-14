@@ -1,106 +1,77 @@
-import data.domain.*
+import com.renner.actionnumbersave.framework.toJsonString
+import data.domain.input.*
 import org.spekframework.spek2.Spek
 import org.spekframework.spek2.style.gherkin.Feature
 
 object JsonClassParser : Spek({
     Feature("Parse Json to ClassInput Object") {
         Scenario("create class object and parse to json String") {
-            KlasseIn(
-                classMeta = KlasseOut(
-                    klassenart = 0,
-                    code = "",
-                    beschreibung = "",
-                    suchbegriff = "",
-                    status = 0,
-                    aenderung = false
-                ),
-                classAttributs = listOf(
-                    KlassensachmerkmalOut(
-                        klassenart = 0,
-                        klassencode = "",
-                        lfdNr = 0,
-                        sachmekermalCode = "",
-                        mussKann = 0,
-                        eindeutigesSuchen = false,
-                        pruefverfahren = 0,
-                        pruefung = "",
-                        laenge = 0,
-                        dezimalStellen = 0,
-                        kurzeingabe = false,
-                        subLagRel = false,
-                        auspLeerErl = false,
-                        beschParaNr = 0
-                    ) to (
-                            SachmerkmaleOut(
+            val firstTest = ClassInput(
+                code = "FLUEDAEMARM",
+                description = "Flügel Dämpferarm",
+                attributes = listOf(
+                    AttributeInput(
+                        code = "LOEFFUEBERSTAND",
+                        description = "Löffelüberstand",
+                        standardValue = "19",
+                        art = 2,
+                        dataType = 0,
+                        nullAble = false,
+                        decimal = 0,
+                        rangeStart = 15f,
+                        rangeEnd = 30f,
+                        step = 1f,
+                    ),
+                    AttributeInput(
+                        code = "DAEARMSORT",
+                        description = "Dämpferarmesorte",
+                        standardValue = "",
+                        art = 1,
+                        dataType = 1,
+                        nullAble = false,
+                        expressions = listOf(
+                            GlobalExpression(
                                 code = "",
-                                beschreibung = "",
-                                datenType = 0,
-                                art = 0,
-                                laenge = 0,
-                                dezimalStellen = 0,
-                                valueIsEmpty = false,
-                                auspVon = 0.0f,
-                                auspBis = 0.0f,
-                                schritt = 0.0f,
-                                stand = ""
-                            ) to listOf(
-                                GlobaleAusprPosOut(
-                                    sachmerkmalCode = "",
-                                    auspraegung = "",
-                                    beschreibung = "",
-                                    numVal = 0.0f
-                                )
+                                expression = "Renner_2_Bl.10",
+                                description = "",
+                            ),
+                            GlobalExpression(
+                                code = "",
+                                expression = "Renner_Schr.2 Bl.10",
+                                description = "",
+                            ),
+                            GlobalExpression(
+                                code = "",
+                                expression = "Renner_Schr.1 Bl.10",
+                                description = "",
                             )
+                        )
+                    )
+                ),
+                decisions = listOf(
+                    DecisionIn(
+                        decisionBlock = listOf(
+                            DecisionBlock(
+                                code = "",
+                                attributeCode = "",
+                                numberValuePair = 14f to 17f
                             )
+                        ), oldPartNumber = "995611094"
+                    )
                 ),
-                classDecision = listOf(
-                    KlassenEntscheidungOut(
-                        klassenart = 0,
-                        klassencode = "",
-                        smLfd = 0,
-                        art = 0,
-                        zeilenNum = 0,
-                        entDefCode = ""
-                    ) to (EntscheidungstabellenOut(
+                children = listOf(
+                    ClassInput(
                         code = "",
-                        beschreibung = "",
-                        referenzArt = 0,
-                        bedingungssetCode = "",
-                        akteionssetCode = "",
-                        art = 0,
-                        nPlauAusprAusb = false,
-                        verwendung = 0
-                    ) to EntscheidungsmatrixOut(
-                        code = "",
-                        bedingungswerte = listOf(),
-                        rang = 0,
-                        aktionen = listOf(),
-                        numBedingVal = listOf()
-                    ))
-                ),
-                classRelationShip = listOf(
-                    KlasseIn(
-                        classMeta = KlasseOut(
-                            klassenart = 0,
-                            code = "",
-                            beschreibung = "",
-                            suchbegriff = "",
-                            status = 0,
-                            aenderung = false
-                        ), classAttributs = listOf(), classDecision = listOf(), classRelationShip = listOf()
-                    ) to FertStuecklistenzeileOut(
-                        stueckNum = "",
-                        versCode = "",
-                        row = 0,
-                        art = 0,
-                        number = "",
-                        beschreibung = "",
-                        einheiten = "",
-                        quant = 0.0f
+                        description = "",
+                        attributes = listOf(),
+                        decisions = listOf(),
+                        children = listOf(),
                     )
                 )
             )
+            Then("Print Json") {
+                println(firstTest.toJsonString())
+            }
         }
     }
-}
-)
+})
