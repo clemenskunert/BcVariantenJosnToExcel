@@ -1,0 +1,321 @@
+{
+  "code": "696B8A0086",
+  "description": "Flügel Hebeglied Satz",
+  "attributes": [
+
+  ],
+  "children": [
+    {
+      "code": "B33162438C",
+      "description": "Flügel Hebeglied Feld",
+      "attributes": [
+        {
+          "code": "076B2E716B",
+          "description": "Anzahl Flügel Hebeglieder",
+          "standardValue": "88",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 100,
+          "step": 1
+        }
+      ],
+      "children": [
+        {
+          "code": "CE3FB81D80",
+          "description": "Flügel Hebeglied Baugruppe",
+          "attributes": [
+            {
+              "code": "147E174951",
+              "description": "Flügel Hebeglied Grundkörper",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "5A83476D51",
+                  "expression": "Steinway HH",
+                  "description": "Steinway HH",
+                  "partNumber": "922107065"
+                },
+                {
+                  "code": "0E1B3E51DB",
+                  "expression": "US-201",
+                  "description": "US-201",
+                  "partNumber": "922107065"
+                },
+                {
+                  "code": "2546483D7D",
+                  "expression": "US-OLD",
+                  "description": "US-OLD",
+                  "partNumber": "922107113"
+                },
+                {
+                  "code": "DF09C7360B",
+                  "expression": "US-OLD mit Nut",
+                  "description": "US-OLD mit Nut",
+                  "partNumber": "922107070"
+                },
+                {
+                  "code": "7516FD43AD",
+                  "expression": "US",
+                  "description": "US",
+                  "partNumber": "922107067"
+                },
+                {
+                  "code": "932D0C039A",
+                  "expression": "US mit Nut",
+                  "description": "US mit Nut",
+                  "partNumber": "922107073"
+                },
+                {
+                  "code": "3F2402AA74",
+                  "expression": "Grau Grau Blau",
+                  "description": "Grau Grau Blau",
+                  "partNumber": "922107105"
+                },
+                {
+                  "code": "9371CE8244",
+                  "expression": "Grau Grau Blau mit Nut",
+                  "description": "Grau Grau Blau mit Nut",
+                  "partNumber": "922107078"
+                },
+                {
+                  "code": "85949CF9B4",
+                  "expression": "Rot Rot",
+                  "description": "Rot Rot",
+                  "partNumber": "922107108"
+                },
+                {
+                  "code": "5BFDF1E206",
+                  "expression": "Rot Rot mit Nut",
+                  "description": "Rot Rot mit Nut",
+                  "partNumber": "922107071"
+                },
+                {
+                  "code": "2885DADB94",
+                  "expression": "Grau Grau",
+                  "description": "Grau Grau",
+                  "partNumber": "922107106"
+                },
+                {
+                  "code": "2885DADB94",
+                  "expression": "Grau Grau mit Nut",
+                  "description": "Grau Grau",
+                  "partNumber": "922107079",
+                },
+                {
+                  "code": "05261FFFAD",
+                  "expression": "Grau Grau verkürzt",
+                  "description": "Grau Grau verkürzt",
+                  "partNumber": "922107118"
+                },
+                {
+                  "code": "6A0FD5C181",
+                  "expression": "Grau Grau Gelb",
+                  "description": "Grau Grau Gelb",
+                  "partNumber": "922107110"
+                },
+                {
+                  "code": "7DB9BAFCDE",
+                  "expression": "Gra Grau Gelb mit Nut",
+                  "description": "Gra Grau Gelb",
+                  "partNumber": "922107072"
+                },
+                {
+                  "code": "167588620F",
+                  "expression": "Grau Grün",
+                  "description": "Grau Grün",
+                  "partNumber": "922107111"
+                },
+                {
+                  "code": "8B0E7800BD",
+                  "expression": "Grau Grün mit Nut",
+                  "description": "Grau Grün mit Nut",
+                  "partNumber": "922107090"
+                },
+                {
+                  "code": "BD8B802C8D",
+                  "expression": "Universal",
+                  "description": "Universal",
+                  "partNumber": "922107069"
+                },
+                {
+                  "code": "589F6E3531",
+                  "expression": "Rot Rot Blau",
+                  "description": "Rot Rot Blau",
+                  "partNumber": "922107109"
+                },
+                {
+                  "code": "6EC1E0DE89",
+                  "expression": "Rot Rot Blau mit Nut",
+                  "description": "Rot Rot Blau mit Nut",
+                  "partNumber": "922107091"
+                },
+                {
+                  "code": "E1D91E3279",
+                  "expression": "Rot",
+                  "description": "Rot",
+                  "partNumber": "922107096"
+                },
+                {
+                  "code": "99CC543CEA",
+                  "expression": "Rot mit Nut",
+                  "description": "Rot mit Nut",
+                  "partNumber": "922107082"
+                },
+                {
+                  "code": "4BD4E5438F",
+                  "expression": "Rot Grün",
+                  "description": "Rot Grün",
+                  "partNumber": "922107112"
+                },
+                {
+                  "code": "EBFA0A316D",
+                  "expression": "Rot Grün mit Nut",
+                  "description": "Rot Grün mit Nut",
+                  "partNumber": "922107092"
+                },
+                {
+                  "code": "5B6E7E335E",
+                  "expression": "Grau Grau Grün",
+                  "description": "Grau Grau Grün",
+                  "partNumber": "922107107"
+                },
+                {
+                  "code": "D40CCE490C",
+                  "expression": "Grau Grau Grün mit Nut",
+                  "description": "Grau Grau Grün mit Nut",
+                  "partNumber": "922107076"
+                },
+                {
+                  "code": "FD9DCAA5F7",
+                  "expression": "Grau Blau mit Nut",
+                  "description": "Grau Blau mit Nut",
+                  "partNumber": "922107081"
+                },
+                {
+                  "code": "B9570EF48E",
+                  "expression": "Grau Gelb",
+                  "description": "Grau Gelb",
+                  "partNumber": "922107104"
+                },
+                {
+                  "code": "4D09953B93",
+                  "expression": "Grau Gelb mit Nut",
+                  "description": "Grau Gelb mit Nut",
+                  "partNumber": "922107089"
+                },
+                {
+                  "code": "CAEDC624AF",
+                  "expression": "Grün",
+                  "description": "Grün",
+                  "partNumber": "922107101"
+                },
+                {
+                  "code": "338541D5D4",
+                  "expression": "Grün Grün",
+                  "description": "Grün Grün",
+                  "partNumber": "922107114"
+                },
+                {
+                  "code": "42B4A04687",
+                  "expression": "FNN ohne Sattel",
+                  "description": "FNN ohne Sattel",
+                  "partNumber": "922107115"
+                },
+                {
+                  "code": "051CAD615A",
+                  "expression": "Grau",
+                  "description": "Grau",
+                  "partNumber": "922107097"
+                },
+                {
+                  "code": "4B8163E423",
+                  "expression": "Braun",
+                  "description": "Braun",
+                  "partNumber": "922107100"
+                },
+                {
+                  "code": "1A2B11E0AD",
+                  "expression": "Rot Grau",
+                  "description": "Rot Grau",
+                  "partNumber": "922107102"
+                }
+              ]
+            },
+            {
+              "code": "AE680FEBE7",
+              "description": "Flügel Hebeglied Kapsel",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "548AD6BA68",
+                  "expression": "Renner",
+                  "description": "Renner",
+                  "partNumber": "922107037"
+                },
+                {
+                  "code": "1B6B90B022",
+                  "expression": "Renner mit Schnur",
+                  "description": "Renner mit Schnur",
+                  "partNumber": "922107005"
+                },
+                {
+                  "code": "2A5289986C",
+                  "expression": "Steinway",
+                  "description": "Steinway",
+                  "partNumber": "922107005"
+                },
+                {
+                  "code": "002F27E506",
+                  "expression": "MH",
+                  "description": "MH",
+                  "partNumber": "802107006"
+                },
+                {
+                  "code": "31917677A6",
+                  "expression": "802107020",
+                  "description": "802107020",
+                  "partNumber": "Ford"
+                },
+                {
+                  "code": "348BEDB24C",
+                  "expression": "Falcone",
+                  "description": "Falcone",
+                  "partNumber": "802107008"
+                },
+                {
+                  "code": "DEA1204D01",
+                  "expression": "Renner Kurz",
+                  "description": "Renner Kurz",
+                  "partNumber": "922107003"
+                },
+                {
+                  "code": "58C287A78F",
+                  "expression": "Renner Kurz mit Schnur",
+                  "description": "Renner Kurz mit Schnur",
+                  "partNumber": "922107004"
+                },
+                {
+                  "code": "24C1177285",
+                  "expression": "Fazioli T-2",
+                  "description": "Fazioli T-2",
+                  "partNumber": "922107021"
+                }
+              ]
+            }
+          ],
+          "children": [
+          ]
+        }
+      ]
+    }
+  ]
+}

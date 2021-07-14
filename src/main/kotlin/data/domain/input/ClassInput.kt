@@ -4,7 +4,6 @@ data class ClassInput(
     val code: String,
     val description: String,
     val attributes: List<AttributeInput>,
-    val decisions: List<DecisionIn>,
     val children: List<ClassInput>,
 )
 
@@ -22,18 +21,13 @@ data class AttributeInput(
     val expressions: List<GlobalExpression>? = null
 )
 
-data class DecisionBlock(
-    val code: String,
-    val attributeCode: String,
-    val globalExpressionCode: String? = null,
-    val numberValuePair: Pair<Float, Float?>? = null
-)
-
 data class GlobalExpression(
     val code: String,
     val expression: String,
     val description: String,
-    val numberValue: Float? = 0f
+    val numberStart: Float? = 0f,
+    val numberEnd: Float? = 0f,
+    val partNumber: String? = "",
 )
 
 data class DecisionIn(
