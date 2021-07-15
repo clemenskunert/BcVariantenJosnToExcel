@@ -375,7 +375,86 @@
               "rangeEnd": 1.0,
               "step": 0.05,
               "expression": [
-
+                {
+                  "code": "B1FEF09B41",
+                  "expression": "0,75 mm",
+                  "description": "0,75 mm",
+                  "partNumber": "925652528",
+                  "numberStart": 0.75,
+                  "numberEnd": 0.75
+                },
+                {
+                  "code": "82E98A3D8F",
+                  "expression": "0,80 mm",
+                  "description": "0,80 mm",
+                  "partNumber": "925654529",
+                  "numberStart": 0.8,
+                  "numberEnd": 0.8
+                },
+                {
+                  "code": "AA9546530E",
+                  "expression": "0,85 mm",
+                  "description": "0,85 mm",
+                  "partNumber": "925652530",
+                  "numberStart": 0.85,
+                  "numberEnd": 0.85
+                },
+                {
+                  "code": "DF0C94DA90",
+                  "expression": "0,90 mm",
+                  "description": "0,90 mm",
+                  "partNumber": "925654531",
+                  "numberStart": 0.9,
+                  "numberEnd": 0.9
+                },
+                {
+                  "code": "680788B710",
+                  "expression": "0,95 mm",
+                  "description": "0,95 mm",
+                  "partNumber": "925654532",
+                  "numberStart": 0.95,
+                  "numberEnd": 0.95
+                },
+                {
+                  "code": "AA27890B3D",
+                  "expression": "1,0 mm",
+                  "description": "1,0 mm",
+                  "partNumber": "925654533",
+                  "numberStart": 1.0,
+                  "numberEnd": 1.0
+                },
+                {
+                  "code": "0C9765BF47",
+                  "expression": "0,85 mm Stellbar",
+                  "description": "0,85 mm Stellbar",
+                  "partNumber": "925654534",
+                  "numberStart": 0.85,
+                  "numberEnd": 0.85
+                },
+                {
+                  "code": "DF0C94DA90",
+                  "expression": "0,90 mm",
+                  "description": "0,90 mm",
+                  "partNumber": "925654535",
+                  "numberStart": 0.9,
+                  "numberEnd": 0.9
+                },
+                {
+                  "code": "680788B710",
+                  "expression": "0,95 mm",
+                  "description": "0,95 mm",
+                  "partNumber": "925654536",
+                  "numberStart": 0.95,
+                  "numberEnd": 0.95
+                },
+                {
+                  "code": "82E98A3D8F",
+                  "expression": "0,80 mm",
+                  "description": "0,80 mm",
+                  "partNumber": "925654",
+                  "numberStart": ,
+                  "numberEnd": 
+                }
               ]
             }
           ],
