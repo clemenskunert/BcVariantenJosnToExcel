@@ -20,14 +20,6 @@ data class KlasseOut(
     val aenderung: Boolean = false
 )
 
-data class KlasseIn(
-    val classMeta: KlasseOut,
-    val classAttributs: List<Pair<KlassensachmerkmalOut, Pair<SachmerkmaleOut, List<GlobaleAusprPosOut>>>>,
-    val classDecision: List<Pair<KlassenEntscheidungOut, Pair<EntscheidungstabellenOut, EntscheidungsmatrixOut>>>,
-    val classRelationShip: List<Pair<KlasseIn, FertStuecklistenzeileOut>>
-)
-
-
 /*
 Klassensachmerkmal 5022709
  */
@@ -147,7 +139,7 @@ data class KlassenEntscheidungOut(
 
 /*
 Entscheidungsmatrix 5022798
- */ 
+ */
 data class EntscheidungsmatrixOut(
     @SerializedName("Code")
     val code: String,
