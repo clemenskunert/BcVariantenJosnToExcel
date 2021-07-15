@@ -1,4 +1,4 @@
-package com.renner.actionnumbersave.framework.data.domain.output
+package com.renner.actionnumbersave.framework.data.output
 
 import com.google.gson.annotations.SerializedName
 

@@ -1,6 +1,4 @@
-package data.input
-
-import com.renner.actionnumbersave.framework.data.domain.input.AttributeInput
+package com.renner.actionnumbersave.framework.data.input
 
 data class ClassInput(
     val code: String,

@@ -43,7 +43,7 @@
                   "code": "D7B295D387",
                   "expression": "14 bis 17 mm",
                   "description": "14 bis 17 mm",
-                  "partNumber": "995611094",
+                  "partNumber": ["995611094"],
                   "numberStart": 14,
                   "numberEnd": 17
                 },
@@ -51,7 +51,7 @@
                   "code": "D9B6F2F8C9",
                   "expression": "19 bis 22 mm",
                   "description": "19 bis 22 mm",
-                  "partNumber": "995611096",
+                  "partNumber": ["995611096"],
                   "numberStart": 19,
                   "numberEnd": 22
                 },
@@ -59,7 +59,7 @@
                   "code": "022C19F4A7",
                   "expression": "23 bis 25 mm",
                   "description": "23 bis 25 mm",
-                  "partNumber": "995611097",
+                  "partNumber": ["995611097"],
                   "numberStart": 23,
                   "numberEnd": 25
                 },
@@ -67,7 +67,7 @@
                   "code": "8C8B5DC56C",
                   "expression": "25 bis 29 mm",
                   "description": "25 bis 29 mm",
-                  "partNumber": "995611098",
+                  "partNumber": ["995611098"],
                   "numberStart": 25,
                   "numberEnd": 29
                 }
@@ -105,133 +105,133 @@
                   "code": "24D99681BD",
                   "expression": "Renner_2_Bl10",
                   "description": "Renner_2_Bl10",
-                  "partNumber": "924623198"
+                  "partNumber": ["924623198"]
                 },
                 {
                   "code": "F2034FFB66",
                   "expression": "Renner_1_Bl10",
                   "description": "Renner_1_Bl10",
-                  "partNumber": "924623197"
+                  "partNumber": ["924623197"]
                 },
                 {
                   "code": "EC6883FD44",
                   "expression": "Renner_1_Bl8",
                   "description": "Renner_1_Bl8",
-                  "partNumber": "924623196"
+                  "partNumber": ["924623196"]
                 },
                 {
                   "code": "D37966F86C",
                   "expression": "Renner_oBlei",
                   "description": "Renner_oBlei",
-                  "partNumber": "924623195"
+                  "partNumber": ["924623195"]
                 },
                 {
                   "code": "7A57646886",
                   "expression": "Renner Scheibe 2Bl10",
                   "description": "Renner Scheibe 2Bl10",
-                  "partNumber": "924623211"
+                  "partNumber": ["924623211"]
                 },
                 {
                   "code": "1EB6EA2534",
                   "expression": "Renner Scheibe 1Bl10",
                   "description": "Renner Scheibe 1Bl10",
-                  "partNumber": "924623210"
+                  "partNumber": ["924623210"]
                 },
                 {
                   "code": "C81748A835",
                   "expression": "Renner Scheibe 1Bl8",
                   "description": "Renner Scheibe 1Bl8",
-                  "partNumber": "924623209"
+                  "partNumber": ["924623209"]
                 },
                 {
                   "code": "0832EB47AA",
                   "expression": "Renner Scheibe ohne",
                   "description": "Renner Scheibe ohne",
-                  "partNumber": "924623208"
+                  "partNumber": ["924623208"]
                 },
                 {
                   "code": "F8EA715672",
                   "expression": "Bösendorfer 1Bl. 10,1",
                   "description": "Bösendorfer 1Bl. 10,1",
-                  "partNumber": "924623181"
+                  "partNumber": ["924623181"]
                 },
                 {
                   "code": "B5423F4714",
                   "expression": "Steinway 3",
                   "description": "Steinway 3",
-                  "partNumber": "924623206"
+                  "partNumber": ["924623206"]
                 },
                 {
                   "code": "729F4B1F93",
                   "expression": "Steinway 2",
                   "description": "Steinway 2",
-                  "partNumber": "924623205"
+                  "partNumber": ["924623205"]
                 },
                 {
                   "code": "7B6168ABAA",
                   "expression": "Steinway 1",
                   "description": "Steinway 1",
-                  "partNumber": "924623204"
+                  "partNumber": ["924623204"]
                 },
                 {
                   "code": "287474C10E",
                   "expression": "Steinway ohne",
                   "description": "Steinway ohne",
-                  "partNumber": "924623203"
+                  "partNumber": ["924623203"]
                 },
                 {
                   "code": "9F53CFF423",
                   "expression": "US Pilote 3",
                   "description": "US Pilote 3",
-                  "partNumber": "924623215"
+                  "partNumber": ["924623215"]
                 },
                 {
                   "code": "19536057A6",
                   "expression": "US Pilote 2",
                   "description": "US Pilote 2",
-                  "partNumber": "924623214"
+                  "partNumber": ["924623214"]
                 },
                 {
                   "code": "23277D14BB",
                   "expression": "US Pilote 1",
                   "description": "US Pilote 1",
-                  "partNumber": "924623213"
+                  "partNumber": ["924623213"]
                 },
                 {
                   "code": "C06794672F",
                   "expression": "US Pilote ohne",
                   "description": "US Pilote ohne",
-                  "partNumber": "924623212"
+                  "partNumber": ["924623212"]
                 },
                 {
                   "code": "9798E8C93C",
                   "expression": "US Federlauf 3",
                   "description": "US Federlauf",
-                  "partNumber": "924623190"
+                  "partNumber": ["924623190"]
                 },
                 {
                   "code": "8BCEE0C7F1",
                   "expression": "US Federlauf 2",
                   "description": "US Federlauf 2",
-                  "partNumber": "924623189"
+                  "partNumber": ["924623189"]
                 },
                 {
                   "code": "90BBE9DD48",
                   "expression": "US Federlauf 1",
                   "description": "US Federlauf 1",
-                  "partNumber": "924623188"
+                  "partNumber": ["924623188"]
                 },
                 {
                   "code": "112FF5252C",
                   "expression": "US Federlauf ohne",
                   "description": "US Federlauf ohne",
-                  "partNumber": "924623187"
+                  "partNumber": ["924623187"]
                 },
                 {
                   "code": "DDAC03C97D",
                   "expression": "Kolberg",
                   "description": "Kolberg",
-                  "partNumber": "924623216"
+                  "partNumber": ["924623216"]
                 }
               ]
             },
@@ -279,19 +279,19 @@
                   "code": "548AD6BA68",
                   "expression": "Renner",
                   "description": "Renner",
-                  "partNumber": "923122001"
+                  "partNumber": ["923122001"]
                 },
                 {
                   "code": "FE27961217",
                   "expression": "Steinway Hamburg",
                   "description": "Steinway Hamburg",
-                  "partNumber": "923122002"
+                  "partNumber": ["923122002"]
                 },
                 {
                   "code": "7516FD43AD",
                   "expression": "US",
                   "description": "US",
-                  "partNumber": "923122003"
+                  "partNumber": ["923122003"]
                 }
               ]
             }
@@ -313,21 +313,21 @@
                       "code": "548AD6BA68",
                       "expression": "Renner",
                       "description": "Renner",
-                      "partNumber": "923122014"
+                      "partNumber": ["923122014"]
                       
                     },
                     {
                       "code": "2A5289986C",
                       "expression": "Steinway",
                       "description": "Steinway",
-                      "partNumber": "923122016"
+                      "partNumber": ["923122016"]
                       
                     },
                     {
                       "code": "FE02659D49",
                       "expression": "ohne Tonhaltung",
                       "description": "ohne Tonhaltung",
-                      "partNumber": "923122010"
+                      "partNumber": ["923122010"]
                     }
                   ]
                 },
@@ -343,13 +343,13 @@
                       "code": "E1D91E3279",
                       "expression": "Rot",
                       "description": "Rot",
-                      "partNumber": "924659691"
+                      "partNumber": ["924659691"]
                     },
                     {
                       "code": "CAEDC624AF",
                       "expression": "Grün",
                       "description": "Grün",
-                      "partNumber": "924659692"
+                      "partNumber": ["924659692"]
                       
                     }
                   ]
@@ -380,7 +380,7 @@
                   "code": "D7B295D387",
                   "expression": "14 bis 17 mm",
                   "description": "14 bis 17 mm",
-                  "partNumber": "995611094",
+                  "partNumber": ["995611094"],
                   "numberStart": 14,
                   "numberEnd": 17
                 },
@@ -388,7 +388,7 @@
                   "code": "D9B6F2F8C9",
                   "expression": "19 bis 22 mm",
                   "description": "19 bis 22 mm",
-                  "partNumber": "995611096",
+                  "partNumber": ["995611096"],
                   "numberStart": 19,
                   "numberEnd": 22
                 },
@@ -396,7 +396,7 @@
                   "code": "022C19F4A7",
                   "expression": "23 bis 25 mm",
                   "description": "23 bis 25 mm",
-                  "partNumber": "995611097",
+                  "partNumber": ["995611097"],
                   "numberStart": 23,
                   "numberEnd": 25
                 },
@@ -404,7 +404,7 @@
                   "code": "8C8B5DC56C",
                   "expression": "25 bis 29 mm",
                   "description": "25 bis 29 mm",
-                  "partNumber": "995611098",
+                  "partNumber": ["995611098"],
                   "numberStart": 25,
                   "numberEnd": 29
                 }
@@ -442,133 +442,133 @@
                   "code": "24D99681BD",
                   "expression": "Renner_2_Bl10",
                   "description": "Renner_2_Bl10",
-                  "partNumber": "924623198"
+                  "partNumber": ["924623198"]
                 },
                 {
                   "code": "F2034FFB66",
                   "expression": "Renner_1_Bl10",
                   "description": "Renner_1_Bl10",
-                  "partNumber": "924623197"
+                  "partNumber": ["924623197"]
                 },
                 {
                   "code": "EC6883FD44",
                   "expression": "Renner_1_Bl8",
                   "description": "Renner_1_Bl8",
-                  "partNumber": "924623196"
+                  "partNumber": ["924623196"]
                 },
                 {
                   "code": "D37966F86C",
                   "expression": "Renner_oBlei",
                   "description": "Renner_oBlei",
-                  "partNumber": "924623195"
+                  "partNumber": ["924623195"]
                 },
                 {
                   "code": "7A57646886",
                   "expression": "Renner Scheibe 2Bl10",
                   "description": "Renner Scheibe 2Bl10",
-                  "partNumber": "924623211"
+                  "partNumber": ["924623211"]
                 },
                 {
                   "code": "1EB6EA2534",
                   "expression": "Renner Scheibe 1Bl10",
                   "description": "Renner Scheibe 1Bl10",
-                  "partNumber": "924623210"
+                  "partNumber": ["924623210"]
                 },
                 {
                   "code": "C81748A835",
                   "expression": "Renner Scheibe 1Bl8",
                   "description": "Renner Scheibe 1Bl8",
-                  "partNumber": "924623209"
+                  "partNumber": ["924623209"]
                 },
                 {
                   "code": "0832EB47AA",
                   "expression": "Renner Scheibe ohne",
                   "description": "Renner Scheibe ohne",
-                  "partNumber": "924623208"
+                  "partNumber": ["924623208"]
                 },
                 {
                   "code": "F8EA715672",
                   "expression": "Bösendorfer 1Bl. 10,1",
                   "description": "Bösendorfer 1Bl. 10,1",
-                  "partNumber": "924623181"
+                  "partNumber": ["924623181"]
                 },
                 {
                   "code": "B5423F4714",
                   "expression": "Steinway 3",
                   "description": "Steinway 3",
-                  "partNumber": "924623206"
+                  "partNumber": ["924623206"]
                 },
                 {
                   "code": "729F4B1F93",
                   "expression": "Steinway 2",
                   "description": "Steinway 2",
-                  "partNumber": "924623205"
+                  "partNumber": ["924623205"]
                 },
                 {
                   "code": "7B6168ABAA",
                   "expression": "Steinway 1",
                   "description": "Steinway 1",
-                  "partNumber": "924623204"
+                  "partNumber": ["924623204"]
                 },
                 {
                   "code": "287474C10E",
                   "expression": "Steinway ohne",
                   "description": "Steinway ohne",
-                  "partNumber": "924623203"
+                  "partNumber": ["924623203"]
                 },
                 {
                   "code": "9F53CFF423",
                   "expression": "US Pilote 3",
                   "description": "US Pilote 3",
-                  "partNumber": "924623215"
+                  "partNumber": ["924623215"]
                 },
                 {
                   "code": "19536057A6",
                   "expression": "US Pilote 2",
                   "description": "US Pilote 2",
-                  "partNumber": "924623214"
+                  "partNumber": ["924623214"]
                 },
                 {
                   "code": "23277D14BB",
                   "expression": "US Pilote 1",
                   "description": "US Pilote 1",
-                  "partNumber": "924623213"
+                  "partNumber": ["924623213"]
                 },
                 {
                   "code": "C06794672F",
                   "expression": "US Pilote ohne",
                   "description": "US Pilote ohne",
-                  "partNumber": "924623212"
+                  "partNumber": ["924623212"]
                 },
                 {
                   "code": "9798E8C93C",
                   "expression": "US Federlauf 3",
                   "description": "US Federlauf",
-                  "partNumber": "924623190"
+                  "partNumber": ["924623190"]
                 },
                 {
                   "code": "8BCEE0C7F1",
                   "expression": "US Federlauf 2",
                   "description": "US Federlauf 2",
-                  "partNumber": "924623189"
+                  "partNumber": ["924623189"]
                 },
                 {
                   "code": "90BBE9DD48",
                   "expression": "US Federlauf 1",
                   "description": "US Federlauf 1",
-                  "partNumber": "924623188"
+                  "partNumber": ["924623188"]
                 },
                 {
                   "code": "112FF5252C",
                   "expression": "US Federlauf ohne",
                   "description": "US Federlauf ohne",
-                  "partNumber": "924623187"
+                  "partNumber": ["924623187"]
                 },
                 {
                   "code": "DDAC03C97D",
                   "expression": "Kolberg",
                   "description": "Kolberg",
-                  "partNumber": "924623216"
+                  "partNumber": ["924623216"]
                 }
               ]
             },
@@ -616,19 +616,19 @@
                   "code": "548AD6BA68",
                   "expression": "Renner",
                   "description": "Renner",
-                  "partNumber": "923122001"
+                  "partNumber": ["923122001"]
                 },
                 {
                   "code": "FE27961217",
                   "expression": "Steinway Hamburg",
                   "description": "Steinway Hamburg",
-                  "partNumber": "923122002"
+                  "partNumber": ["923122002"]
                 },
                 {
                   "code": "7516FD43AD",
                   "expression": "US",
                   "description": "US",
-                  "partNumber": "923122003"
+                  "partNumber": ["923122003"]
                 }
               ]
             }
@@ -650,21 +650,21 @@
                       "code": "548AD6BA68",
                       "expression": "Renner",
                       "description": "Renner",
-                      "partNumber": "923122014"
+                      "partNumber": ["923122014"]
 
                     },
                     {
                       "code": "2A5289986C",
                       "expression": "Steinway",
                       "description": "Steinway",
-                      "partNumber": "923122016"
+                      "partNumber": ["923122016"]
 
                     },
                     {
                       "code": "FE02659D49",
                       "expression": "ohne Tonhaltung",
                       "description": "ohne Tonhaltung",
-                      "partNumber": "923122010"
+                      "partNumber": ["923122010"]
                     }
                   ]
                 },
@@ -680,13 +680,13 @@
                       "code": "E1D91E3279",
                       "expression": "Rot",
                       "description": "Rot",
-                      "partNumber": "924659691"
+                      "partNumber": ["924659691"]
                     },
                     {
                       "code": "CAEDC624AF",
                       "expression": "Grün",
                       "description": "Grün",
-                      "partNumber": "924659692"
+                      "partNumber": ["924659692"]
 
                     }
                   ]
