@@ -41,55 +41,73 @@
           "code": "FD62964A27",
           "expression": "901 A1",
           "description": "901 A1",
-          "partNumber": "927850183"
+          "partNumber": [
+            "927850183"
+          ]
         },
         {
           "code": "7640465EAA",
           "expression": "901 h1",
           "description": "901 h1",
-          "partNumber": "927850184"
+          "partNumber": [
+            "927850184"
+          ]
         },
         {
           "code": "49FF439A07",
           "expression": "901 h2",
           "description": "901 h2",
-          "partNumber": "927850185"
+          "partNumber": [
+            "927850185"
+          ]
         },
         {
           "code": "E8609ABF19",
           "expression": "902 A1",
           "description": "902 A1",
-          "partNumber": "927850186"
+          "partNumber": [
+            "927850186"
+          ]
         },
         {
           "code": "8137B613B8",
           "expression": "902h1",
           "description": "902h1",
-          "partNumber": "927850187"
+          "partNumber": [
+            "927850187"
+          ]
         },
         {
           "code": "32A7CB9A0E",
           "expression": "902 h2",
           "description": "902 h2",
-          "partNumber": "927850188"
+          "partNumber": [
+            "927850188"
+          ]
         },
         {
           "code": "BD3A352474",
           "expression": "902 h3",
           "description": "902 h3",
-          "partNumber": "927850195"
+          "partNumber": [
+            "927850195"
+          ]
         },
         {
           "code": "5025693527",
           "expression": "901 A1 Sauter",
           "description": "901 A1 Sauter",
-          "partNumber": "924671789"
+          "partNumber": [
+            "924671789"
+          ]
         },
         {
           "code": "AA13B93F94",
           "expression": "902 A1 Schimmel",
           "description": "902 A1 Schimmel",
-          "partNumber": "924671802"
+          "partNumber": [
+            "924671802"
+          ]
         }
       ]
     },
@@ -107,14 +125,12 @@
         {
           "code": "JANEIN",
           "expression": "JA",
-          "description": "Ja / Nein",
-          "numberValue": 0.0
+          "description": "Ja / Nein"
         },
         {
           "code": "JANEIN",
           "expression": "NEIN",
-          "description": "Ja / Nein",
-          "numberValue": 0.0
+          "description": "Ja / Nein"
         }
       ]
     },

@@ -14,51 +14,70 @@
           "code": "BEFDA91DDE",
           "expression": "WB-Hoch-977",
           "description": "WB-Hoch-977",
-          "partNumber": "924626265"
+          "partNumber": [
+            "924626265"
+          ]
         },
         {
           "code": "53A8916D57",
           "expression": "WB-Hoch-978",
           "description": "WB-Hoch-978",
-          "partNumber": "924626266"
+          "partNumber": [
+            "924626266"
+          ]
         },
         {
           "code": "F170345807",
           "expression": "WB-Hoch-981",
           "description": "WB-Hoch-981",
-          "partNumber": "924626267"
+          "partNumber": [
+            "924626267"
+          ]
         },
         {
           "code": "817020A8B7",
           "expression": "AH-Hoch-3",
           "description": "AH-Hoch-3",
-          "partNumber": "924626268"
+          "partNumber": [
+            "924626268"
+          ]
         },
         {
           "code": "BAE1C84391",
           "expression": "AH-Hoch-4",
           "description": "AH-Hoch-4",
-          "partNumber": "924626269"
+          "partNumber": [
+            "924626269"
+          ]
         },
         {
           "code": "AE56EA67D0",
           "expression": "WB-MATT-977",
           "description": "WB-MATT-977",
-          "partNumber": "924626291"
+          "partNumber": [
+            "924626291"
+          ]
         },
         {
           "code": "09AA3CAF8D",
           "expression": "WB-MATT-978",
           "description": "WB-MATT-978",
-          "partNumber": "924626292"
+          "partNumber": [
+            "924626292"
+          ]
         },
         {
           "code": "4AD6369836",
           "expression": "WB-MATT-981",
           "description": "WB-MATT-981",
-          "partNumber": "924626293"
+          "partNumber": [
+            "924626293"
+          ]
         }
-      ],
+      ]
+    }
+  ],
+  "children": [
     {
       "code": "58C013F25E",
       "description": "DämpferPüschel-Feld",
@@ -77,36 +96,33 @@
         }
       ],
       "children": [
-      ],
-    {
-      "code": "2817D4C9AD",
-      "description": "Dämpferpüschel",
-      "attributes": [
         {
-          "code": "5908468939",
-          "description": "Aufschittbreite",
-          "standardValue": "10",
-          "art": 0,
-          "dataType": 0,
-          "nullAble": 0,
-          "decimal": 1,
-          "rangeStart": 9.0,
-          "rangeEnd": 11.5,
-          "step": 0,1
-        },
-        {
-          "code": "D41D8CD98F",
-          "expression": "",
-          "description": "",
-          "partNumber": ""
+          "code": "2817D4C9AD",
+          "description": "Dämpferpüschel",
+          "attributes": [
+            {
+              "code": "5908468939",
+              "description": "Aufschittbreite",
+              "standardValue": "10",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 1,
+              "rangeStart": 9.0,
+              "rangeEnd": 11.5,
+              "step": 0
+            },
+            {
+              "code": "D41D8CD98F",
+              "expression": "",
+              "description": "",
+              "partNumber": ""
+            }
+          ],
+          "children": [
+          ]
         }
-      ],
-      "children": [
       ]
     }
-    }
-    }
-  ],
-  "children": [
   ]
 }
