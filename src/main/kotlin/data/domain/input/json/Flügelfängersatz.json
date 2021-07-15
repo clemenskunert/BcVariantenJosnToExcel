@@ -1,0 +1,164 @@
+@startjson
+{
+  "code": "F75967C5D8",
+  "description": "Flügelfängersatz",
+  "attributes": [
+    {
+      "code": "526FB36556",
+      "description": "Anzahl Fänger",
+      "standardValue": "90",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 80,
+      "rangeEnd": 100,
+      "step": 1
+    },
+    {
+      "code": "489253A5F9",
+      "description": "Eingedrehte Länge",
+      "standardValue": "85",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 75,
+      "rangeEnd": 100,
+      "step": 1
+    },
+    {
+      "code": "945EA09CB6",
+      "description": "Flügel-Fängerdraht",
+      "standardValue": "2,9mm x 75mm",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "F79F1087DE",
+          "expression": "2,5 x 70 mm",
+          "description": "2,5 x 70 mm",
+          "partNumber": "925615090"
+        },
+        {
+          "code": "E60D978818",
+          "expression": "2,5 x 75 mm",
+          "description": "2,5 x 75 mm",
+          "partNumber": "925615091"
+        },
+        {
+          "code": "C4B4CF8A0E",
+          "expression": "2,5 x 80 mm",
+          "description": "2,5 x 80 mm",
+          "partNumber": "925615092"
+        },
+        {
+          "code": "E7249159F2",
+          "expression": "2,5 x 85 mm",
+          "description": "2,5 x 85 mm",
+          "partNumber": "925615093"
+        },
+        {
+          "code": "8987ABB75B",
+          "expression": "2,5 x 90 mm",
+          "description": "2,5 x 90 mm",
+          "partNumber": "925615094"
+        },
+        {
+          "code": "F2A1E83F40",
+          "expression": "2,9 x 65 mm",
+          "description": "2,9 x 65 mm",
+          "partNumber": "995039570"
+        },
+        {
+          "code": "D805B970C7",
+          "expression": "2,9 x 70 mm",
+          "description": "2,9 x 70 mm",
+          "partNumber": "925615095"
+        },
+        {
+          "code": "F806F04AC8",
+          "expression": "2,9 x 75 mm",
+          "description": "2,9 x 75 mm",
+          "partNumber": "025615096"
+        },
+        {
+          "code": "B9B3DE6E28",
+          "expression": "2,9 x 80 mm",
+          "description": "2,9 x 80 mm",
+          "partNumber": "925615097"
+        }
+      ]
+    },
+    {
+      "code": "A4A36306FA",
+      "description": "FilzStreifen geschärft",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "A3EA27F6B4",
+      "description": "hat Draht",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "5C2D61253F",
+      "description": "art Unterfilz",
+      "standardValue": "1015-35",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "36D9078AA1",
+          "expression": "1015-35 18x400mm Standard",
+          "description": "1015-35 18x400mm Standard",
+          "partNumber": "924615076"
+        },
+        {
+          "code": "C4E63FADE2",
+          "expression": "1015-45 18x400mm geschärft",
+          "description": "1015-45 18x400mm geschärft",
+          "partNumber": "924615076"
+        }
+      ]
+    }
+  ],
+  "children": [
+  ]
+}
+@endjson
