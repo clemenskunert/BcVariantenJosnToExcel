@@ -30,7 +30,3 @@ data class GlobalExpression(
     val partNumber: String? = "",
 )
 
-data class DecisionIn(
-    val decisionBlock: List<DecisionBlock>,
-    val oldPartNumber: String
-)
