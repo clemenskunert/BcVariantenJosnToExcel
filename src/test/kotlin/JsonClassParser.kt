@@ -1,5 +1,5 @@
 import com.renner.actionnumbersave.framework.toJsonString
-import data.domain.input.*
+import data.input.*
 import org.spekframework.spek2.Spek
 import org.spekframework.spek2.style.gherkin.Feature
 

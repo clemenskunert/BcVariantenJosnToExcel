@@ -1,4 +1,4 @@
-package data.domain.input
+package data.input
 
 import com.renner.actionnumbersave.framework.data.domain.input.AttributeInput
 
