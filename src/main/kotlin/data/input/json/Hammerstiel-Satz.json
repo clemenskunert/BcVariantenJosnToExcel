@@ -84,7 +84,7 @@
                     {
                       "number": "804620095",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -96,7 +96,7 @@
                     {
                       "number": "924620149",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -108,7 +108,7 @@
                     {
                       "number": "924620152",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -120,7 +120,7 @@
                     {
                       "number": "924620153",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -132,7 +132,7 @@
                     {
                       "number": "924620154",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -144,7 +144,7 @@
                     {
                       "number": "804620103",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -156,7 +156,7 @@
                     {
                       "number": "804620094",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -168,7 +168,7 @@
                     {
                       "number": "804620114",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -180,7 +180,7 @@
                     {
                       "number": "804620115",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -192,7 +192,7 @@
                     {
                       "number": "804620116",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -204,7 +204,7 @@
                     {
                       "number": "804620117",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -216,7 +216,7 @@
                     {
                       "number": "804620126",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -228,7 +228,7 @@
                     {
                       "number": "804620132",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -240,7 +240,7 @@
                     {
                       "number": "804620148",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -252,7 +252,7 @@
                     {
                       "number": "804620162",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -264,7 +264,7 @@
                     {
                       "number": "804620157",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -276,7 +276,7 @@
                     {
                       "number": "924620122",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -288,7 +288,7 @@
                     {
                       "number": "924620150",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -300,7 +300,7 @@
                     {
                       "number": "924620156",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -312,7 +312,7 @@
                     {
                       "number": "924620164",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -324,7 +324,7 @@
                     {
                       "number": "924620167",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -336,7 +336,7 @@
                     {
                       "number": "924620170",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -348,7 +348,7 @@
                     {
                       "number": "924620168",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -360,7 +360,7 @@
                     {
                       "number": "924620155",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 }
@@ -382,7 +382,7 @@
                     {
                       "number": "923149014",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -394,7 +394,7 @@
                     {
                       "number": "923149009",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -406,7 +406,7 @@
                     {
                       "number": "923149015",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -418,7 +418,7 @@
                     {
                       "number": "923149010",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -430,7 +430,7 @@
                     {
                       "number": "923149032",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -442,7 +442,7 @@
                     {
                       "number": "923149011",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -454,7 +454,7 @@
                     {
                       "number": "803149027",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -466,7 +466,7 @@
                     {
                       "number": "803149028",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -478,7 +478,7 @@
                     {
                       "number": "803149029",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -490,7 +490,7 @@
                     {
                       "number": "803149022",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -502,7 +502,7 @@
                     {
                       "number": "803149024",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -514,7 +514,7 @@
                     {
                       "number": "803149023",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -526,7 +526,7 @@
                     {
                       "number": "923149016",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -538,7 +538,7 @@
                     {
                       "number": "923149017",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -550,7 +550,7 @@
                     {
                       "number": "923149035",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -562,7 +562,7 @@
                     {
                       "number": "923149036",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -574,7 +574,7 @@
                     {
                       "number": "923149037",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -586,7 +586,7 @@
                     {
                       "number": "923149018",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -598,7 +598,7 @@
                     {
                       "number": "923149019",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -610,7 +610,7 @@
                     {
                       "number": "923149012",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 },
@@ -622,7 +622,7 @@
                     {
                       "number": "923149013",
                       "quantity": "1",
-                      "unit": "STÜCK"
+                      "unit": 8
                     }
                   ]
                 }

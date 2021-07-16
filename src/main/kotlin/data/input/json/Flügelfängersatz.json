@@ -43,7 +43,7 @@
             {
               "number": "925615090",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -55,7 +55,7 @@
             {
               "number": "925615091",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -66,7 +66,7 @@
           "parts": {
             "number": "925615092",
             "quantity": "1",
-            "unit": "STÜCK"
+            "unit": 8
           }
         },
         {
@@ -77,7 +77,7 @@
             {
               "number": "925615093",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -89,7 +89,7 @@
             {
               "number": "925615094",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -101,7 +101,7 @@
             {
               "number": "995039570",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -113,7 +113,7 @@
             {
               "number": "925615095",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -125,7 +125,7 @@
             {
               "number": "025615096",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -137,7 +137,7 @@
             {
               "number": "925615097",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         }
@@ -199,7 +199,7 @@
             {
               "number": "924615076",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         },
@@ -211,7 +211,7 @@
             {
               "number": "924615076",
               "quantity": "1",
-              "unit": "STÜCK"
+              "unit": 8
             }
           ]
         }

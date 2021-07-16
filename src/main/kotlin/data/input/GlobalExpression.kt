@@ -41,5 +41,11 @@ data class GlobalExpression(
 data class Part(
     val number: String,
     val quantity: Float,
-    val unit: String
-)
+    val unit: Unit
+) {
+    constructor(number: String, quantity: Float, unit: Int) : this(
+        number = number,
+        quantity = quantity,
+        unit = Unit.values()[unit]
+    )
+}
