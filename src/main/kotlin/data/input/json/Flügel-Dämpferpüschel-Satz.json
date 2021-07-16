@@ -1,0 +1,167 @@
+{
+  "code": "3469E82DB5",
+  "description": "Dämpferpücheösatz 090",
+  "attributes": [
+    {
+      "code": "1A7A24F97F",
+      "description": "Stabform",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "BEFDA91DDE",
+          "expression": "WB-Hoch-977",
+          "description": "WB-Hoch-977",
+          "parts": [
+            {
+              "number": "924626265",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "53A8916D57",
+          "expression": "WB-Hoch-978",
+          "description": "WB-Hoch-978",
+          "parts": [
+            {
+              "number": "924626266",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "F170345807",
+          "expression": "WB-Hoch-981",
+          "description": "WB-Hoch-981",
+          "parts": [
+            {
+              "number": "924626267",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "817020A8B7",
+          "expression": "AH-Hoch-3",
+          "description": "AH-Hoch-3",
+          "parts": [
+            {
+              "number": "924626268",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "BAE1C84391",
+          "expression": "AH-Hoch-4",
+          "description": "AH-Hoch-4",
+          "parts": [
+            {
+              "number": "924626269",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "AE56EA67D0",
+          "expression": "WB-MATT-977",
+          "description": "WB-MATT-977",
+          "parts": [
+            {
+              "number": "924626291",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "09AA3CAF8D",
+          "expression": "WB-MATT-978",
+          "description": "WB-MATT-978",
+          "parts": [
+            {
+              "number": "924626292",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "4AD6369836",
+          "expression": "WB-MATT-981",
+          "description": "WB-MATT-981",
+          "parts": [
+            {
+              "number": "924626293",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "children": [
+    {
+      "code": "58C013F25E",
+      "description": "DämpferPüschel-Feld",
+      "attributes": [
+        {
+          "code": "D18D25ADE1",
+          "description": "Anzahl Felder",
+          "standardValue": "4",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 4,
+          "step": 1
+        }
+      ],
+      "children": [
+        {
+          "code": "2817D4C9AD",
+          "description": "Dämpferpüschel",
+          "attributes": [
+            {
+              "code": "5908468939",
+              "description": "Aufschittbreite",
+              "standardValue": "10",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 1,
+              "rangeStart": 9.0,
+              "rangeEnd": 11.5,
+              "step": 0
+            },
+            // TODO part expression empty
+            {
+              "code": "D41D8CD98F",
+              "expression": "",
+              "description": "",
+              "parts": [
+                {
+                  "number": "",
+                  "quantity": "1",
+                  "unit": "STÜCK"
+                }
+              ]
+            }
+          ],
+          "children": [
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "code": "613111774F",
+  "description": "Flügel Dämpferarm Satz",
+  "attributes": [
+  ],
+  "children": [
+    {
+      "code": "19075DFA26",
+      "description": "Flügel Dämpferarm Feld",
+      "attributes": [
+        {
+          "code": "18FB8C693A",
+          "description": "Anzahl Flügel Dämpferarme",
+          "standardValue": "71",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 80,
+          "step": 1
+        }
+      ],
+      "children": [
+        {
+          "code": "8832ACC927",
+          "description": "Flügel Dämpferarm Baugruppe US",
+          "attributes": [
+            {
+              "code": "0AAFF2E9C9",
+              "description": "Löffelüberstand",
+              "standardValue": "19",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 15,
+              "rangeEnd": 30,
+              "step": 1,
+              "expressions": [
+                {
+                  "code": "D7B295D387",
+                  "expression": "14 bis 17 mm",
+                  "description": "14 bis 17 mm",
+                  "parts": [
+                    {
+                      "number": "995611094",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 14,
+                  "numberEnd": 17
+                },
+                {
+                  "code": "D9B6F2F8C9",
+                  "expression": "19 bis 22 mm",
+                  "description": "19 bis 22 mm",
+                  "parts": [
+                    {
+                      "number": "995611096",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 19,
+                  "numberEnd": 22
+                },
+                {
+                  "code": "022C19F4A7",
+                  "expression": "23 bis 25 mm",
+                  "description": "23 bis 25 mm",
+                  "parts": [
+                    {
+                      "number": "995611097",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 23,
+                  "numberEnd": 25
+                },
+                {
+                  "code": "8C8B5DC56C",
+                  "expression": "25 bis 29 mm",
+                  "description": "25 bis 29 mm",
+                  "parts": [
+                    {
+                      "number": "995611098",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 25,
+                  "numberEnd": 29
+                }
+              ]
+            },
+            {
+              "code": "7074E7A037",
+              "description": "Dämpferarm Ausgebleit",
+              "standardValue": "1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            },
+            {
+              "code": "A112632DA8",
+              "description": "Flügel Dämpferarm Sorte",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "24D99681BD",
+                  "expression": "Renner_2_Bl10",
+                  "description": "Renner_2_Bl10",
+                  "parts": [
+                    {
+                      "number": "924623198",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "F2034FFB66",
+                  "expression": "Renner_1_Bl10",
+                  "description": "Renner_1_Bl10",
+                  "parts": [
+                    {
+                      "number": "924623197",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "EC6883FD44",
+                  "expression": "Renner_1_Bl8",
+                  "description": "Renner_1_Bl8",
+                  "parts": [
+                    {
+                      "number": "924623196",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "D37966F86C",
+                  "expression": "Renner_oBlei",
+                  "description": "Renner_oBlei",
+                  "parts": [
+                    {
+                      "number": "924623195",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7A57646886",
+                  "expression": "Renner Scheibe 2Bl10",
+                  "description": "Renner Scheibe 2Bl10",
+                  "parts": [
+                    {
+                      "number": "924623211",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "1EB6EA2534",
+                  "expression": "Renner Scheibe 1Bl10",
+                  "description": "Renner Scheibe 1Bl10",
+                  "parts": [
+                    {
+                      "number": "924623210",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "C81748A835",
+                  "expression": "Renner Scheibe 1Bl8",
+                  "description": "Renner Scheibe 1Bl8",
+                  "parts": [
+                    {
+                      "number": "924623209",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "0832EB47AA",
+                  "expression": "Renner Scheibe ohne",
+                  "description": "Renner Scheibe ohne",
+                  "parts": [
+                    {
+                      "number": "924623208",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "F8EA715672",
+                  "expression": "Bösendorfer 1Bl. 10,1",
+                  "description": "Bösendorfer 1Bl. 10,1",
+                  "parts": [
+                    {
+                      "number": "924623181",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "B5423F4714",
+                  "expression": "Steinway 3",
+                  "description": "Steinway 3",
+                  "parts": [
+                    {
+                      "number": "924623206",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "729F4B1F93",
+                  "expression": "Steinway 2",
+                  "description": "Steinway 2",
+                  "parts": [
+                    {
+                      "number": "924623205",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7B6168ABAA",
+                  "expression": "Steinway 1",
+                  "description": "Steinway 1",
+                  "parts": [
+                    {
+                      "number": "924623204",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "287474C10E",
+                  "expression": "Steinway ohne",
+                  "description": "Steinway ohne",
+                  "parts": [
+                    {
+                      "number": "924623203",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "9F53CFF423",
+                  "expression": "US Pilote 3",
+                  "description": "US Pilote 3",
+                  "parts": [
+                    {
+                      "number": "924623215",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "19536057A6",
+                  "expression": "US Pilote 2",
+                  "description": "US Pilote 2",
+                  "parts": [
+                    {
+                      "number": "924623214",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "23277D14BB",
+                  "expression": "US Pilote 1",
+                  "description": "US Pilote 1",
+                  "parts": [
+                    {
+                      "number": "924623213",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "C06794672F",
+                  "expression": "US Pilote ohne",
+                  "description": "US Pilote ohne",
+                  "parts": [
+                    {
+                      "number": "924623212",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "9798E8C93C",
+                  "expression": "US Federlauf 3",
+                  "description": "US Federlauf",
+                  "parts": [
+                    {
+                      "number": "924623190",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "8BCEE0C7F1",
+                  "expression": "US Federlauf 2",
+                  "description": "US Federlauf 2",
+                  "parts": [
+                    {
+                      "number": "924623189",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "90BBE9DD48",
+                  "expression": "US Federlauf 1",
+                  "description": "US Federlauf 1",
+                  "parts": [
+                    {
+                      "number": "924623188",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "112FF5252C",
+                  "expression": "US Federlauf ohne",
+                  "description": "US Federlauf ohne",
+                  "parts": [
+                    {
+                      "number": "924623187",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "DDAC03C97D",
+                  "expression": "Kolberg",
+                  "description": "Kolberg",
+                  "parts": [
+                    {
+                      "number": "924623216",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "BF24E65A8E",
+              "description": "Dämpferarm Pilote vorhanden",
+              "standardValue": "0",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            },
+            {
+              "code": "D04B0C3AA9",
+              "description": "Dämpferarm Piloten Eindrehhöhe",
+              "standardValue": "14",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 11,
+              "rangeEnd": 15,
+              "step": 1
+            },
+            {
+              "code": "4B263CCF47",
+              "description": "Flügel Dämpferarm Kapsel",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "548AD6BA68",
+                  "expression": "Renner",
+                  "description": "Renner",
+                  "parts": [
+                    {
+                      "number": "923122001",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "FE27961217",
+                  "expression": "Steinway Hamburg",
+                  "description": "Steinway Hamburg",
+                  "parts": [
+                    {
+                      "number": "923122002",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7516FD43AD",
+                  "expression": "US",
+                  "description": "US",
+                  "parts": [
+                    {
+                      "number": "923122003",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "children": [
+            {
+              "code": "4D5FC63373",
+              "description": "Flügel Dämpfer Klotz Baugruppe",
+              "attributes": [
+                {
+                  "code": "F23E135632",
+                  "description": "Flügel Klotz Sorte",
+                  "standardValue": "",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "548AD6BA68",
+                      "expression": "Renner",
+                      "description": "Renner",
+                      "parts": [
+                        {
+                          "number": "923122014",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "2A5289986C",
+                      "expression": "Steinway",
+                      "description": "Steinway",
+                      "parts": [
+                        {
+                          "number": "923122016",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "FE02659D49",
+                      "expression": "ohne Tonhaltung",
+                      "description": "ohne Tonhaltung",
+                      "parts": [
+                        {
+                          "number": "923122010",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "740BB920F9",
+                  "description": "Tonhalte Zungen Filz Farbe",
+                  "standardValue": "Rot",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "E1D91E3279",
+                      "expression": "Rot",
+                      "description": "Rot",
+                      "parts": [
+                        {
+                          "number": "924659691",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "CAEDC624AF",
+                      "expression": "Grün",
+                      "description": "Grün",
+                      "parts": [
+                        {
+                          "number": "924659692",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "children": [
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4515493DD5",
+          "description": "Flügel Dämpferarm Baugruppe",
+          "attributes": [
+            {
+              "code": "0AAFF2E9C9",
+              "description": "Löffelüberstand",
+              "standardValue": "19",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 15,
+              "rangeEnd": 30,
+              "step": 1,
+              "expressions": [
+                {
+                  "code": "D7B295D387",
+                  "expression": "14 bis 17 mm",
+                  "description": "14 bis 17 mm",
+                  "parts": [
+                    {
+                      "number": "995611094",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 14,
+                  "numberEnd": 17
+                },
+                {
+                  "code": "D9B6F2F8C9",
+                  "expression": "19 bis 22 mm",
+                  "description": "19 bis 22 mm",
+                  "parts": [
+                    {
+                      "number": "995611096",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 19,
+                  "numberEnd": 22
+                },
+                {
+                  "code": "022C19F4A7",
+                  "expression": "23 bis 25 mm",
+                  "description": "23 bis 25 mm",
+                  "parts": [
+                    {
+                      "number": "995611097",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 23,
+                  "numberEnd": 25
+                },
+                {
+                  "code": "8C8B5DC56C",
+                  "expression": "25 bis 29 mm",
+                  "description": "25 bis 29 mm",
+                  "parts": [
+                    {
+                      "number": "995611098",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 25,
+                  "numberEnd": 29
+                }
+              ]
+            },
+            {
+              "code": "7074E7A037",
+              "description": "Dämpferarm Ausgebleit",
+              "standardValue": "1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            },
+            {
+              "code": "A112632DA8",
+              "description": "Flügel Dämpferarm Sorte",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "24D99681BD",
+                  "expression": "Renner_2_Bl10",
+                  "description": "Renner_2_Bl10",
+                  "parts": [
+                    {
+                      "number": "924623198",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "F2034FFB66",
+                  "expression": "Renner_1_Bl10",
+                  "description": "Renner_1_Bl10",
+                  "parts": [
+                    {
+                      "number": "924623197",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "EC6883FD44",
+                  "expression": "Renner_1_Bl8",
+                  "description": "Renner_1_Bl8",
+                  "parts": [
+                    {
+                      "number": "924623196",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "D37966F86C",
+                  "expression": "Renner_oBlei",
+                  "description": "Renner_oBlei",
+                  "parts": [
+                    {
+                      "number": "924623195",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7A57646886",
+                  "expression": "Renner Scheibe 2Bl10",
+                  "description": "Renner Scheibe 2Bl10",
+                  "parts": [
+                    {
+                      "number": "924623211",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "1EB6EA2534",
+                  "expression": "Renner Scheibe 1Bl10",
+                  "description": "Renner Scheibe 1Bl10",
+                  "parts": [
+                    {
+                      "number": "924623210",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "C81748A835",
+                  "expression": "Renner Scheibe 1Bl8",
+                  "description": "Renner Scheibe 1Bl8",
+                  "parts": [
+                    "924623209"
+                  ]
+                },
+                {
+                  "code": "0832EB47AA",
+                  "expression": "Renner Scheibe ohne",
+                  "description": "Renner Scheibe ohne",
+                  "parts": [
+                    {
+                      "number": "924623208",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "F8EA715672",
+                  "expression": "Bösendorfer 1Bl. 10,1",
+                  "description": "Bösendorfer 1Bl. 10,1",
+                  "parts": [
+                    {
+                      "number": "924623181",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "B5423F4714",
+                  "expression": "Steinway 3",
+                  "description": "Steinway 3",
+                  "parts": [
+                    {
+                      "number": "924623206",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "729F4B1F93",
+                  "expression": "Steinway 2",
+                  "description": "Steinway 2",
+                  "parts": [
+                    {
+                      "number": "924623205",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7B6168ABAA",
+                  "expression": "Steinway 1",
+                  "description": "Steinway 1",
+                  "parts": [
+                    {
+                      "number": "924623204",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "287474C10E",
+                  "expression": "Steinway ohne",
+                  "description": "Steinway ohne",
+                  "parts": [
+                    {
+                      "number": "924623203",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "9F53CFF423",
+                  "expression": "US Pilote 3",
+                  "description": "US Pilote 3",
+                  "parts": [
+                    {
+                      "number": "924623215",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "19536057A6",
+                  "expression": "US Pilote 2",
+                  "description": "US Pilote 2",
+                  "parts": [
+                    {
+                      "number": "924623214",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "23277D14BB",
+                  "expression": "US Pilote 1",
+                  "description": "US Pilote 1",
+                  "parts": [
+                    {
+                      "number": "924623213",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "C06794672F",
+                  "expression": "US Pilote ohne",
+                  "description": "US Pilote ohne",
+                  "parts": [
+                    {
+                      "number": "924623212",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "9798E8C93C",
+                  "expression": "US Federlauf 3",
+                  "description": "US Federlauf",
+                  "parts": [
+                    {
+                      "number": "924623190",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "8BCEE0C7F1",
+                  "expression": "US Federlauf 2",
+                  "description": "US Federlauf 2",
+                  "parts": [
+                    {
+                      "number": "924623189",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "90BBE9DD48",
+                  "expression": "US Federlauf 1",
+                  "description": "US Federlauf 1",
+                  "parts": [
+                    {
+                      "number": "924623188",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "112FF5252C",
+                  "expression": "US Federlauf ohne",
+                  "description": "US Federlauf ohne",
+                  "parts": [
+                    {
+                      "number": "924623187",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "DDAC03C97D",
+                  "expression": "Kolberg",
+                  "description": "Kolberg",
+                  "parts": [
+                    {
+                      "number": "924623216",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "BF24E65A8E",
+              "description": "Dämpferarm Pilote vorhanden",
+              "standardValue": "0",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            },
+            {
+              "code": "D04B0C3AA9",
+              "description": "Dämpferarm Piloten Eindrehhöhe",
+              "standardValue": "14",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 11,
+              "rangeEnd": 15,
+              "step": 1
+            },
+            {
+              "code": "4B263CCF47",
+              "description": "Flügel Dämpferarm Kapsel",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "548AD6BA68",
+                  "expression": "Renner",
+                  "description": "Renner",
+                  "parts": [
+                    {
+                      "number": "923122001",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "FE27961217",
+                  "expression": "Steinway Hamburg",
+                  "description": "Steinway Hamburg",
+                  "parts": [
+                    {
+                      "number": "923122002",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7516FD43AD",
+                  "expression": "US",
+                  "description": "US",
+                  "parts": [
+                    {
+                      "number": "923122003",
+                      "quantity": 1,
+                      "unit": "STÜCK"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "children": [
+            {
+              "code": "4D5FC63373",
+              "description": "Flügel Dämpfer Klotz Baugruppe",
+              "attributes": [
+                {
+                  "code": "F23E135632",
+                  "description": "Flügel Klotz Sorte",
+                  "standardValue": "",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "548AD6BA68",
+                      "expression": "Renner",
+                      "description": "Renner",
+                      "parts": [
+                        {
+                          "number": "923122014",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "2A5289986C",
+                      "expression": "Steinway",
+                      "description": "Steinway",
+                      "parts": [
+                        {
+                          "number": "923122016",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "FE02659D49",
+                      "expression": "ohne Tonhaltung",
+                      "description": "ohne Tonhaltung",
+                      "parts": [
+                        {
+                          "number": "923122010",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "740BB920F9",
+                  "description": "Tonhalte Zungen Filz Farbe",
+                  "standardValue": "Rot",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "E1D91E3279",
+                      "expression": "Rot",
+                      "description": "Rot",
+                      "parts": [
+                        {
+                          "number": "924659691",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "CAEDC624AF",
+                      "expression": "Grün",
+                      "description": "Grün",
+                      "parts": [
+                        {
+                          "number": "924659692",
+                          "quantity": 1,
+                          "unit": "STÜCK"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "children": [
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

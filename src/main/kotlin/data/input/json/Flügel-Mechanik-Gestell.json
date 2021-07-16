@@ -1,0 +1,189 @@
+@startjson
+
+{
+  "code": "D41D8CD98F",
+  "description": "Flügel Mechanik Gestell",
+  "__comment": "Achtung in Bearbeitung",
+  "attributes": [
+    {
+      "code": "DA473234AA",
+      "description": "Felder",
+      "standardValue": "4",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 5,
+      "step": 1
+    },
+    {
+      "code": "E919E84FB8",
+      "description": "Befestigungsschrauben",
+      "standardValue": "2",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 2,
+      "rangeEnd": 3,
+      "step": 1
+    },
+    {
+      "code": "1DD26F1F17",
+      "description": "Backenstorte",
+      "standardValue": "901 A1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FD62964A27",
+          "expression": "901 A1",
+          "description": "901 A1",
+          "parts": [
+            {
+              "number": "927850183",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "7640465EAA",
+          "expression": "901 h1",
+          "description": "901 h1",
+          "parts": [
+            {
+              "number": "927850184",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "49FF439A07",
+          "expression": "901 h2",
+          "description": "901 h2",
+          "parts": [
+            {
+              "number": "927850185",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "E8609ABF19",
+          "expression": "902 A1",
+          "description": "902 A1",
+          "parts": [
+            {
+              "number": "927850186",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "8137B613B8",
+          "expression": "902h1",
+          "description": "902h1",
+          "parts": [
+            {
+              "number": "927850187",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "32A7CB9A0E",
+          "expression": "902 h2",
+          "description": "902 h2",
+          "parts": [
+            {
+              "number": "927850188",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "BD3A352474",
+          "expression": "902 h3",
+          "description": "902 h3",
+          "parts": [
+            {
+              "number": "927850195",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "5025693527",
+          "expression": "901 A1 Sauter",
+          "description": "901 A1 Sauter",
+          "parts": [
+            {
+              "number": "924671789",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        },
+        {
+          "code": "AA13B93F94",
+          "expression": "902 A1 Schimmel",
+          "description": "902 A1 Schimmel",
+          "parts": [
+            {
+              "number": "924671802",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "__comment": "Bassende, BassSpreize, MittelSpreize, DiskantSpreize 1, DiskantSreize 2, DiskantEnde"
+    },
+    {
+      "code": "C0C9454A46",
+      "description": "monierte Auslösepuppenleisten",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein"
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein"
+        }
+      ]
+    },
+    {
+      "code": "B739A89768",
+      "description": "Anzahl Töne",
+      "standardValue": "88",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 97,
+      "step": 1
+    }
+  ],
+  "children": [
+  ]
+}
+@endjson

@@ -1,0 +1,832 @@
+{
+  "code": "696B8A0086",
+  "description": "Flügel Hebeglied Satz",
+  "attributes": [
+  ],
+  "children": [
+    {
+      "code": "B33162438C",
+      "description": "Flügel Hebeglied Feld",
+      "attributes": [
+        {
+          "code": "076B2E716B",
+          "description": "Anzahl Flügel Hebeglieder",
+          "standardValue": "88",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 100,
+          "step": 1
+        }
+      ],
+      "children": [
+        {
+          "code": "CE3FB81D80",
+          "description": "Flügel Hebeglied Baugruppe",
+          "attributes": [
+            {
+              "code": "147E174951",
+              "description": "Flügel Hebeglied Grundkörper",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "5A83476D51",
+                  "expression": "Steinway HH",
+                  "description": "Steinway HH",
+                  "parts": [
+                    {
+                      "number": "922107065",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "0E1B3E51DB",
+                  "expression": "US-201",
+                  "description": "US-201",
+                  "parts": [
+                    {
+                      "number": "922107065",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "2546483D7D",
+                  "expression": "US-OLD",
+                  "description": "US-OLD",
+                  "parts": [
+                    {
+                      "number": "922107113",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "DF09C7360B",
+                  "expression": "US-OLD mit Nut",
+                  "description": "US-OLD mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107070",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7516FD43AD",
+                  "expression": "US",
+                  "description": "US",
+                  "parts": [
+                    {
+                      "number": "922107067",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "932D0C039A",
+                  "expression": "US mit Nut",
+                  "description": "US mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107073",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "3F2402AA74",
+                  "expression": "Grau Grau Blau",
+                  "description": "Grau Grau Blau",
+                  "parts": [
+                    {
+                      "number": "922107105",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "9371CE8244",
+                  "expression": "Grau Grau Blau mit Nut",
+                  "description": "Grau Grau Blau mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107078",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "85949CF9B4",
+                  "expression": "Rot Rot",
+                  "description": "Rot Rot",
+                  "parts": [
+                    {
+                      "number": "922107108",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "5BFDF1E206",
+                  "expression": "Rot Rot mit Nut",
+                  "description": "Rot Rot mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107071",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "2885DADB94",
+                  "expression": "Grau Grau",
+                  "description": "Grau Grau",
+                  "parts": [
+                    {
+                      "number": "922107106",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "2885DADB94",
+                  "expression": "Grau Grau mit Nut",
+                  "description": "Grau Grau",
+                  "parts": [
+                    {
+                      "number": "922107079",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "05261FFFAD",
+                  "expression": "Grau Grau verkürzt",
+                  "description": "Grau Grau verkürzt",
+                  "parts": [
+                    {
+                      "number": "922107118",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "6A0FD5C181",
+                  "expression": "Grau Grau Gelb",
+                  "description": "Grau Grau Gelb",
+                  "parts": [
+                    {
+                      "number": "922107110",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "7DB9BAFCDE",
+                  "expression": "Gra Grau Gelb mit Nut",
+                  "description": "Gra Grau Gelb",
+                  "parts": [
+                    {
+                      "number": "922107072",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "167588620F",
+                  "expression": "Grau Grün",
+                  "description": "Grau Grün",
+                  "parts": [
+                    {
+                      "number": "922107111",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "8B0E7800BD",
+                  "expression": "Grau Grün mit Nut",
+                  "description": "Grau Grün mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107090",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "BD8B802C8D",
+                  "expression": "Universal",
+                  "description": "Universal",
+                  "parts": [
+                    {
+                      "number": "922107069",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "589F6E3531",
+                  "expression": "Rot Rot Blau",
+                  "description": "Rot Rot Blau",
+                  "parts": [
+                    {
+                      "number": "922107109",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "6EC1E0DE89",
+                  "expression": "Rot Rot Blau mit Nut",
+                  "description": "Rot Rot Blau mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107091",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "E1D91E3279",
+                  "expression": "Rot",
+                  "description": "Rot",
+                  "parts": [
+                    {
+                      "number": "922107096",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "99CC543CEA",
+                  "expression": "Rot mit Nut",
+                  "description": "Rot mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107082",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "4BD4E5438F",
+                  "expression": "Rot Grün",
+                  "description": "Rot Grün",
+                  "parts": [
+                    {
+                      "number": "922107112",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "EBFA0A316D",
+                  "expression": "Rot Grün mit Nut",
+                  "description": "Rot Grün mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107092",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "5B6E7E335E",
+                  "expression": "Grau Grau Grün",
+                  "description": "Grau Grau Grün",
+                  "parts": [
+                    {
+                      "number": "922107107",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "D40CCE490C",
+                  "expression": "Grau Grau Grün mit Nut",
+                  "description": "Grau Grau Grün mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107076",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "FD9DCAA5F7",
+                  "expression": "Grau Blau mit Nut",
+                  "description": "Grau Blau mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107081",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "B9570EF48E",
+                  "expression": "Grau Gelb",
+                  "description": "Grau Gelb",
+                  "parts": [
+                    {
+                      "number": "922107104",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "4D09953B93",
+                  "expression": "Grau Gelb mit Nut",
+                  "description": "Grau Gelb mit Nut",
+                  "parts": [
+                    {
+                      "number": "922107089",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "CAEDC624AF",
+                  "expression": "Grün",
+                  "description": "Grün",
+                  "parts": [
+                    {
+                      "number": "922107101",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "338541D5D4",
+                  "expression": "Grün Grün",
+                  "description": "Grün Grün",
+                  "parts": [
+                    {
+                      "number": "922107114",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "42B4A04687",
+                  "expression": "FNN ohne Sattel",
+                  "description": "FNN ohne Sattel",
+                  "parts": [
+                    {
+                      "number": "922107115",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "051CAD615A",
+                  "expression": "Grau",
+                  "description": "Grau",
+                  "parts": [
+                    {
+                      "number": "922107097",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "4B8163E423",
+                  "expression": "Braun",
+                  "description": "Braun",
+                  "parts": [
+                    {
+                      "number": "922107100",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "1A2B11E0AD",
+                  "expression": "Rot Grau",
+                  "description": "Rot Grau",
+                  "parts": [
+                    {
+                      "number": "922107102",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "AE680FEBE7",
+              "description": "Flügel Hebeglied Kapsel",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "548AD6BA68",
+                  "expression": "Renner",
+                  "description": "Renner",
+                  "parts": [
+                    {
+                      "number": "922107037",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "1B6B90B022",
+                  "expression": "Renner mit Schnur",
+                  "description": "Renner mit Schnur",
+                  "parts": [
+                    {
+                      "number": "922107005",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "2A5289986C",
+                  "expression": "Steinway",
+                  "description": "Steinway",
+                  "parts": [
+                    {
+                      "number": "922107005",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "002F27E506",
+                  "expression": "MH",
+                  "description": "MH",
+                  "parts": [
+                    {
+                      "number": "802107006",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "31917677A6",
+                  "expression": "FORD",
+                  "description": "FORD",
+                  "parts": [
+                    {
+                      "number": "802107020",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "348BEDB24C",
+                  "expression": "Falcone",
+                  "description": "Falcone",
+                  "parts": [
+                    {
+                      "number": "802107008",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "DEA1204D01",
+                  "expression": "Renner Kurz",
+                  "description": "Renner Kurz",
+                  "parts": [
+                    {
+                      "number": "922107003",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "58C287A78F",
+                  "expression": "Renner Kurz mit Schnur",
+                  "description": "Renner Kurz mit Schnur",
+                  "parts": [
+                    {
+                      "number": "922107004",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "24C1177285",
+                  "expression": "Fazioli T-2",
+                  "description": "Fazioli T-2",
+                  "parts": [
+                    {
+                      "number": "922107021",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "E9D53D079E",
+              "description": "Flügel Hebeglied Repetierschenkel",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "2A5289986C",
+                  "expression": "Steinway",
+                  "description": "Steinway",
+                  "parts": [
+                    {
+                      "number": "922107026",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "CCD9D5AA48",
+                  "expression": "Fazioli 308/ 310",
+                  "description": "Fazioli 308/ 310",
+                  "parts": [
+                    {
+                      "number": "922107024",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "AD7AD50C91",
+                  "expression": "Renner 18mm",
+                  "description": "Renner 18mm",
+                  "parts": [
+                    {
+                      "number": "922107034",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "A1F25CA2B0",
+                  "expression": "Renner 20mm",
+                  "description": "Renner 20mm",
+                  "parts": [
+                    {
+                      "number": "922107031",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "31253D3561",
+                  "expression": "Renner mit Stellschraube 18mm",
+                  "description": "Renner mit Stellschraube 18mm",
+                  "parts": [
+                    {
+                      "number": "922107030",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "0F6F8C74FC",
+                  "expression": "Renner mit Stellschraube 20mm",
+                  "description": "Renner mit Stellschraube 20mm",
+                  "parts": [
+                    {
+                      "number": "922107033",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
+                {
+                  "code": "E2C2D5E0FF",
+                  "expression": "Steinway mit Stellschraube",
+                  "description": "Steinway mit Stellschraube",
+                  "parts": [
+                    {
+                      "number": "922107035",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "6955773B32",
+              "description": "Flügel Repetierfeder",
+              "standardValue": "0,95",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 2,
+              "rangeStart": 0.75,
+              "rangeEnd": 1.0,
+              "step": 0.05,
+              "expression": [
+                {
+                  "code": "B1FEF09B41",
+                  "expression": "0,75 mm",
+                  "description": "0,75 mm",
+                  "parts": [
+                    {
+                      "number": "925652528",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.75,
+                  "numberEnd": 0.75
+                },
+                {
+                  "code": "82E98A3D8F",
+                  "expression": "0,80 mm",
+                  "description": "0,80 mm",
+                  "parts": [
+                    {
+                      "number": "925654529",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.8,
+                  "numberEnd": 0.8
+                },
+                {
+                  "code": "AA9546530E",
+                  "expression": "0,85 mm",
+                  "description": "0,85 mm",
+                  "parts": [
+                    {
+                      "number": "925652530",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.85,
+                  "numberEnd": 0.85
+                },
+                {
+                  "code": "DF0C94DA90",
+                  "expression": "0,90 mm",
+                  "description": "0,90 mm",
+                  "parts": [
+                    {
+                      "number": "925654531",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.9,
+                  "numberEnd": 0.9
+                },
+                {
+                  "code": "680788B710",
+                  "expression": "0,95 mm",
+                  "description": "0,95 mm",
+                  "parts": [
+                    {
+                      "number": "925654532",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.95,
+                  "numberEnd": 0.95
+                },
+                {
+                  "code": "AA27890B3D",
+                  "expression": "1,0 mm",
+                  "description": "1,0 mm",
+                  "parts": [
+                    {
+                      "number": "925654533",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 1.0,
+                  "numberEnd": 1.0
+                },
+                {
+                  "code": "0C9765BF47",
+                  "expression": "0,85 mm Stellbar",
+                  "description": "0,85 mm Stellbar",
+                  "parts": [
+                    {
+                      "number": "925654534",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.85,
+                  "numberEnd": 0.85
+                },
+                {
+                  "code": "DF0C94DA90",
+                  "expression": "0,90 mm",
+                  "description": "0,90 mm",
+                  "parts": [
+                    {
+                      "number": "925654535",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.9,
+                  "numberEnd": 0.9
+                },
+                {
+                  "code": "680788B710",
+                  "expression": "0,95 mm",
+                  "description": "0,95 mm",
+                  "parts": [
+                    {
+                      "number": "925654536",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.95,
+                  "numberEnd": 0.95
+                },
+                {
+                  "code": "82E98A3D8F",
+                  "expression": "0,80 mm",
+                  "description": "0,80 mm",
+                  "parts": [
+                    {
+                      "number": "925654537",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ],
+                  "numberStart": 0.8,
+                  "numberEnd": 0.8
+                }
+              ]
+            }
+          ],
+          "children": [
+          ]
+        }
+      ]
+    }
+  ]
+}
