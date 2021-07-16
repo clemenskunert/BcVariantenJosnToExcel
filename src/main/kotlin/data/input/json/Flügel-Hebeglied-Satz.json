@@ -38,7 +38,7 @@
                   "code": "5A83476D51",
                   "expression": "Steinway HH",
                   "description": "Steinway HH",
-                  "partNumber": [
+                  "parts": [
                     "922107065"
                   ]
                 },
@@ -46,7 +46,7 @@
                   "code": "0E1B3E51DB",
                   "expression": "US-201",
                   "description": "US-201",
-                  "partNumber": [
+                  "parts": [
                     "922107065"
                   ]
                 },
@@ -54,7 +54,7 @@
                   "code": "2546483D7D",
                   "expression": "US-OLD",
                   "description": "US-OLD",
-                  "partNumber": [
+                  "parts": [
                     "922107113"
                   ]
                 },
@@ -62,7 +62,7 @@
                   "code": "DF09C7360B",
                   "expression": "US-OLD mit Nut",
                   "description": "US-OLD mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107070"
                   ]
                 },
@@ -70,7 +70,7 @@
                   "code": "7516FD43AD",
                   "expression": "US",
                   "description": "US",
-                  "partNumber": [
+                  "parts": [
                     "922107067"
                   ]
                 },
@@ -78,7 +78,7 @@
                   "code": "932D0C039A",
                   "expression": "US mit Nut",
                   "description": "US mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107073"
                   ]
                 },
@@ -86,7 +86,7 @@
                   "code": "3F2402AA74",
                   "expression": "Grau Grau Blau",
                   "description": "Grau Grau Blau",
-                  "partNumber": [
+                  "parts": [
                     "922107105"
                   ]
                 },
@@ -94,7 +94,7 @@
                   "code": "9371CE8244",
                   "expression": "Grau Grau Blau mit Nut",
                   "description": "Grau Grau Blau mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107078"
                   ]
                 },
@@ -102,7 +102,7 @@
                   "code": "85949CF9B4",
                   "expression": "Rot Rot",
                   "description": "Rot Rot",
-                  "partNumber": [
+                  "parts": [
                     "922107108"
                   ]
                 },
@@ -110,7 +110,7 @@
                   "code": "5BFDF1E206",
                   "expression": "Rot Rot mit Nut",
                   "description": "Rot Rot mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107071"
                   ]
                 },
@@ -118,7 +118,7 @@
                   "code": "2885DADB94",
                   "expression": "Grau Grau",
                   "description": "Grau Grau",
-                  "partNumber": [
+                  "parts": [
                     "922107106"
                   ]
                 },
@@ -126,7 +126,7 @@
                   "code": "2885DADB94",
                   "expression": "Grau Grau mit Nut",
                   "description": "Grau Grau",
-                  "partNumber": [
+                  "parts": [
                     "922107079"
                   ]
                 },
@@ -134,7 +134,7 @@
                   "code": "05261FFFAD",
                   "expression": "Grau Grau verkürzt",
                   "description": "Grau Grau verkürzt",
-                  "partNumber": [
+                  "parts": [
                     "922107118"
                   ]
                 },
@@ -142,7 +142,7 @@
                   "code": "6A0FD5C181",
                   "expression": "Grau Grau Gelb",
                   "description": "Grau Grau Gelb",
-                  "partNumber": [
+                  "parts": [
                     "922107110"
                   ]
                 },
@@ -150,7 +150,7 @@
                   "code": "7DB9BAFCDE",
                   "expression": "Gra Grau Gelb mit Nut",
                   "description": "Gra Grau Gelb",
-                  "partNumber": [
+                  "parts": [
                     "922107072"
                   ]
                 },
@@ -158,7 +158,7 @@
                   "code": "167588620F",
                   "expression": "Grau Grün",
                   "description": "Grau Grün",
-                  "partNumber": [
+                  "parts": [
                     "922107111"
                   ]
                 },
@@ -166,7 +166,7 @@
                   "code": "8B0E7800BD",
                   "expression": "Grau Grün mit Nut",
                   "description": "Grau Grün mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107090"
                   ]
                 },
@@ -174,7 +174,7 @@
                   "code": "BD8B802C8D",
                   "expression": "Universal",
                   "description": "Universal",
-                  "partNumber": [
+                  "parts": [
                     "922107069"
                   ]
                 },
@@ -182,7 +182,7 @@
                   "code": "589F6E3531",
                   "expression": "Rot Rot Blau",
                   "description": "Rot Rot Blau",
-                  "partNumber": [
+                  "parts": [
                     "922107109"
                   ]
                 },
@@ -190,7 +190,7 @@
                   "code": "6EC1E0DE89",
                   "expression": "Rot Rot Blau mit Nut",
                   "description": "Rot Rot Blau mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107091"
                   ]
                 },
@@ -198,7 +198,7 @@
                   "code": "E1D91E3279",
                   "expression": "Rot",
                   "description": "Rot",
-                  "partNumber": [
+                  "parts": [
                     "922107096"
                   ]
                 },
@@ -206,7 +206,7 @@
                   "code": "99CC543CEA",
                   "expression": "Rot mit Nut",
                   "description": "Rot mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107082"
                   ]
                 },
@@ -214,7 +214,7 @@
                   "code": "4BD4E5438F",
                   "expression": "Rot Grün",
                   "description": "Rot Grün",
-                  "partNumber": [
+                  "parts": [
                     "922107112"
                   ]
                 },
@@ -222,7 +222,7 @@
                   "code": "EBFA0A316D",
                   "expression": "Rot Grün mit Nut",
                   "description": "Rot Grün mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107092"
                   ]
                 },
@@ -230,7 +230,7 @@
                   "code": "5B6E7E335E",
                   "expression": "Grau Grau Grün",
                   "description": "Grau Grau Grün",
-                  "partNumber": [
+                  "parts": [
                     "922107107"
                   ]
                 },
@@ -238,7 +238,7 @@
                   "code": "D40CCE490C",
                   "expression": "Grau Grau Grün mit Nut",
                   "description": "Grau Grau Grün mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107076"
                   ]
                 },
@@ -246,7 +246,7 @@
                   "code": "FD9DCAA5F7",
                   "expression": "Grau Blau mit Nut",
                   "description": "Grau Blau mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107081"
                   ]
                 },
@@ -254,7 +254,7 @@
                   "code": "B9570EF48E",
                   "expression": "Grau Gelb",
                   "description": "Grau Gelb",
-                  "partNumber": [
+                  "parts": [
                     "922107104"
                   ]
                 },
@@ -262,7 +262,7 @@
                   "code": "4D09953B93",
                   "expression": "Grau Gelb mit Nut",
                   "description": "Grau Gelb mit Nut",
-                  "partNumber": [
+                  "parts": [
                     "922107089"
                   ]
                 },
@@ -270,7 +270,7 @@
                   "code": "CAEDC624AF",
                   "expression": "Grün",
                   "description": "Grün",
-                  "partNumber": [
+                  "parts": [
                     "922107101"
                   ]
                 },
@@ -278,7 +278,7 @@
                   "code": "338541D5D4",
                   "expression": "Grün Grün",
                   "description": "Grün Grün",
-                  "partNumber": [
+                  "parts": [
                     "922107114"
                   ]
                 },
@@ -286,7 +286,7 @@
                   "code": "42B4A04687",
                   "expression": "FNN ohne Sattel",
                   "description": "FNN ohne Sattel",
-                  "partNumber": [
+                  "parts": [
                     "922107115"
                   ]
                 },
@@ -294,7 +294,7 @@
                   "code": "051CAD615A",
                   "expression": "Grau",
                   "description": "Grau",
-                  "partNumber": [
+                  "parts": [
                     "922107097"
                   ]
                 },
@@ -302,7 +302,7 @@
                   "code": "4B8163E423",
                   "expression": "Braun",
                   "description": "Braun",
-                  "partNumber": [
+                  "parts": [
                     "922107100"
                   ]
                 },
@@ -310,7 +310,7 @@
                   "code": "1A2B11E0AD",
                   "expression": "Rot Grau",
                   "description": "Rot Grau",
-                  "partNumber": [
+                  "parts": [
                     "922107102"
                   ]
                 }
@@ -328,7 +328,7 @@
                   "code": "548AD6BA68",
                   "expression": "Renner",
                   "description": "Renner",
-                  "partNumber": [
+                  "parts": [
                     "922107037"
                   ]
                 },
@@ -336,7 +336,7 @@
                   "code": "1B6B90B022",
                   "expression": "Renner mit Schnur",
                   "description": "Renner mit Schnur",
-                  "partNumber": [
+                  "parts": [
                     "922107005"
                   ]
                 },
@@ -344,7 +344,7 @@
                   "code": "2A5289986C",
                   "expression": "Steinway",
                   "description": "Steinway",
-                  "partNumber": [
+                  "parts": [
                     "922107005"
                   ]
                 },
@@ -352,7 +352,7 @@
                   "code": "002F27E506",
                   "expression": "MH",
                   "description": "MH",
-                  "partNumber": [
+                  "parts": [
                     "802107006"
                   ]
                 },
@@ -360,7 +360,7 @@
                   "code": "31917677A6",
                   "expression": "FORD",
                   "description": "FORD",
-                  "partNumber": [
+                  "parts": [
                     "802107020"
                   ]
                 },
@@ -368,7 +368,7 @@
                   "code": "348BEDB24C",
                   "expression": "Falcone",
                   "description": "Falcone",
-                  "partNumber": [
+                  "parts": [
                     "802107008"
                   ]
                 },
@@ -376,7 +376,7 @@
                   "code": "DEA1204D01",
                   "expression": "Renner Kurz",
                   "description": "Renner Kurz",
-                  "partNumber": [
+                  "parts": [
                     "922107003"
                   ]
                 },
@@ -384,7 +384,7 @@
                   "code": "58C287A78F",
                   "expression": "Renner Kurz mit Schnur",
                   "description": "Renner Kurz mit Schnur",
-                  "partNumber": [
+                  "parts": [
                     "922107004"
                   ]
                 },
@@ -392,7 +392,7 @@
                   "code": "24C1177285",
                   "expression": "Fazioli T-2",
                   "description": "Fazioli T-2",
-                  "partNumber": [
+                  "parts": [
                     "922107021"
                   ]
                 }
@@ -410,7 +410,7 @@
                   "code": "2A5289986C",
                   "expression": "Steinway",
                   "description": "Steinway",
-                  "partNumber": [
+                  "parts": [
                     "922107026"
                   ]
                 },
@@ -418,7 +418,7 @@
                   "code": "CCD9D5AA48",
                   "expression": "Fazioli 308/ 310",
                   "description": "Fazioli 308/ 310",
-                  "partNumber": [
+                  "parts": [
                     "922107024"
                   ]
                 },
@@ -426,7 +426,7 @@
                   "code": "AD7AD50C91",
                   "expression": "Renner 18mm",
                   "description": "Renner 18mm",
-                  "partNumber": [
+                  "parts": [
                     "922107034"
                   ]
                 },
@@ -434,7 +434,7 @@
                   "code": "A1F25CA2B0",
                   "expression": "Renner 20mm",
                   "description": "Renner 20mm",
-                  "partNumber": [
+                  "parts": [
                     "922107031"
                   ]
                 },
@@ -442,7 +442,7 @@
                   "code": "31253D3561",
                   "expression": "Renner mit Stellschraube 18mm",
                   "description": "Renner mit Stellschraube 18mm",
-                  "partNumber": [
+                  "parts": [
                     "922107030"
                   ]
                 },
@@ -450,7 +450,7 @@
                   "code": "0F6F8C74FC",
                   "expression": "Renner mit Stellschraube 20mm",
                   "description": "Renner mit Stellschraube 20mm",
-                  "partNumber": [
+                  "parts": [
                     "922107033"
                   ]
                 },
@@ -458,7 +458,7 @@
                   "code": "E2C2D5E0FF",
                   "expression": "Steinway mit Stellschraube",
                   "description": "Steinway mit Stellschraube",
-                  "partNumber": [
+                  "parts": [
                     "922107035"
                   ]
                 }
@@ -480,7 +480,7 @@
                   "code": "B1FEF09B41",
                   "expression": "0,75 mm",
                   "description": "0,75 mm",
-                  "partNumber": [
+                  "parts": [
                     "925652528"
                   ],
                   "numberStart": 0.75,
@@ -490,7 +490,7 @@
                   "code": "82E98A3D8F",
                   "expression": "0,80 mm",
                   "description": "0,80 mm",
-                  "partNumber": [
+                  "parts": [
                     "925654529"
                   ],
                   "numberStart": 0.8,
@@ -500,7 +500,7 @@
                   "code": "AA9546530E",
                   "expression": "0,85 mm",
                   "description": "0,85 mm",
-                  "partNumber": [
+                  "parts": [
                     "925652530"
                   ],
                   "numberStart": 0.85,
@@ -510,7 +510,7 @@
                   "code": "DF0C94DA90",
                   "expression": "0,90 mm",
                   "description": "0,90 mm",
-                  "partNumber": [
+                  "parts": [
                     "925654531"
                   ],
                   "numberStart": 0.9,
@@ -520,7 +520,7 @@
                   "code": "680788B710",
                   "expression": "0,95 mm",
                   "description": "0,95 mm",
-                  "partNumber": [
+                  "parts": [
                     "925654532"
                   ],
                   "numberStart": 0.95,
@@ -530,7 +530,7 @@
                   "code": "AA27890B3D",
                   "expression": "1,0 mm",
                   "description": "1,0 mm",
-                  "partNumber": [
+                  "parts": [
                     "925654533"
                   ],
                   "numberStart": 1.0,
@@ -540,7 +540,7 @@
                   "code": "0C9765BF47",
                   "expression": "0,85 mm Stellbar",
                   "description": "0,85 mm Stellbar",
-                  "partNumber": [
+                  "parts": [
                     "925654534"
                   ],
                   "numberStart": 0.85,
@@ -550,7 +550,7 @@
                   "code": "DF0C94DA90",
                   "expression": "0,90 mm",
                   "description": "0,90 mm",
-                  "partNumber": [
+                  "parts": [
                     "925654535"
                   ],
                   "numberStart": 0.9,
@@ -560,7 +560,7 @@
                   "code": "680788B710",
                   "expression": "0,95 mm",
                   "description": "0,95 mm",
-                  "partNumber": [
+                  "parts": [
                     "925654536"
                   ],
                   "numberStart": 0.95,
@@ -570,7 +570,7 @@
                   "code": "82E98A3D8F",
                   "expression": "0,80 mm",
                   "description": "0,80 mm",
-                  "partNumber": [
+                  "parts": [
                     "925654537"
                   ],
                   "numberStart": 0.8,

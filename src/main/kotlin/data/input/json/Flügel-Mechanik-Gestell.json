@@ -41,7 +41,7 @@
           "code": "FD62964A27",
           "expression": "901 A1",
           "description": "901 A1",
-          "partNumber": [
+          "parts": [
             "927850183"
           ]
         },
@@ -49,7 +49,7 @@
           "code": "7640465EAA",
           "expression": "901 h1",
           "description": "901 h1",
-          "partNumber": [
+          "parts": [
             "927850184"
           ]
         },
@@ -57,7 +57,7 @@
           "code": "49FF439A07",
           "expression": "901 h2",
           "description": "901 h2",
-          "partNumber": [
+          "parts": [
             "927850185"
           ]
         },
@@ -65,7 +65,7 @@
           "code": "E8609ABF19",
           "expression": "902 A1",
           "description": "902 A1",
-          "partNumber": [
+          "parts": [
             "927850186"
           ]
         },
@@ -73,7 +73,7 @@
           "code": "8137B613B8",
           "expression": "902h1",
           "description": "902h1",
-          "partNumber": [
+          "parts": [
             "927850187"
           ]
         },
@@ -81,7 +81,7 @@
           "code": "32A7CB9A0E",
           "expression": "902 h2",
           "description": "902 h2",
-          "partNumber": [
+          "parts": [
             "927850188"
           ]
         },
@@ -89,7 +89,7 @@
           "code": "BD3A352474",
           "expression": "902 h3",
           "description": "902 h3",
-          "partNumber": [
+          "parts": [
             "927850195"
           ]
         },
@@ -97,7 +97,7 @@
           "code": "5025693527",
           "expression": "901 A1 Sauter",
           "description": "901 A1 Sauter",
-          "partNumber": [
+          "parts": [
             "924671789"
           ]
         },
@@ -105,7 +105,7 @@
           "code": "AA13B93F94",
           "expression": "902 A1 Schimmel",
           "description": "902 A1 Schimmel",
-          "partNumber": [
+          "parts": [
             "924671802"
           ]
         }

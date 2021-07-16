@@ -39,7 +39,7 @@
           "code": "F79F1087DE",
           "expression": "2,5 x 70 mm",
           "description": "2,5 x 70 mm",
-          "partNumber": [
+          "parts": [
             "925615090"
           ]
         },
@@ -47,7 +47,7 @@
           "code": "E60D978818",
           "expression": "2,5 x 75 mm",
           "description": "2,5 x 75 mm",
-          "partNumber": [
+          "parts": [
             "925615091"
           ]
         },
@@ -55,13 +55,13 @@
           "code": "C4B4CF8A0E",
           "expression": "2,5 x 80 mm",
           "description": "2,5 x 80 mm",
-          "partNumber": "925615092"
+          "parts": "925615092"
         },
         {
           "code": "E7249159F2",
           "expression": "2,5 x 85 mm",
           "description": "2,5 x 85 mm",
-          "partNumber": [
+          "parts": [
             "925615093"
           ]
         },
@@ -69,7 +69,7 @@
           "code": "8987ABB75B",
           "expression": "2,5 x 90 mm",
           "description": "2,5 x 90 mm",
-          "partNumber": [
+          "parts": [
             "925615094"
           ]
         },
@@ -77,7 +77,7 @@
           "code": "F2A1E83F40",
           "expression": "2,9 x 65 mm",
           "description": "2,9 x 65 mm",
-          "partNumber": [
+          "parts": [
             "995039570"
           ]
         },
@@ -85,7 +85,7 @@
           "code": "D805B970C7",
           "expression": "2,9 x 70 mm",
           "description": "2,9 x 70 mm",
-          "partNumber": [
+          "parts": [
             "925615095"
           ]
         },
@@ -93,7 +93,7 @@
           "code": "F806F04AC8",
           "expression": "2,9 x 75 mm",
           "description": "2,9 x 75 mm",
-          "partNumber": [
+          "parts": [
             "025615096"
           ]
         },
@@ -101,7 +101,7 @@
           "code": "B9B3DE6E28",
           "expression": "2,9 x 80 mm",
           "description": "2,9 x 80 mm",
-          "partNumber": [
+          "parts": [
             "925615097"
           ]
         }
@@ -159,7 +159,7 @@
           "code": "36D9078AA1",
           "expression": "1015-35 18x400mm Standard",
           "description": "1015-35 18x400mm Standard",
-          "partNumber": [
+          "parts": [
             "924615076"
           ]
         },
@@ -167,7 +167,7 @@
           "code": "C4E63FADE2",
           "expression": "1015-45 18x400mm geschärft",
           "description": "1015-45 18x400mm geschärft",
-          "partNumber": [
+          "parts": [
             "924615076"
           ]
         }

@@ -14,7 +14,7 @@
           "code": "BEFDA91DDE",
           "expression": "WB-Hoch-977",
           "description": "WB-Hoch-977",
-          "partNumber": [
+          "parts": [
             "924626265"
           ]
         },
@@ -22,7 +22,7 @@
           "code": "53A8916D57",
           "expression": "WB-Hoch-978",
           "description": "WB-Hoch-978",
-          "partNumber": [
+          "parts": [
             "924626266"
           ]
         },
@@ -30,7 +30,7 @@
           "code": "F170345807",
           "expression": "WB-Hoch-981",
           "description": "WB-Hoch-981",
-          "partNumber": [
+          "parts": [
             "924626267"
           ]
         },
@@ -38,7 +38,7 @@
           "code": "817020A8B7",
           "expression": "AH-Hoch-3",
           "description": "AH-Hoch-3",
-          "partNumber": [
+          "parts": [
             "924626268"
           ]
         },
@@ -46,7 +46,7 @@
           "code": "BAE1C84391",
           "expression": "AH-Hoch-4",
           "description": "AH-Hoch-4",
-          "partNumber": [
+          "parts": [
             "924626269"
           ]
         },
@@ -54,7 +54,7 @@
           "code": "AE56EA67D0",
           "expression": "WB-MATT-977",
           "description": "WB-MATT-977",
-          "partNumber": [
+          "parts": [
             "924626291"
           ]
         },
@@ -62,7 +62,7 @@
           "code": "09AA3CAF8D",
           "expression": "WB-MATT-978",
           "description": "WB-MATT-978",
-          "partNumber": [
+          "parts": [
             "924626292"
           ]
         },
@@ -70,7 +70,7 @@
           "code": "4AD6369836",
           "expression": "WB-MATT-981",
           "description": "WB-MATT-981",
-          "partNumber": [
+          "parts": [
             "924626293"
           ]
         }
@@ -116,7 +116,7 @@
               "code": "D41D8CD98F",
               "expression": "",
               "description": "",
-              "partNumber": ""
+              "parts": ""
             }
           ],
           "children": [
