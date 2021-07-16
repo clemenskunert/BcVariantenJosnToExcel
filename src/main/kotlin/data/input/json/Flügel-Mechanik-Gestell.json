@@ -42,7 +42,11 @@
           "expression": "901 A1",
           "description": "901 A1",
           "parts": [
-            "927850183"
+            {
+              "number": "927850183",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -50,7 +54,11 @@
           "expression": "901 h1",
           "description": "901 h1",
           "parts": [
-            "927850184"
+            {
+              "number": "927850184",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -58,7 +66,11 @@
           "expression": "901 h2",
           "description": "901 h2",
           "parts": [
-            "927850185"
+            {
+              "number": "927850185",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -66,7 +78,11 @@
           "expression": "902 A1",
           "description": "902 A1",
           "parts": [
-            "927850186"
+            {
+              "number": "927850186",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -74,7 +90,11 @@
           "expression": "902h1",
           "description": "902h1",
           "parts": [
-            "927850187"
+            {
+              "number": "927850187",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -82,7 +102,11 @@
           "expression": "902 h2",
           "description": "902 h2",
           "parts": [
-            "927850188"
+            {
+              "number": "927850188",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -90,7 +114,11 @@
           "expression": "902 h3",
           "description": "902 h3",
           "parts": [
-            "927850195"
+            {
+              "number": "927850195",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -98,7 +126,11 @@
           "expression": "901 A1 Sauter",
           "description": "901 A1 Sauter",
           "parts": [
-            "924671789"
+            {
+              "number": "924671789",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -106,7 +138,11 @@
           "expression": "902 A1 Schimmel",
           "description": "902 A1 Schimmel",
           "parts": [
-            "924671802"
+            {
+              "number": "924671802",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         }
       ]

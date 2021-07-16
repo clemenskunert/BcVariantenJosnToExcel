@@ -80,145 +80,289 @@
                   "code": "61EF93F8C0",
                   "expression": "Fazioli T1",
                   "description": "Fazioli T1",
-                  "parts": "804620095"
+                  "parts": [
+                    {
+                      "number": "804620095",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "548AD6BA68",
                   "expression": "Renner",
                   "description": "Renner",
-                  "parts": "924620149"
+                  "parts": [
+                    {
+                      "number": "924620149",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "2A5289986C",
                   "expression": "Steinway",
                   "description": "Steinway",
-                  "parts": "924620152"
+                  "parts": [
+                    {
+                      "number": "924620152",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "7193947F2E",
                   "expression": "Steinway old",
                   "description": "Steinway old",
-                  "parts": "924620153"
+                  "parts": [
+                    {
+                      "number": "924620153",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "497816461B",
                   "expression": "Versetzte Abnickschraube",
                   "description": "Versetzte Abnickschraube",
-                  "parts": "924620154"
+                  "parts": [
+                    {
+                      "number": "924620154",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "26AEA35421",
                   "expression": "Yamaha Kimbuchi",
                   "description": "Yamaha Kimbuchi",
-                  "parts": "804620103"
+                  "parts": [
+                    {
+                      "number": "804620103",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "9AFF4A0270",
                   "expression": "Yamaha Old",
                   "description": "Yamaha Old",
-                  "parts": "804620094"
+                  "parts": [
+                    {
+                      "number": "804620094",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "72FCF5711A",
                   "expression": "Renner Langloch",
                   "description": "Renner Langloch",
-                  "parts": "804620114"
+                  "parts": [
+                    {
+                      "number": "804620114",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "12568E5C76",
                   "expression": "Prat Read Standard",
                   "description": "Prat Read Standard",
-                  "parts": "804620115"
+                  "parts": [
+                    {
+                      "number": "804620115",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "75088D8EA4",
                   "expression": "Knabe",
                   "description": "Knabe",
-                  "parts": "804620116"
+                  "parts": [
+                    {
+                      "number": "804620116",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "002F27E506",
                   "expression": "MH",
                   "description": "MH",
-                  "parts": "804620117"
+                  "parts": [
+                    {
+                      "number": "804620117",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "C55C0936E2",
                   "expression": "Renner Versetzte Kapselschraube",
                   "description": "Renner Versetzte Kapselschraube",
-                  "parts": "804620126"
+                  "parts": [
+                    {
+                      "number": "804620126",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "2A53DE0BBE",
                   "expression": "Baldwin Old",
                   "description": "Baldwin Old",
-                  "parts": "804620132"
+                  "parts": [
+                    {
+                      "number": "804620132",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "8006189430",
                   "expression": "Falcon",
                   "description": "Falcon",
-                  "parts": "804620148"
+                  "parts": [
+                    {
+                      "number": "804620148",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "DDAC03C97D",
                   "expression": "Kolberg",
                   "description": "Kolberg",
-                  "parts": "804620162"
+                  "parts": [
+                    {
+                      "number": "804620162",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "61C2E45A79",
                   "expression": "Flemming",
                   "description": "Flemming",
-                  "parts": "804620157"
+                  "parts": [
+                    {
+                      "number": "804620157",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "D17F09F302",
                   "expression": "MH Langloch",
                   "description": "MH Langloch",
-                  "parts": "924620122"
+                  "parts": [
+                    {
+                      "number": "924620122",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "55D60E634B",
                   "expression": "Renner Senkung",
                   "description": "Renner Senkung",
-                  "parts": "924620150"
-                }
+                  "parts": [
+                    {
+                      "number": "924620150",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
+                },
                 {
                   "code": "40BB0B5639",
                   "expression": "Renner O Bohrung",
                   "description": "Renner O Bohrung",
-                  "parts": "924620156"
+                  "parts": [
+                    {
+                      "number": "924620156",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "07DC605349",
                   "expression": "Baldwin Neu",
                   "description": "Baldwin Neu",
-                  "parts": "924620164"
+                  "parts": [
+                    {
+                      "number": "924620164",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "DE656367C2",
                   "expression": "Prat Read Aeola",
                   "description": "Prat Read Aeola",
-                  "parts": "924620167"
+                  "parts": [
+                    {
+                      "number": "924620167",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "722A572921",
                   "expression": "Kawai",
                   "description": "Kawai",
-                  "parts": "924620170"
+                  "parts": [
+                    {
+                      "number": "924620170",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "480E3A5ABA",
                   "expression": "Bechstein Alu",
                   "description": "Bechstein Alu",
-                  "parts": "924620168"
+                  "parts": [
+                    {
+                      "number": "924620168",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "24C1177285",
                   "expression": "Faziole T2",
                   "description": "Faziole T2",
-                  "parts": "924620155"
+                  "parts": [
+                    {
+                      "number": "924620155",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 }
               ]
             },
@@ -234,127 +378,253 @@
                   "code": "C88E338A7F",
                   "expression": "STW",
                   "description": "STW",
-                  "parts": "923149014"
+                  "parts": [
+                    {
+                      "number": "923149014",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "6BA879F00D",
                   "expression": "Solo M",
                   "description": "Solo M",
-                  "parts": "923149009"
+                  "parts": [
+                    {
+                      "number": "923149009",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "245C0539D0",
                   "expression": "Solo D",
                   "description": "Solo D",
-                  "parts": "923149015"
+                  "parts": [
+                    {
+                      "number": "923149015",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "ADF72A0DB2",
                   "expression": "RE",
                   "description": "RE",
-                  "parts": "923149010"
+                  "parts": [
+                    {
+                      "number": "923149010",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "F5B7D8538D",
                   "expression": "RE M",
                   "description": "RE M",
-                  "parts": "923149032"
+                  "parts": [
+                    {
+                      "number": "923149032",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "A2D9547B5D",
                   "expression": "RE D",
                   "description": "RE D",
-                  "parts": "923149011"
+                  "parts": [
+                    {
+                      "number": "923149011",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "A4BB1AE60F",
                   "expression": "US rot",
                   "description": "US rot",
-                  "parts": "803149027"
+                  "parts": [
+                    {
+                      "number": "803149027",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "0608C3C877",
                   "expression": "US Rot M",
                   "description": "US Rot M",
-                  "parts": "803149028"
+                  "parts": [
+                    {
+                      "number": "803149028",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "F19EAEA97E",
                   "expression": "US Rot D",
                   "description": "US Rot D",
-                  "parts": "803149029"
+                  "parts": [
+                    {
+                      "number": "803149029",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "E294961EB7",
                   "expression": "US Blau",
                   "description": "US Blau",
-                  "parts": "803149022"
+                  "parts": [
+                    {
+                      "number": "803149022",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "373C9BD5D1",
                   "expression": "US blau M",
                   "description": "US blau M",
-                  "parts": "803149024"
+                  "parts": [
+                    {
+                      "number": "803149024",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "798708E8C7",
                   "expression": "US blau D",
                   "description": "US blau D",
-                  "parts": "803149023"
+                  "parts": [
+                    {
+                      "number": "803149023",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "E733B3F64D",
                   "expression": "STW Old",
                   "description": "STW Old",
-                  "parts": "923149016"
+                  "parts": [
+                    {
+                      "number": "923149016",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "9CD18CFB40",
                   "expression": "STW Old D",
                   "description": "STW Old D",
-                  "parts": "923149017"
+                  "parts": [
+                    {
+                      "number": "923149017",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "27A7F3B22D",
                   "expression": "STW vorsortiert",
                   "description": "STW vorsortiert",
-                  "parts": "923149035"
+                  "parts": [
+                    {
+                      "number": "923149035",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "024F18A263",
                   "expression": "STW M vorsortiert",
                   "description": "STW M vorsortiert",
-                  "parts": "923149036"
+                  "parts": [
+                    {
+                      "number": "923149036",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "08C0F73ED4",
                   "expression": "STW D vorsortier",
                   "description": "STW D vorsortier",
-                  "parts": "923149037"
+                  "parts": [
+                    {
+                      "number": "923149037",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "14A9EDAE4B",
                   "expression": "STW Ahorn",
                   "description": "STW Ahorn",
-                  "parts": "923149018"
+                  "parts": [
+                    {
+                      "number": "923149018",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "3E2B0A0FEF",
                   "expression": "STW Ahorn D",
                   "description": "STW Ahorn D",
-                  "parts": "923149019"
+                  "parts": [
+                    {
+                      "number": "923149019",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "749F9D8F0D",
                   "expression": "RE Ahorn",
                   "description": "RE Ahorn",
-                  "parts": "923149012"
+                  "parts": [
+                    {
+                      "number": "923149012",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 },
                 {
                   "code": "C791501192",
                   "expression": "RE Ahorn D",
                   "description": "RE Ahorn D",
-                  "parts": "923149013"
+                  "parts": [
+                    {
+                      "number": "923149013",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
+                  ]
                 }
               ]
             },
@@ -418,7 +688,7 @@
                 }
               ]
             }
-          ]
+          ],
           "children": [
           ]
         }

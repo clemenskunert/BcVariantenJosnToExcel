@@ -6,7 +6,7 @@ data class GlobalExpression(
     val description: String,
     val numberStart: Float? = 0f,
     val numberEnd: Float? = 0f,
-    val partNumber: Array<String>? = null,
+    val partNumber: Array<Part>? = null,
 ) {
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
@@ -37,3 +37,9 @@ data class GlobalExpression(
         return result
     }
 }
+
+data class Part(
+    val number: String,
+    val quantity: Float,
+    val unit: String
+)

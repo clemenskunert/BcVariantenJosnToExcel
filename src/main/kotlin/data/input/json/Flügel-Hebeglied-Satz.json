@@ -39,7 +39,11 @@
                   "expression": "Steinway HH",
                   "description": "Steinway HH",
                   "parts": [
-                    "922107065"
+                    {
+                      "number": "922107065",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -47,7 +51,11 @@
                   "expression": "US-201",
                   "description": "US-201",
                   "parts": [
-                    "922107065"
+                    {
+                      "number": "922107065",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -55,7 +63,11 @@
                   "expression": "US-OLD",
                   "description": "US-OLD",
                   "parts": [
-                    "922107113"
+                    {
+                      "number": "922107113",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -63,7 +75,11 @@
                   "expression": "US-OLD mit Nut",
                   "description": "US-OLD mit Nut",
                   "parts": [
-                    "922107070"
+                    {
+                      "number": "922107070",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -71,7 +87,11 @@
                   "expression": "US",
                   "description": "US",
                   "parts": [
-                    "922107067"
+                    {
+                      "number": "922107067",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -79,7 +99,11 @@
                   "expression": "US mit Nut",
                   "description": "US mit Nut",
                   "parts": [
-                    "922107073"
+                    {
+                      "number": "922107073",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -87,7 +111,11 @@
                   "expression": "Grau Grau Blau",
                   "description": "Grau Grau Blau",
                   "parts": [
-                    "922107105"
+                    {
+                      "number": "922107105",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -95,7 +123,11 @@
                   "expression": "Grau Grau Blau mit Nut",
                   "description": "Grau Grau Blau mit Nut",
                   "parts": [
-                    "922107078"
+                    {
+                      "number": "922107078",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -103,7 +135,11 @@
                   "expression": "Rot Rot",
                   "description": "Rot Rot",
                   "parts": [
-                    "922107108"
+                    {
+                      "number": "922107108",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -111,7 +147,11 @@
                   "expression": "Rot Rot mit Nut",
                   "description": "Rot Rot mit Nut",
                   "parts": [
-                    "922107071"
+                    {
+                      "number": "922107071",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -119,7 +159,11 @@
                   "expression": "Grau Grau",
                   "description": "Grau Grau",
                   "parts": [
-                    "922107106"
+                    {
+                      "number": "922107106",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -127,7 +171,11 @@
                   "expression": "Grau Grau mit Nut",
                   "description": "Grau Grau",
                   "parts": [
-                    "922107079"
+                    {
+                      "number": "922107079",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -135,7 +183,11 @@
                   "expression": "Grau Grau verkürzt",
                   "description": "Grau Grau verkürzt",
                   "parts": [
-                    "922107118"
+                    {
+                      "number": "922107118",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -143,7 +195,11 @@
                   "expression": "Grau Grau Gelb",
                   "description": "Grau Grau Gelb",
                   "parts": [
-                    "922107110"
+                    {
+                      "number": "922107110",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -151,7 +207,11 @@
                   "expression": "Gra Grau Gelb mit Nut",
                   "description": "Gra Grau Gelb",
                   "parts": [
-                    "922107072"
+                    {
+                      "number": "922107072",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -159,7 +219,11 @@
                   "expression": "Grau Grün",
                   "description": "Grau Grün",
                   "parts": [
-                    "922107111"
+                    {
+                      "number": "922107111",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -167,7 +231,11 @@
                   "expression": "Grau Grün mit Nut",
                   "description": "Grau Grün mit Nut",
                   "parts": [
-                    "922107090"
+                    {
+                      "number": "922107090",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -175,7 +243,11 @@
                   "expression": "Universal",
                   "description": "Universal",
                   "parts": [
-                    "922107069"
+                    {
+                      "number": "922107069",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -183,7 +255,11 @@
                   "expression": "Rot Rot Blau",
                   "description": "Rot Rot Blau",
                   "parts": [
-                    "922107109"
+                    {
+                      "number": "922107109",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -191,7 +267,11 @@
                   "expression": "Rot Rot Blau mit Nut",
                   "description": "Rot Rot Blau mit Nut",
                   "parts": [
-                    "922107091"
+                    {
+                      "number": "922107091",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -199,7 +279,11 @@
                   "expression": "Rot",
                   "description": "Rot",
                   "parts": [
-                    "922107096"
+                    {
+                      "number": "922107096",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -207,7 +291,11 @@
                   "expression": "Rot mit Nut",
                   "description": "Rot mit Nut",
                   "parts": [
-                    "922107082"
+                    {
+                      "number": "922107082",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -215,7 +303,11 @@
                   "expression": "Rot Grün",
                   "description": "Rot Grün",
                   "parts": [
-                    "922107112"
+                    {
+                      "number": "922107112",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -223,7 +315,11 @@
                   "expression": "Rot Grün mit Nut",
                   "description": "Rot Grün mit Nut",
                   "parts": [
-                    "922107092"
+                    {
+                      "number": "922107092",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -231,7 +327,11 @@
                   "expression": "Grau Grau Grün",
                   "description": "Grau Grau Grün",
                   "parts": [
-                    "922107107"
+                    {
+                      "number": "922107107",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -239,7 +339,11 @@
                   "expression": "Grau Grau Grün mit Nut",
                   "description": "Grau Grau Grün mit Nut",
                   "parts": [
-                    "922107076"
+                    {
+                      "number": "922107076",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -247,7 +351,11 @@
                   "expression": "Grau Blau mit Nut",
                   "description": "Grau Blau mit Nut",
                   "parts": [
-                    "922107081"
+                    {
+                      "number": "922107081",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -255,7 +363,11 @@
                   "expression": "Grau Gelb",
                   "description": "Grau Gelb",
                   "parts": [
-                    "922107104"
+                    {
+                      "number": "922107104",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -263,7 +375,11 @@
                   "expression": "Grau Gelb mit Nut",
                   "description": "Grau Gelb mit Nut",
                   "parts": [
-                    "922107089"
+                    {
+                      "number": "922107089",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -271,7 +387,11 @@
                   "expression": "Grün",
                   "description": "Grün",
                   "parts": [
-                    "922107101"
+                    {
+                      "number": "922107101",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -279,7 +399,11 @@
                   "expression": "Grün Grün",
                   "description": "Grün Grün",
                   "parts": [
-                    "922107114"
+                    {
+                      "number": "922107114",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -287,7 +411,11 @@
                   "expression": "FNN ohne Sattel",
                   "description": "FNN ohne Sattel",
                   "parts": [
-                    "922107115"
+                    {
+                      "number": "922107115",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -295,7 +423,11 @@
                   "expression": "Grau",
                   "description": "Grau",
                   "parts": [
-                    "922107097"
+                    {
+                      "number": "922107097",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -303,7 +435,11 @@
                   "expression": "Braun",
                   "description": "Braun",
                   "parts": [
-                    "922107100"
+                    {
+                      "number": "922107100",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -311,7 +447,11 @@
                   "expression": "Rot Grau",
                   "description": "Rot Grau",
                   "parts": [
-                    "922107102"
+                    {
+                      "number": "922107102",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 }
               ]
@@ -329,7 +469,11 @@
                   "expression": "Renner",
                   "description": "Renner",
                   "parts": [
-                    "922107037"
+                    {
+                      "number": "922107037",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -337,7 +481,11 @@
                   "expression": "Renner mit Schnur",
                   "description": "Renner mit Schnur",
                   "parts": [
-                    "922107005"
+                    {
+                      "number": "922107005",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -345,7 +493,11 @@
                   "expression": "Steinway",
                   "description": "Steinway",
                   "parts": [
-                    "922107005"
+                    {
+                      "number": "922107005",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -353,7 +505,11 @@
                   "expression": "MH",
                   "description": "MH",
                   "parts": [
-                    "802107006"
+                    {
+                      "number": "802107006",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -361,7 +517,11 @@
                   "expression": "FORD",
                   "description": "FORD",
                   "parts": [
-                    "802107020"
+                    {
+                      "number": "802107020",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -369,7 +529,11 @@
                   "expression": "Falcone",
                   "description": "Falcone",
                   "parts": [
-                    "802107008"
+                    {
+                      "number": "802107008",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -377,7 +541,11 @@
                   "expression": "Renner Kurz",
                   "description": "Renner Kurz",
                   "parts": [
-                    "922107003"
+                    {
+                      "number": "922107003",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -385,7 +553,11 @@
                   "expression": "Renner Kurz mit Schnur",
                   "description": "Renner Kurz mit Schnur",
                   "parts": [
-                    "922107004"
+                    {
+                      "number": "922107004",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -393,7 +565,11 @@
                   "expression": "Fazioli T-2",
                   "description": "Fazioli T-2",
                   "parts": [
-                    "922107021"
+                    {
+                      "number": "922107021",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 }
               ]
@@ -411,7 +587,11 @@
                   "expression": "Steinway",
                   "description": "Steinway",
                   "parts": [
-                    "922107026"
+                    {
+                      "number": "922107026",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -419,7 +599,11 @@
                   "expression": "Fazioli 308/ 310",
                   "description": "Fazioli 308/ 310",
                   "parts": [
-                    "922107024"
+                    {
+                      "number": "922107024",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -427,7 +611,11 @@
                   "expression": "Renner 18mm",
                   "description": "Renner 18mm",
                   "parts": [
-                    "922107034"
+                    {
+                      "number": "922107034",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -435,7 +623,11 @@
                   "expression": "Renner 20mm",
                   "description": "Renner 20mm",
                   "parts": [
-                    "922107031"
+                    {
+                      "number": "922107031",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -443,7 +635,11 @@
                   "expression": "Renner mit Stellschraube 18mm",
                   "description": "Renner mit Stellschraube 18mm",
                   "parts": [
-                    "922107030"
+                    {
+                      "number": "922107030",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -451,7 +647,11 @@
                   "expression": "Renner mit Stellschraube 20mm",
                   "description": "Renner mit Stellschraube 20mm",
                   "parts": [
-                    "922107033"
+                    {
+                      "number": "922107033",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 },
                 {
@@ -459,7 +659,11 @@
                   "expression": "Steinway mit Stellschraube",
                   "description": "Steinway mit Stellschraube",
                   "parts": [
-                    "922107035"
+                    {
+                      "number": "922107035",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ]
                 }
               ]
@@ -481,7 +685,11 @@
                   "expression": "0,75 mm",
                   "description": "0,75 mm",
                   "parts": [
-                    "925652528"
+                    {
+                      "number": "925652528",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.75,
                   "numberEnd": 0.75
@@ -491,7 +699,11 @@
                   "expression": "0,80 mm",
                   "description": "0,80 mm",
                   "parts": [
-                    "925654529"
+                    {
+                      "number": "925654529",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.8,
                   "numberEnd": 0.8
@@ -501,7 +713,11 @@
                   "expression": "0,85 mm",
                   "description": "0,85 mm",
                   "parts": [
-                    "925652530"
+                    {
+                      "number": "925652530",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.85,
                   "numberEnd": 0.85
@@ -511,7 +727,11 @@
                   "expression": "0,90 mm",
                   "description": "0,90 mm",
                   "parts": [
-                    "925654531"
+                    {
+                      "number": "925654531",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.9,
                   "numberEnd": 0.9
@@ -521,7 +741,11 @@
                   "expression": "0,95 mm",
                   "description": "0,95 mm",
                   "parts": [
-                    "925654532"
+                    {
+                      "number": "925654532",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.95,
                   "numberEnd": 0.95
@@ -531,7 +755,11 @@
                   "expression": "1,0 mm",
                   "description": "1,0 mm",
                   "parts": [
-                    "925654533"
+                    {
+                      "number": "925654533",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 1.0,
                   "numberEnd": 1.0
@@ -541,7 +769,11 @@
                   "expression": "0,85 mm Stellbar",
                   "description": "0,85 mm Stellbar",
                   "parts": [
-                    "925654534"
+                    {
+                      "number": "925654534",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.85,
                   "numberEnd": 0.85
@@ -551,7 +783,11 @@
                   "expression": "0,90 mm",
                   "description": "0,90 mm",
                   "parts": [
-                    "925654535"
+                    {
+                      "number": "925654535",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.9,
                   "numberEnd": 0.9
@@ -561,7 +797,11 @@
                   "expression": "0,95 mm",
                   "description": "0,95 mm",
                   "parts": [
-                    "925654536"
+                    {
+                      "number": "925654536",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.95,
                   "numberEnd": 0.95
@@ -571,7 +811,11 @@
                   "expression": "0,80 mm",
                   "description": "0,80 mm",
                   "parts": [
-                    "925654537"
+                    {
+                      "number": "925654537",
+                      "quantity": "1",
+                      "unit": "STÜCK"
+                    }
                   ],
                   "numberStart": 0.8,
                   "numberEnd": 0.8

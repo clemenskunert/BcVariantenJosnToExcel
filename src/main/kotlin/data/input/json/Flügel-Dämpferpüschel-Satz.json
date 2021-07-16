@@ -15,7 +15,11 @@
           "expression": "WB-Hoch-977",
           "description": "WB-Hoch-977",
           "parts": [
-            "924626265"
+            {
+              "number": "924626265",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -23,7 +27,11 @@
           "expression": "WB-Hoch-978",
           "description": "WB-Hoch-978",
           "parts": [
-            "924626266"
+            {
+              "number": "924626266",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -31,7 +39,11 @@
           "expression": "WB-Hoch-981",
           "description": "WB-Hoch-981",
           "parts": [
-            "924626267"
+            {
+              "number": "924626267",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -39,7 +51,11 @@
           "expression": "AH-Hoch-3",
           "description": "AH-Hoch-3",
           "parts": [
-            "924626268"
+            {
+              "number": "924626268",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -47,7 +63,11 @@
           "expression": "AH-Hoch-4",
           "description": "AH-Hoch-4",
           "parts": [
-            "924626269"
+            {
+              "number": "924626269",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -55,7 +75,11 @@
           "expression": "WB-MATT-977",
           "description": "WB-MATT-977",
           "parts": [
-            "924626291"
+            {
+              "number": "924626291",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -63,7 +87,11 @@
           "expression": "WB-MATT-978",
           "description": "WB-MATT-978",
           "parts": [
-            "924626292"
+            {
+              "number": "924626292",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -71,7 +99,11 @@
           "expression": "WB-MATT-981",
           "description": "WB-MATT-981",
           "parts": [
-            "924626293"
+            {
+              "number": "924626293",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         }
       ]
@@ -112,11 +144,18 @@
               "rangeEnd": 11.5,
               "step": 0
             },
+            // TODO part expression empty
             {
               "code": "D41D8CD98F",
               "expression": "",
               "description": "",
-              "parts": ""
+              "parts": [
+                {
+                  "number": "",
+                  "quantity": "1",
+                  "unit": "STÜCK"
+                }
+              ]
             }
           ],
           "children": [

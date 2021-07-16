@@ -40,7 +40,11 @@
           "expression": "2,5 x 70 mm",
           "description": "2,5 x 70 mm",
           "parts": [
-            "925615090"
+            {
+              "number": "925615090",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -48,21 +52,33 @@
           "expression": "2,5 x 75 mm",
           "description": "2,5 x 75 mm",
           "parts": [
-            "925615091"
+            {
+              "number": "925615091",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
           "code": "C4B4CF8A0E",
           "expression": "2,5 x 80 mm",
           "description": "2,5 x 80 mm",
-          "parts": "925615092"
+          "parts": {
+            "number": "925615092",
+            "quantity": "1",
+            "unit": "STÜCK"
+          }
         },
         {
           "code": "E7249159F2",
           "expression": "2,5 x 85 mm",
           "description": "2,5 x 85 mm",
           "parts": [
-            "925615093"
+            {
+              "number": "925615093",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -70,7 +86,11 @@
           "expression": "2,5 x 90 mm",
           "description": "2,5 x 90 mm",
           "parts": [
-            "925615094"
+            {
+              "number": "925615094",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -78,7 +98,11 @@
           "expression": "2,9 x 65 mm",
           "description": "2,9 x 65 mm",
           "parts": [
-            "995039570"
+            {
+              "number": "995039570",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -86,7 +110,11 @@
           "expression": "2,9 x 70 mm",
           "description": "2,9 x 70 mm",
           "parts": [
-            "925615095"
+            {
+              "number": "925615095",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -94,7 +122,11 @@
           "expression": "2,9 x 75 mm",
           "description": "2,9 x 75 mm",
           "parts": [
-            "025615096"
+            {
+              "number": "025615096",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -102,7 +134,11 @@
           "expression": "2,9 x 80 mm",
           "description": "2,9 x 80 mm",
           "parts": [
-            "925615097"
+            {
+              "number": "925615097",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         }
       ]
@@ -160,7 +196,11 @@
           "expression": "1015-35 18x400mm Standard",
           "description": "1015-35 18x400mm Standard",
           "parts": [
-            "924615076"
+            {
+              "number": "924615076",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         },
         {
@@ -168,7 +208,11 @@
           "expression": "1015-45 18x400mm geschärft",
           "description": "1015-45 18x400mm geschärft",
           "parts": [
-            "924615076"
+            {
+              "number": "924615076",
+              "quantity": "1",
+              "unit": "STÜCK"
+            }
           ]
         }
       ]
