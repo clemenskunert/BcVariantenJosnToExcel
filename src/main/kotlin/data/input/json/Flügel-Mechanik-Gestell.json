@@ -6,32 +6,8 @@
   "__comment": "Achtung in Bearbeitung",
   "attributes": [
     {
-      "code": "DA473234AA",
-      "description": "Felder",
-      "standardValue": "4",
-      "art": 0,
-      "dataType": 0,
-      "nullAble": 0,
-      "decimal": 0,
-      "rangeStart": 1,
-      "rangeEnd": 5,
-      "step": 1
-    },
-    {
-      "code": "E919E84FB8",
-      "description": "Befestigungsschrauben",
-      "standardValue": "2",
-      "art": 0,
-      "dataType": 0,
-      "nullAble": 0,
-      "decimal": 0,
-      "rangeStart": 2,
-      "rangeEnd": 3,
-      "step": 1
-    },
-    {
       "code": "1DD26F1F17",
-      "description": "Backenstorte",
+      "description": "Backe - 1",
       "standardValue": "901 A1",
       "art": 1,
       "dataType": 1,
@@ -148,7 +124,594 @@
       ]
     },
     {
-      "__comment": "Bassende, BassSpreize, MittelSpreize, DiskantSpreize 1, DiskantSreize 2, DiskantEnde"
+      "code": "B4E309EA82",
+      "description": "Backe 2",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FD62964A27",
+          "expression": "901 A1",
+          "description": "901 A1",
+          "parts": [
+            {
+              "number": "927850183",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7640465EAA",
+          "expression": "901 h1",
+          "description": "901 h1",
+          "parts": [
+            {
+              "number": "927850184",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "49FF439A07",
+          "expression": "901 h2",
+          "description": "901 h2",
+          "parts": [
+            {
+              "number": "927850185",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E8609ABF19",
+          "expression": "902 A1",
+          "description": "902 A1",
+          "parts": [
+            {
+              "number": "927850186",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "8137B613B8",
+          "expression": "902h1",
+          "description": "902h1",
+          "parts": [
+            {
+              "number": "927850187",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "32A7CB9A0E",
+          "expression": "902 h2",
+          "description": "902 h2",
+          "parts": [
+            {
+              "number": "927850188",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "BD3A352474",
+          "expression": "902 h3",
+          "description": "902 h3",
+          "parts": [
+            {
+              "number": "927850195",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "5025693527",
+          "expression": "901 A1 Sauter",
+          "description": "901 A1 Sauter",
+          "parts": [
+            {
+              "number": "924671789",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "AA13B93F94",
+          "expression": "902 A1 Schimmel",
+          "description": "902 A1 Schimmel",
+          "parts": [
+            {
+              "number": "924671802",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B4E309EA82",
+      "description": "Backe 2",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FD62964A27",
+          "expression": "901 A1",
+          "description": "901 A1",
+          "parts": [
+            {
+              "number": "927850183",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7640465EAA",
+          "expression": "901 h1",
+          "description": "901 h1",
+          "parts": [
+            {
+              "number": "927850184",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "49FF439A07",
+          "expression": "901 h2",
+          "description": "901 h2",
+          "parts": [
+            {
+              "number": "927850185",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E8609ABF19",
+          "expression": "902 A1",
+          "description": "902 A1",
+          "parts": [
+            {
+              "number": "927850186",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "8137B613B8",
+          "expression": "902h1",
+          "description": "902h1",
+          "parts": [
+            {
+              "number": "927850187",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "32A7CB9A0E",
+          "expression": "902 h2",
+          "description": "902 h2",
+          "parts": [
+            {
+              "number": "927850188",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "BD3A352474",
+          "expression": "902 h3",
+          "description": "902 h3",
+          "parts": [
+            {
+              "number": "927850195",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "5025693527",
+          "expression": "901 A1 Sauter",
+          "description": "901 A1 Sauter",
+          "parts": [
+            {
+              "number": "924671789",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "AA13B93F94",
+          "expression": "902 A1 Schimmel",
+          "description": "902 A1 Schimmel",
+          "parts": [
+            {
+              "number": "924671802",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "66DCFF62F0",
+      "description": "Backe 3",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FD62964A27",
+          "expression": "901 A1",
+          "description": "901 A1",
+          "parts": [
+            {
+              "number": "927850183",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7640465EAA",
+          "expression": "901 h1",
+          "description": "901 h1",
+          "parts": [
+            {
+              "number": "927850184",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "49FF439A07",
+          "expression": "901 h2",
+          "description": "901 h2",
+          "parts": [
+            {
+              "number": "927850185",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E8609ABF19",
+          "expression": "902 A1",
+          "description": "902 A1",
+          "parts": [
+            {
+              "number": "927850186",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "8137B613B8",
+          "expression": "902h1",
+          "description": "902h1",
+          "parts": [
+            {
+              "number": "927850187",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "32A7CB9A0E",
+          "expression": "902 h2",
+          "description": "902 h2",
+          "parts": [
+            {
+              "number": "927850188",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "BD3A352474",
+          "expression": "902 h3",
+          "description": "902 h3",
+          "parts": [
+            {
+              "number": "927850195",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "5025693527",
+          "expression": "901 A1 Sauter",
+          "description": "901 A1 Sauter",
+          "parts": [
+            {
+              "number": "924671789",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "AA13B93F94",
+          "expression": "902 A1 Schimmel",
+          "description": "902 A1 Schimmel",
+          "parts": [
+            {
+              "number": "924671802",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "02DCE06FF3",
+      "description": "Backe 4",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FD62964A27",
+          "expression": "901 A1",
+          "description": "901 A1",
+          "parts": [
+            {
+              "number": "927850183",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7640465EAA",
+          "expression": "901 h1",
+          "description": "901 h1",
+          "parts": [
+            {
+              "number": "927850184",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "49FF439A07",
+          "expression": "901 h2",
+          "description": "901 h2",
+          "parts": [
+            {
+              "number": "927850185",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E8609ABF19",
+          "expression": "902 A1",
+          "description": "902 A1",
+          "parts": [
+            {
+              "number": "927850186",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "8137B613B8",
+          "expression": "902h1",
+          "description": "902h1",
+          "parts": [
+            {
+              "number": "927850187",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "32A7CB9A0E",
+          "expression": "902 h2",
+          "description": "902 h2",
+          "parts": [
+            {
+              "number": "927850188",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "BD3A352474",
+          "expression": "902 h3",
+          "description": "902 h3",
+          "parts": [
+            {
+              "number": "927850195",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "5025693527",
+          "expression": "901 A1 Sauter",
+          "description": "901 A1 Sauter",
+          "parts": [
+            {
+              "number": "924671789",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "AA13B93F94",
+          "expression": "902 A1 Schimmel",
+          "description": "902 A1 Schimmel",
+          "parts": [
+            {
+              "number": "924671802",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2BBFA601B5",
+      "description": "Backe 5",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FD62964A27",
+          "expression": "901 A1",
+          "description": "901 A1",
+          "parts": [
+            {
+              "number": "927850183",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7640465EAA",
+          "expression": "901 h1",
+          "description": "901 h1",
+          "parts": [
+            {
+              "number": "927850184",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "49FF439A07",
+          "expression": "901 h2",
+          "description": "901 h2",
+          "parts": [
+            {
+              "number": "927850185",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E8609ABF19",
+          "expression": "902 A1",
+          "description": "902 A1",
+          "parts": [
+            {
+              "number": "927850186",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "8137B613B8",
+          "expression": "902h1",
+          "description": "902h1",
+          "parts": [
+            {
+              "number": "927850187",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "32A7CB9A0E",
+          "expression": "902 h2",
+          "description": "902 h2",
+          "parts": [
+            {
+              "number": "927850188",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "BD3A352474",
+          "expression": "902 h3",
+          "description": "902 h3",
+          "parts": [
+            {
+              "number": "927850195",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "5025693527",
+          "expression": "901 A1 Sauter",
+          "description": "901 A1 Sauter",
+          "parts": [
+            {
+              "number": "924671789",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "AA13B93F94",
+          "expression": "902 A1 Schimmel",
+          "description": "902 A1 Schimmel",
+          "parts": [
+            {
+              "number": "924671802",
+              "quantity": "1",
+              "unit": 8
+            }
+          ]
+        }
+      ]
     },
     {
       "code": "C0C9454A46",
@@ -171,8 +734,52 @@
       ]
     },
     {
-      "code": "B739A89768",
-      "description": "Anzahl Töne",
+      "code": "4A4E4E06C5",
+      "description": "Befestigung der Auslösepuppenleisten mit Rückwandschrauben",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "BF2383F967",
+      "description": "Auslösepuppen Leisten sind Montiert",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "BC7E864B5A",
+      "description": "Anzahl Töne Gesamt",
       "standardValue": "88",
       "art": 0,
       "dataType": 0,
@@ -184,6 +791,452 @@
     }
   ],
   "children": [
+    {
+      "code": "4303A2D28A",
+      "description": "Flügel Mechanikgestell Feld",
+      "attributes": [
+        {
+          "code": "341D8234F1",
+          "description": "Anzahl Töne im Feld",
+          "standardValue": "20",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 97,
+          "step": 1,
+          "expressions": [
+            {
+              "code": "08CB2E1758",
+              "expression": "4,5 x 17",
+              "description": "4,5 x 17",
+              "parts": [
+                {
+                  "number": "995641615",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "68AFBEA70E",
+              "expression": "4,5 x 22",
+              "description": "4,5 x 22",
+              "parts": [
+                {
+                  "number": "995641618",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "29A6D2353C",
+          "description": "Anzahl Befestigungsschrauben für die Auslösepuppenleiste",
+          "standardValue": "2",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 3,
+          "step": 1,
+          "expressions": [
+            {
+              "code": "9D7C67CF39",
+              "expression": "Rückwand 3x25",
+              "description": "Rückwand 3x25",
+              "parts": [
+                {
+                  "number": "926616133",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "9D7C67CF39",
+              "expression": "Rückwand 3x25",
+              "description": "Rückwand 3x25",
+              "parts": [
+                {
+                  "number": "926616135",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "children": [
+        {
+          "code": "4C39324088",
+          "description": "Flügel Auslösepuppen Leisten",
+          "attributes": [
+            {
+              "code": "9AE25945D8",
+              "description": "Höhe der Auslösepuppen",
+              "standardValue": "12",
+              "art": 1,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "expressions": [
+                {
+                  "code": "D3D9446802",
+                  "expression": "10",
+                  "description": "10",
+                  "numberStart": 10,
+                  "numberEnd": 10,
+                  "parts": [
+                    {
+                      "number": "927816037",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "C20AD4D76F",
+                  "expression": "12",
+                  "description": "12",
+                  "numberStart": 12,
+                  "numberEnd": 12,
+                  "parts": [
+                    {
+                      "number": "927816036",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "C51CE410C1",
+                  "expression": "13",
+                  "description": "13",
+                  "numberStart": 13,
+                  "numberEnd": 13,
+                  "parts": [
+                    {
+                      "number": "927816035",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "2CB23BDCB9",
+              "description": "Auslösepuppen gebohrt",
+              "standardValue": "12",
+              "art": 1,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "expressions": [
+                {
+                  "code": "C20AD4D76F",
+                  "expression": "12",
+                  "description": "12",
+                  "numberStart": 12,
+                  "numberEnd": 12,
+                  "parts": [
+                    {
+                      "number": "924616114",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "2B24D49505",
+                  "expression": "14,5",
+                  "description": "14,5",
+                  "numberStart": 14.5,
+                  "numberEnd": 14.5,
+                  "parts": [
+                    {
+                      "number": "924616113",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "30E86E111E",
+              "description": "AuslösePuppenLeisten Filz",
+              "standardValue": "Grün",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "CAEDC624AF",
+                  "expression": "Grün",
+                  "description": "Grün",
+                  "parts": [
+                    {
+                      "number": "924616122",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "2F16C4693C",
+                  "expression": "Weiß",
+                  "description": "Weiß",
+                  "parts": [
+                    {
+                      "number": "924616124",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "68F2A5965D",
+              "description": "AuslösePuppenLeisten sind gebohrt",
+              "standardValue": "1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                }
+              ]
+            },
+            {
+              "code": "E2BAE65C2F",
+              "description": "AuslösePuppenLeisten Bohrung",
+              "standardValue": "Gerade",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "807F0A5BE6",
+                  "expression": "Bohrung Schräg",
+                  "description": "Bohrung Schräg"
+                },
+                {
+                  "code": "AF0D97ABB7",
+                  "expression": "Bohrung Gerade",
+                  "description": "Bohrung Gerade"
+                }
+              ]
+            }
+          ],
+          "children": [
+          ]
+        }
+      ]
+    },
+    {
+      "code": "68F75C34E7",
+      "description": "Flügel Mechanik Balken",
+      "attributes": [
+        {
+          "code": "D6E7AC0CAF",
+          "description": "Flügel Mechanikbalken Art",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "6D025B0EF4",
+              "expression": "Balken Gerade",
+              "description": "Balken Gerade",
+              "parts": [
+                {
+                  "number": "927810001",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "F1384C9AA8",
+              "expression": "Balken Schräg",
+              "description": "Balken Schräg",
+              "parts": [
+                {
+                  "number": "92781005",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "441F6E0D3C",
+              "expression": "Balken Alu Kurz",
+              "description": "Balken Alu Kurz",
+              "parts": [
+                {
+                  "number": "923102001",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "386B2AABBD",
+              "expression": "Balken Alu Lang",
+              "description": "Balken Alu Lang",
+              "parts": [
+                {
+                  "number": "923102002",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "740A8930B5",
+              "expression": "Balken Blüthner",
+              "description": "Balken Blüthner",
+              "parts": [
+                {
+                  "number": "927810003",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "8AE489C804",
+          "description": "Mechanikleiste gebohrt",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "3E53217EB9",
+          "description": "Auflage mit Sandpapier",
+          "standardValue": "0",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "3DFFED0799",
+          "description": "Mechanik Balken mit Renner Logo",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        }
+      ],
+      "children": [
+      ]
+    },
+    {
+      "code": "FF6F0ECCA9",
+      "description": "Flügel Hebegliedleiste",
+      "attributes": [
+        {
+          "code": "8BBFC532D7",
+          "description": "Flügel Hebegliedleisten Art",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "1CE6D29B1B",
+              "expression": "Hebegliedleiste Alu kurz",
+              "description": "Hebegliedleiste Alu kurz",
+              "parts": [
+                {
+                  "number": "923102010",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "1D83E71586",
+              "expression": "Hebegliedleiste Alu lang",
+              "description": "Hebegliedleiste Alu lang",
+              "parts": [
+                {
+                  "number": "923102011",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "children": [
+      ]
+    }
   ]
 }
 @endjson
