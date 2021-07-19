@@ -144,7 +144,6 @@
               "rangeEnd": 11.5,
               "step": 0
             },
-
             {
               "code": "D41D8CD98F",
               "expression": "",
@@ -678,6 +677,232 @@
                           "unit": 8
                         }
                       ]
+                    },
+                    {
+                      "code": "99E0D82731",
+                      "expression": "Rot 73x46 Konus 978",
+                      "description": "Rot 73x46 Konus 978",
+                      "parts": [
+                        {
+                          "number": "923133033",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "74B9CED970",
+                      "expression": "Rot 83x40 Konus 976",
+                      "description": "Rot 83x40 Konus 976",
+                      "parts": [
+                        {
+                          "number": "923133023",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "A099E738DD",
+                      "expression": "Rot 83x40 Konus 977",
+                      "description": "Rot 83x40 Konus 977",
+                      "parts": [
+                        {
+                          "number": "923133024",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "05F1F2160F",
+                      "expression": "Blau 83x46 Konus 976",
+                      "description": "Blau 83x46 Konus 976",
+                      "parts": [
+                        {
+                          "number": "923133051",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "FA3F3FE3A5",
+                      "expression": "Rot 83x40 Konus 978",
+                      "description": "Rot 83x40 Konus 978",
+                      "parts": [
+                        {
+                          "number": "923133025",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "05F1F2160F",
+                      "expression": "Blau 83x46 Konus 976",
+                      "description": "Blau 83x46 Konus 976",
+                      "parts": [
+                        {
+                          "number": "923133052",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "A099E738DD",
+                      "expression": "Rot 83x40 Konus 977",
+                      "description": "Rot 83x40 Konus 977",
+                      "parts": [
+                        {
+                          "number": "923133027",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "12FFA54B1E",
+                      "expression": "Rot 83x46 Konus 978",
+                      "description": "Rot 83x46 Konus 978",
+                      "parts": [
+                        {
+                          "number": "923133028",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "7BF316F015",
+                      "expression": "Rot 83x50 Konus 977",
+                      "description": "Rot 83x50 Konus 977",
+                      "parts": [
+                        {
+                          "number": "923133030",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "70709832BE",
+                      "expression": "Rot 83x50 Konus 978",
+                      "description": "Rot 83x50 Konus 978",
+                      "parts": [
+                        {
+                          "number": "923133031",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "B35DD179A9",
+                      "expression": "Rot 83x50 Konus Hardi",
+                      "description": "Rot 83x50 Konus Hardi",
+                      "parts": [
+                        {
+                          "number": "923133037",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "F7994B9AD5",
+                      "expression": "Rot 95x40 Konus 976",
+                      "description": "Rot 95x40 Konus 976",
+                      "parts": [
+                        {
+                          "number": "923133002",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "B6B9460BC3",
+                      "expression": "Rot 95x46 Konus 977",
+                      "description": "Rot 95x46 Konus 977",
+                      "parts": [
+                        {
+                          "number": "923133006",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "55C5FEEEB2",
+                      "expression": "Grün 95x46 Konus 977",
+                      "description": "Grün 95x46 Konus 977",
+                      "parts": [
+                        {
+                          "number": "923133055",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "E86D49C277",
+                      "expression": "Blau 95x46 Konus 978",
+                      "description": "Blau 95x46 Konus 978",
+                      "parts": [
+                        {
+                          "number": "923133050",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "AB68C60DCF",
+                      "expression": "Rot 95x50 Konus 978",
+                      "description": "Rot 95x50 Konus 978",
+                      "parts": [
+                        {
+                          "number": "923133009",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "7EAF749292",
+                  "description": "Länge Dämpferpüschel Filz",
+                  "standardValue": "",
+                  "art": 0,
+                  "dataType": 0,
+                  "nullAble": 0,
+                  "decimal": 0,
+                  "rangeStart": 18,
+                  "rangeEnd": 46,
+                  "step": 2
+                },
+                {
+                  "code": "264509C977",
+                  "description": "Flügel Dämpfer mit Flachfilz",
+                  "standardValue": "1",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 1,
+                  "expressions": [
+                    {
+                      "code": "JANEIN",
+                      "expression": "JA",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    },
+                    {
+                      "code": "JANEIN",
+                      "expression": "NEIN",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
                     }
                   ]
                 }
