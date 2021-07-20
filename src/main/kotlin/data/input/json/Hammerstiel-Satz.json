@@ -139,8 +139,8 @@
                 },
                 {
                   "code": "26AEA35421",
-                  "expression": "Yamaha Kimbuchi",
-                  "description": "Yamaha Kimbuchi",
+                  "expression": "Yamaha Kinebuchi",
+                  "description": "Yamaha Kinebuchi",
                   "parts": [
                     {
                       "number": "804620103",
@@ -377,8 +377,8 @@
               "expressions": [
                 {
                   "code": "C88E338A7F",
-                  "expression": "STW",
-                  "description": "STW",
+                  "expression": "Steinway Bass",
+                  "description": "Steinway Bass",
                   "parts": [
                     {
                       "number": "923149014",
@@ -389,8 +389,8 @@
                 },
                 {
                   "code": "6BA879F00D",
-                  "expression": "Solo M",
-                  "description": "Solo M",
+                  "expression": "Steinway Medium",
+                  "description": "Steinway Medium",
                   "parts": [
                     {
                       "number": "923149009",
@@ -401,8 +401,8 @@
                 },
                 {
                   "code": "245C0539D0",
-                  "expression": "Solo D",
-                  "description": "Solo D",
+                  "expression": "Steinway Diskant",
+                  "description": "Steinway Diskant",
                   "parts": [
                     {
                       "number": "923149015",
@@ -413,8 +413,8 @@
                 },
                 {
                   "code": "ADF72A0DB2",
-                  "expression": "RE",
-                  "description": "RE",
+                  "expression": "Renner Bass",
+                  "description": "Renner Bass",
                   "parts": [
                     {
                       "number": "923149010",
@@ -425,8 +425,8 @@
                 },
                 {
                   "code": "F5B7D8538D",
-                  "expression": "RE M",
-                  "description": "RE M",
+                  "expression": "Renner Medium",
+                  "description": "Renner Medium",
                   "parts": [
                     {
                       "number": "923149032",
@@ -437,8 +437,8 @@
                 },
                 {
                   "code": "A2D9547B5D",
-                  "expression": "RE D",
-                  "description": "RE D",
+                  "expression": "Renner Diskant",
+                  "description": "Renner Diskant",
                   "parts": [
                     {
                       "number": "923149011",
@@ -449,8 +449,8 @@
                 },
                 {
                   "code": "A4BB1AE60F",
-                  "expression": "US rot",
-                  "description": "US rot",
+                  "expression": "US Rot Bass",
+                  "description": "US Rot Bass",
                   "parts": [
                     {
                       "number": "803149027",
@@ -461,8 +461,8 @@
                 },
                 {
                   "code": "0608C3C877",
-                  "expression": "US Rot M",
-                  "description": "US Rot M",
+                  "expression": "US Rot Medium",
+                  "description": "US Rot Medium",
                   "parts": [
                     {
                       "number": "803149028",
@@ -473,8 +473,8 @@
                 },
                 {
                   "code": "F19EAEA97E",
-                  "expression": "US Rot D",
-                  "description": "US Rot D",
+                  "expression": "US Rot Diskant",
+                  "description": "US Rot Diskant",
                   "parts": [
                     {
                       "number": "803149029",
@@ -485,8 +485,8 @@
                 },
                 {
                   "code": "E294961EB7",
-                  "expression": "US Blau",
-                  "description": "US Blau",
+                  "expression": "US Blau Bass",
+                  "description": "US Blau Bass",
                   "parts": [
                     {
                       "number": "803149022",
@@ -497,8 +497,8 @@
                 },
                 {
                   "code": "373C9BD5D1",
-                  "expression": "US blau M",
-                  "description": "US blau M",
+                  "expression": "US blau Medium",
+                  "description": "US blau Medium",
                   "parts": [
                     {
                       "number": "803149024",
@@ -509,8 +509,8 @@
                 },
                 {
                   "code": "798708E8C7",
-                  "expression": "US blau D",
-                  "description": "US blau D",
+                  "expression": "US blau Diskant",
+                  "description": "US blau Diskant",
                   "parts": [
                     {
                       "number": "803149023",
@@ -521,8 +521,8 @@
                 },
                 {
                   "code": "E733B3F64D",
-                  "expression": "STW Old",
-                  "description": "STW Old",
+                  "expression": "Steinway Old Bass",
+                  "description": "Steinway Old Bass",
                   "parts": [
                     {
                       "number": "923149016",
@@ -533,8 +533,8 @@
                 },
                 {
                   "code": "9CD18CFB40",
-                  "expression": "STW Old D",
-                  "description": "STW Old D",
+                  "expression": "Steinway Old Diskant",
+                  "description": "Steinway Old Diskant",
                   "parts": [
                     {
                       "number": "923149017",
@@ -545,8 +545,8 @@
                 },
                 {
                   "code": "27A7F3B22D",
-                  "expression": "STW vorsortiert",
-                  "description": "STW vorsortiert",
+                  "expression": "Steinway Bass vorsortiert",
+                  "description": "Steinway Bass vorsortiert",
                   "parts": [
                     {
                       "number": "923149035",
@@ -557,8 +557,8 @@
                 },
                 {
                   "code": "024F18A263",
-                  "expression": "STW M vorsortiert",
-                  "description": "STW M vorsortiert",
+                  "expression": "Steinway Medium vorsortiert",
+                  "description": "Steinway Medium vorsortiert",
                   "parts": [
                     {
                       "number": "923149036",
@@ -569,8 +569,8 @@
                 },
                 {
                   "code": "08C0F73ED4",
-                  "expression": "STW D vorsortier",
-                  "description": "STW D vorsortier",
+                  "expression": "Steinway Diskant vorsortier",
+                  "description": "Steinway Diskant vorsortier",
                   "parts": [
                     {
                       "number": "923149037",
@@ -581,8 +581,8 @@
                 },
                 {
                   "code": "14A9EDAE4B",
-                  "expression": "STW Ahorn",
-                  "description": "STW Ahorn",
+                  "expression": "Steinway Ahorn Bass",
+                  "description": "Steinway Ahorn Bass",
                   "parts": [
                     {
                       "number": "923149018",
@@ -593,8 +593,8 @@
                 },
                 {
                   "code": "3E2B0A0FEF",
-                  "expression": "STW Ahorn D",
-                  "description": "STW Ahorn D",
+                  "expression": "Steinway Ahorn Diskant",
+                  "description": "Steinway Ahorn Diskant",
                   "parts": [
                     {
                       "number": "923149019",
@@ -605,8 +605,8 @@
                 },
                 {
                   "code": "749F9D8F0D",
-                  "expression": "RE Ahorn",
-                  "description": "RE Ahorn",
+                  "expression": "Renner Ahorn Bass",
+                  "description": "Renner Ahorn Bass",
                   "parts": [
                     {
                       "number": "923149012",
@@ -617,8 +617,8 @@
                 },
                 {
                   "code": "C791501192",
-                  "expression": "RE Ahorn D",
-                  "description": "RE Ahorn D",
+                  "expression": "Renner Ahorn Diskant",
+                  "description": "Renner Ahorn Diskant",
                   "parts": [
                     {
                       "number": "923149013",
@@ -680,12 +680,26 @@
                 {
                   "code": "JANEIN",
                   "expression": "JA",
-                  "description": "Ja / Nein"
+                  "description": "Ja / Nein",
+                  "parts": [
+                    {
+                      "number": "923149004",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
                 },
                 {
                   "code": "JANEIN",
                   "expression": "NEIN",
-                  "description": "Ja / Nein"
+                  "description": "Ja / Nein",
+                  "parts": [
+                    {
+                      "number": "923149006",
+                      "quantity": 1,
+                      "unit": 8
+                    }
+                  ]
                 }
               ]
             }
