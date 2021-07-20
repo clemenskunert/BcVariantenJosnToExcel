@@ -1,4 +1,6 @@
+@startjson
 {
+  "__comment": "Fertig CKU; Stand: 19.07.2021",
   "code": "D3434F3A9A",
   "description": "Flügel Hinterdämpfung montiert mit DäPü + Draht",
   "attributes": [
@@ -468,6 +470,52 @@
           ]
         }
       ]
+    },
+    {
+      "code": "326FC9826F",
+      "description": "Flügel Hinterdämpfung montiert",
+      "attributes": [
+        {
+          "code": "B739A89768",
+          "description": "Anzahl Töne",
+          "standardValue": "88",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 97,
+          "step": 1
+        },
+        {
+          "code": "77F5F96CED",
+          "description": "Hinterdämpfung verleimt als Lade",
+          "standardValue": "0",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        }
+      ],
+      "children": [
+        {
+          "__comment": "Anschluss Flügel Dämpferarm Satz"
+        }
+      ]
     }
   ]
 }
+@endjson
