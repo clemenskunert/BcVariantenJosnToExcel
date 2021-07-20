@@ -3,7 +3,7 @@
 {
   "code": "D41D8CD98F",
   "description": "Flügel Mechanik Gestell",
-  "__comment": "Achtung in Bearbeitung",
+  "__comment": "FERTIG - Stand 20.07.2021 durch CKU",
   "attributes": [
     {
       "code": "1DD26F1F17",
@@ -788,6 +788,29 @@
       "rangeStart": 1,
       "rangeEnd": 97,
       "step": 1
+    },
+    {
+      "__comment": "Wenn Ja dann Stückliste ergänzen um Klasse Hammerruheleiste",
+      "code": "D5E7750050",
+      "description": "FlügelMechanik Gestell mit Hammerruheleiste",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
     }
   ],
   "children": [
@@ -1226,6 +1249,208 @@
               "parts": [
                 {
                   "number": "923102011",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "FCD11C2372",
+              "expression": "Hebegliedleiste Voll Holz 1500",
+              "description": "Hebegliedleiste Voll Holz 1500",
+              "parts": [
+                {
+                  "number": "927862171",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "20CF2C0AAE",
+              "expression": "Hebegliedleiste SH 1400",
+              "description": "Hebegliedleiste SH 1400",
+              "parts": [
+                {
+                  "number": "927862177",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "D1D2684EAD",
+          "description": "Hebegliedleiste gebohrt",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "41214BA1E7",
+          "description": "Hebegliedleiste mit Kerbendraht",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "21D6168AF4",
+          "description": "Hebegliedleiste abgehobelt",
+          "standardValue": "0",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        }
+      ],
+      "children": [
+      ]
+    },
+    {
+      "code": "59BE4515F2",
+      "description": "Flügel Hammerruhe Leiste",
+      "attributes": [
+        {
+          "code": "3664D9F585",
+          "description": "Flügel Hammerruheleisten Art",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "56801C4181",
+              "expression": "Rohling 14x7x1400",
+              "description": "Rohling 14x7x1400",
+              "parts": [
+                {
+                  "number": "997831587",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "2E6DD8EB20",
+              "expression": "Rohling 14x7x1500",
+              "description": "Rohling 14x7x1500",
+              "parts": [
+                {
+                  "number": "997831588",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "36250A4144",
+              "expression": "Rohling 14x7x1350",
+              "description": "Rohling 14x7x1350",
+              "parts": [
+                {
+                  "number": "997831582",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "71D3EB312E",
+          "description": "Flügel Hammerruheleisten Filz",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "689A737313",
+              "expression": "1066/10-16x1300",
+              "description": "1066/10-16x1300",
+              "parts": [
+                {
+                  "number": "924628398",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "AD5953E5BB",
+              "expression": "1066/9-16x1250",
+              "description": "1066/9-16x1250",
+              "parts": [
+                {
+                  "number": "924628400",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "27EA761CB2",
+              "expression": "1066/10-16x1250",
+              "description": "1066/10-16x1250",
+              "parts": [
+                {
+                  "number": "924628401",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "F869C3CA6C",
+              "expression": "1066/10-16x1150",
+              "description": "1066/10-16x1150",
+              "parts": [
+                {
+                  "number": "924628402",
                   "quantity": 1,
                   "unit": 8
                 }
