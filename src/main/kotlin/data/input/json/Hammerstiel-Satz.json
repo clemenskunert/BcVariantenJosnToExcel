@@ -5,7 +5,7 @@
   "attributes": [
     {
       "code": "B4E7EDB002",
-      "description": "Flügel Hammerstiel ist montiert",
+      "description": "Flügel Hammerstiel wird montiert",
       "standardValue": "0",
       "art": 1,
       "dataType": 1,
@@ -21,28 +21,6 @@
           "expression": "NEIN",
           "description": "Ja / Nein"
         }
-      ]
-    },
-    {
-      "code": "698B6E5D2A",
-      "description": "Flügel Hammerstiel Feld",
-      "attributes": [
-        {
-          "code": "2696554A30",
-          "description": "Anzahl",
-          "standardValue": "88",
-          "art": 0,
-          "dataType": 0,
-          "nullAble": 0,
-          "decimal": 0,
-          "rangeStart": 1,
-          "rangeEnd": 100,
-          "step": 1
-        }
-      ],
-      "decisions": [
-      ],
-      "children": [
       ]
     }
   ],
