@@ -1,6 +1,7 @@
+@startjson
 {
   "code": "3469E82DB5",
-  "description": "Dämpferpücheösatz 090",
+  "description": "Flügel Dämpferpüschelsatz",
   "attributes": [
     {
       "code": "1A7A24F97F",
@@ -916,3 +917,4 @@
     }
   ]
 }
+@endjson
