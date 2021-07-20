@@ -1,0 +1,473 @@
+{
+  "code": "D3434F3A9A",
+  "description": "Flügel Hinterdämpfung montiert mit DäPü + Draht",
+  "attributes": [
+    {
+      "code": "68B315F7E7",
+      "description": "Flügel Tonhaltestangen bearbeitet",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "E744ABF0D5",
+      "description": "Flügel Dämpferdraht enthalten",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "043D1E93A1",
+      "description": "Anzahl der Dämpferdrähte",
+      "standardValue": "71",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 80,
+      "step": 1
+    },
+    {
+      "code": "A112632DA8",
+      "description": "Flügel Dämpferdraht Sorte",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "263C2B051B",
+          "expression": "1.9x160-Rund-Hart-540N",
+          "description": "1.9x160-Rund-Hart-CW409J",
+          "parts": [
+            {
+              "number": "925660711",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C6512C005A",
+          "expression": "1.9x170-Rund-Hart-540N",
+          "description": "1.9x170-Rund-Hart-540N",
+          "parts": [
+            {
+              "number": "925660712",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C9700C75BE",
+          "expression": "1.9x170-Rund-Weich-520N",
+          "description": "1.9x170-Rund-Weich-520N",
+          "parts": [
+            {
+              "number": "925660713",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9E41FD0A80",
+          "expression": "1.9x170-Flach-Hart-540N",
+          "description": "1.9x170-Flach-Hart-540N",
+          "parts": [
+            {
+              "number": "925660715",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9903072374",
+          "expression": "1.9x170-Rund-Hart-Pol-540N",
+          "description": "1.9x170-Rund-Hart-Pol-540N",
+          "parts": [
+            {
+              "number": "925660716",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "19C06AEEA7",
+          "expression": "1.9x170-Rund-Weich-520N",
+          "description": "1.9x170-Rund-Weich-520N",
+          "parts": [
+            {
+              "number": "925660717",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C3229D701D",
+          "expression": "1.9x180-Rund-Hart-540N",
+          "description": "1.9x180-Rund-Hart-540N",
+          "parts": [
+            {
+              "number": "925660705",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C9766631C6",
+          "expression": "1.9x190-Rund-Hart-540N",
+          "description": "1.9x190-Rund-Hart-540N",
+          "parts": [
+            {
+              "number": "925660706",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9E18575519",
+          "expression": "1.9x220-Rund-Hart-540N",
+          "description": "1.9x220-Rund-Hart-540N",
+          "parts": [
+            {
+              "number": "925660707",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "children": [
+    {
+      "code": "E8A51F0B1A",
+      "description": "Flügel Tonhaltestange Bearbeitet",
+      "attributes": [
+        {
+          "code": "7737BB5CED",
+          "description": "Tonhaltestange ist geteilt",
+          "standardValue": "0",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "F33881A343",
+          "description": "Bügelmuffe vorhanden",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0,
+              "parts": [
+                {
+                  "number": 922151004,
+                  "quantity": "1",
+                  "unit": "8"
+                }
+              ]
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "9970E73CE8",
+          "description": "Montage mit U-Scheibe",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "F2D441C767",
+          "description": "Tonhaltestangen Kerbstift Art",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "3C1FA78BB9",
+              "expression": "Kerbstift 5x28",
+              "description": "Kerbstift 5x28",
+              "parts": [
+                {
+                  "number": "995667816",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "4EA428F210",
+              "expression": "Kerbstift 5x32",
+              "description": "Kerbstift 5x32",
+              "parts": [
+                {
+                  "number": "995667817",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "91663CF37C",
+              "expression": "Kerbstift 5x36",
+              "description": "Kerbstift 5x36",
+              "parts": [
+                {
+                  "number": "995667818",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "18D49E298C",
+              "expression": "Kerbstift 5x40",
+              "description": "Kerbstift 5x40",
+              "parts": [
+                {
+                  "number": "995667819",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "B048DB6F65",
+              "expression": "Kerbstift 5x72",
+              "description": "Kerbstift 5x72",
+              "parts": [
+                {
+                  "number": "995667820",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "D69C38770E",
+              "expression": "Kerbstift 5x100",
+              "description": "Kerbstift 5x100",
+              "parts": [
+                {
+                  "number": "995667821",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "4375013841",
+              "expression": "Doppel Kerbstift 5x52",
+              "description": "Doppel Kerbstift 5x52",
+              "parts": [
+                {
+                  "number": "995667825",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "2AFA42270A",
+              "expression": "Doppel Kerbstift 5x62",
+              "description": "Doppel Kerbstift 5x62",
+              "parts": [
+                {
+                  "number": "995667826",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "8CD700FF44",
+              "expression": "Doppel Kerbstift 5x72",
+              "description": "Doppel Kerbstift 5x72",
+              "parts": [
+                {
+                  "number": "995667827",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "BBBA831B8B",
+              "expression": "Doppel Kerbstift 5x82",
+              "description": "Doppel Kerbstift 5x82",
+              "parts": [
+                {
+                  "number": "995667828",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CE835AEB24",
+          "description": "Bohrung in der Tonhaltung",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "426E335CFD",
+              "expression": "Bohrung Einseitig",
+              "description": "Bohrung Einseitig"
+            },
+            {
+              "code": "0465CF7450",
+              "expression": "Bohrung Doppelt",
+              "description": "Bohrung Doppelt"
+            }
+          ]
+        },
+        {
+          "code": "AB911ADFCC",
+          "description": "Material der U-Scheibe",
+          "standardValue": "U-Scheibe Messing",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "40ED087685",
+              "expression": "U-Scheibe Messing",
+              "description": "U-Scheibe Messing"
+            },
+            {
+              "code": "C2DABFAF91",
+              "expression": "U-Scheibe Filz",
+              "description": "U-Scheibe Filz"
+            }
+          ]
+        },
+        {
+          "code": "2450AE0F3F",
+          "description": "Position der U-Scheibe",
+          "standardValue": "Position Außen",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "08C148ECC8",
+              "expression": "Position Außen",
+              "description": "Position Außen"
+            },
+            {
+              "code": "31CBAA2141",
+              "expression": "Position Spreize",
+              "description": "Position Spreize"
+            }
+          ]
+        }
+      ],
+      "children": [
+        {
+          "code": "D229DB0A81",
+          "description": "Flügel Tonhaltestangen Feld",
+          "attributes": [
+            {
+              "code": "39D50C14EC",
+              "description": "Länge vom Tonhaltestangen Feld",
+              "standardValue": "",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 1,
+              "rangeStart": 1,
+              "rangeEnd": 1500,
+              "step": 0.1
+            }
+          ],
+          "children": [
+          ]
+        }
+      ]
+    }
+  ]
+}
