@@ -28,76 +28,6 @@
           "description": "Flügel Dämpferarm Baugruppe US",
           "attributes": [
             {
-              "code": "0AAFF2E9C9",
-              "description": "Löffelüberstand",
-              "standardValue": "19",
-              "art": 0,
-              "dataType": 0,
-              "nullAble": 0,
-              "decimal": 0,
-              "rangeStart": 15,
-              "rangeEnd": 30,
-              "step": 1,
-              "expressions": [
-                {
-                  "code": "D7B295D387",
-                  "expression": "14 bis 17 mm",
-                  "description": "14 bis 17 mm",
-                  "parts": [
-                    {
-                      "number": "995611094",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 14,
-                  "numberEnd": 17
-                },
-                {
-                  "code": "D9B6F2F8C9",
-                  "expression": "19 bis 22 mm",
-                  "description": "19 bis 22 mm",
-                  "parts": [
-                    {
-                      "number": "995611096",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 19,
-                  "numberEnd": 22
-                },
-                {
-                  "code": "022C19F4A7",
-                  "expression": "23 bis 25 mm",
-                  "description": "23 bis 25 mm",
-                  "parts": [
-                    {
-                      "number": "995611097",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 23,
-                  "numberEnd": 25
-                },
-                {
-                  "code": "8C8B5DC56C",
-                  "expression": "25 bis 29 mm",
-                  "description": "25 bis 29 mm",
-                  "parts": [
-                    {
-                      "number": "995611098",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 25,
-                  "numberEnd": 29
-                }
-              ]
-            },
-            {
               "code": "7074E7A037",
               "description": "Dämpferarm Ausgebleit",
               "standardValue": "1",
@@ -125,114 +55,6 @@
               "dataType": 1,
               "nullAble": 0,
               "expressions": [
-                {
-                  "code": "24D99681BD",
-                  "expression": "Renner_2_Bl10",
-                  "description": "Renner_2_Bl10",
-                  "parts": [
-                    {
-                      "number": "924623198",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "F2034FFB66",
-                  "expression": "Renner_1_Bl10",
-                  "description": "Renner_1_Bl10",
-                  "parts": [
-                    {
-                      "number": "924623197",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "EC6883FD44",
-                  "expression": "Renner_1_Bl8",
-                  "description": "Renner_1_Bl8",
-                  "parts": [
-                    {
-                      "number": "924623196",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "D37966F86C",
-                  "expression": "Renner_oBlei",
-                  "description": "Renner_oBlei",
-                  "parts": [
-                    {
-                      "number": "924623195",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "7A57646886",
-                  "expression": "Renner Scheibe 2Bl10",
-                  "description": "Renner Scheibe 2Bl10",
-                  "parts": [
-                    {
-                      "number": "924623211",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "1EB6EA2534",
-                  "expression": "Renner Scheibe 1Bl10",
-                  "description": "Renner Scheibe 1Bl10",
-                  "parts": [
-                    {
-                      "number": "924623210",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "C81748A835",
-                  "expression": "Renner Scheibe 1Bl8",
-                  "description": "Renner Scheibe 1Bl8",
-                  "parts": [
-                    {
-                      "number": "924623209",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "0832EB47AA",
-                  "expression": "Renner Scheibe ohne",
-                  "description": "Renner Scheibe ohne",
-                  "parts": [
-                    {
-                      "number": "924623208",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "F8EA715672",
-                  "expression": "Bösendorfer 1Bl. 10,1",
-                  "description": "Bösendorfer 1Bl. 10,1",
-                  "parts": [
-                    {
-                      "number": "924623181",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
                 {
                   "code": "B5423F4714",
                   "expression": "Steinway 3",
@@ -376,18 +198,6 @@
                       "unit": 8
                     }
                   ]
-                },
-                {
-                  "code": "DDAC03C97D",
-                  "expression": "Kolberg",
-                  "description": "Kolberg",
-                  "parts": [
-                    {
-                      "number": "924623216",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
                 }
               ]
             },
@@ -431,18 +241,6 @@
               "dataType": 1,
               "nullAble": 0,
               "expressions": [
-                {
-                  "code": "548AD6BA68",
-                  "expression": "Renner",
-                  "description": "Renner",
-                  "parts": [
-                    {
-                      "number": "923122001",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
                 {
                   "code": "FE27961217",
                   "expression": "Steinway Hamburg",
@@ -713,8 +511,8 @@
                 },
                 {
                   "code": "7A57646886",
-                  "expression": "Renner Scheibe 2Bl10",
-                  "description": "Renner Scheibe 2Bl10",
+                  "expression": "Renner Schräg 2Bl10",
+                  "description": "Renner Schräg 2Bl10",
                   "parts": [
                     {
                       "number": "924623211",
@@ -725,8 +523,8 @@
                 },
                 {
                   "code": "1EB6EA2534",
-                  "expression": "Renner Scheibe 1Bl10",
-                  "description": "Renner Scheibe 1Bl10",
+                  "expression": "Renner Schräg 1Bl10",
+                  "description": "Renner Schräg 1Bl10",
                   "parts": [
                     {
                       "number": "924623210",
@@ -737,16 +535,20 @@
                 },
                 {
                   "code": "C81748A835",
-                  "expression": "Renner Scheibe 1Bl8",
-                  "description": "Renner Scheibe 1Bl8",
+                  "expression": "Renner Schräg 1Bl8",
+                  "description": "Renner Schräg 1Bl8",
                   "parts": [
-                    "924623209"
+                    {
+                      "number": "92462309",
+                      "quantity": 1,
+                      "unit": 8
+                    }
                   ]
                 },
                 {
                   "code": "0832EB47AA",
-                  "expression": "Renner Scheibe ohne",
-                  "description": "Renner Scheibe ohne",
+                  "expression": "Renner Schräg ohne",
+                  "description": "Renner Schräg ohne",
                   "parts": [
                     {
                       "number": "924623208",
@@ -762,150 +564,6 @@
                   "parts": [
                     {
                       "number": "924623181",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "B5423F4714",
-                  "expression": "Steinway 3",
-                  "description": "Steinway 3",
-                  "parts": [
-                    {
-                      "number": "924623206",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "729F4B1F93",
-                  "expression": "Steinway 2",
-                  "description": "Steinway 2",
-                  "parts": [
-                    {
-                      "number": "924623205",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "7B6168ABAA",
-                  "expression": "Steinway 1",
-                  "description": "Steinway 1",
-                  "parts": [
-                    {
-                      "number": "924623204",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "287474C10E",
-                  "expression": "Steinway ohne",
-                  "description": "Steinway ohne",
-                  "parts": [
-                    {
-                      "number": "924623203",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "9F53CFF423",
-                  "expression": "US Pilote 3",
-                  "description": "US Pilote 3",
-                  "parts": [
-                    {
-                      "number": "924623215",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "19536057A6",
-                  "expression": "US Pilote 2",
-                  "description": "US Pilote 2",
-                  "parts": [
-                    {
-                      "number": "924623214",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "23277D14BB",
-                  "expression": "US Pilote 1",
-                  "description": "US Pilote 1",
-                  "parts": [
-                    {
-                      "number": "924623213",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "C06794672F",
-                  "expression": "US Pilote ohne",
-                  "description": "US Pilote ohne",
-                  "parts": [
-                    {
-                      "number": "924623212",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "9798E8C93C",
-                  "expression": "US Federlauf 3",
-                  "description": "US Federlauf",
-                  "parts": [
-                    {
-                      "number": "924623190",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "8BCEE0C7F1",
-                  "expression": "US Federlauf 2",
-                  "description": "US Federlauf 2",
-                  "parts": [
-                    {
-                      "number": "924623189",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "90BBE9DD48",
-                  "expression": "US Federlauf 1",
-                  "description": "US Federlauf 1",
-                  "parts": [
-                    {
-                      "number": "924623188",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "112FF5252C",
-                  "expression": "US Federlauf ohne",
-                  "description": "US Federlauf ohne",
-                  "parts": [
-                    {
-                      "number": "924623187",
                       "quantity": 1,
                       "unit": 8
                     }
@@ -966,36 +624,12 @@
               "nullAble": 0,
               "expressions": [
                 {
-                  "code": "548AD6BA68",
-                  "expression": "Renner",
-                  "description": "Renner",
+                  "code": "E00E25D0F6",
+                  "expression": "Renner Dämpferarmkapsel",
+                  "description": "Renner Dämpferarmkapsel",
                   "parts": [
                     {
                       "number": "923122001",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "FE27961217",
-                  "expression": "Steinway Hamburg",
-                  "description": "Steinway Hamburg",
-                  "parts": [
-                    {
-                      "number": "923122002",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "7516FD43AD",
-                  "expression": "US",
-                  "description": "US",
-                  "parts": [
-                    {
-                      "number": "923122003",
                       "quantity": 1,
                       "unit": 8
                     }
@@ -1024,18 +658,6 @@
                       "parts": [
                         {
                           "number": "923122014",
-                          "quantity": 1,
-                          "unit": 8
-                        }
-                      ]
-                    },
-                    {
-                      "code": "2A5289986C",
-                      "expression": "Steinway",
-                      "description": "Steinway",
-                      "parts": [
-                        {
-                          "number": "923122016",
                           "quantity": 1,
                           "unit": 8
                         }
