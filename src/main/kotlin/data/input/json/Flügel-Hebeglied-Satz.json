@@ -170,7 +170,7 @@
                 {
                   "code": "2885DADB94",
                   "expression": "Grau Grau mit Nut",
-                  "description": "Grau Grau",
+                  "description": "Grau Grau mit Nut",
                   "parts": [
                     {
                       "number": "922107079",
@@ -206,7 +206,7 @@
                 {
                   "code": "7DB9BAFCDE",
                   "expression": "Gra Grau Gelb mit Nut",
-                  "description": "Gra Grau Gelb",
+                  "description": "Gra Grau Gelb mit Nut",
                   "parts": [
                     {
                       "number": "922107072",
@@ -252,30 +252,6 @@
                   ]
                 },
                 {
-                  "code": "589F6E3531",
-                  "expression": "Rot Rot Blau",
-                  "description": "Rot Rot Blau",
-                  "parts": [
-                    {
-                      "number": "922107109",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "6EC1E0DE89",
-                  "expression": "Rot Rot Blau mit Nut",
-                  "description": "Rot Rot Blau mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107091",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
                   "code": "E1D91E3279",
                   "expression": "Rot",
                   "description": "Rot",
@@ -306,18 +282,6 @@
                   "parts": [
                     {
                       "number": "922107112",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "EBFA0A316D",
-                  "expression": "Rot Grün mit Nut",
-                  "description": "Rot Grün mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107092",
                       "quantity": "1",
                       "unit": 8
                     }
@@ -438,18 +402,6 @@
                   "parts": [
                     {
                       "number": "922107100",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "1A2B11E0AD",
-                  "expression": "Rot Grau",
-                  "description": "Rot Grau",
-                  "parts": [
-                    {
-                      "number": "922107102",
                       "quantity": "1",
                       "unit": 8
                     }

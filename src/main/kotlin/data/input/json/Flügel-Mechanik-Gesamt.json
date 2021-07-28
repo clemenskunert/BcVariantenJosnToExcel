@@ -1,0 +1,4417 @@
+@startjson
+{
+  "code": "288C7F2CA9",
+  "description": "Flügel Mechanik mit Dämpfung montiert",
+  "attributes": [
+  ],
+  "children": [
+    {
+      "code": "7646B1B26E",
+      "description": "Flügel Mechanik montiert",
+      "attributes": [
+      ],
+      "children": [
+        {
+          "code": "696B8A0086",
+          "description": "Flügel Hebeglied Satz",
+          "attributes": [
+          ],
+          "children": [
+            {
+              "code": "B33162438C",
+              "description": "Flügel Hebeglied Feld",
+              "attributes": [
+                {
+                  "code": "076B2E716B",
+                  "description": "Anzahl Flügel Hebeglieder",
+                  "standardValue": "88",
+                  "art": 0,
+                  "dataType": 0,
+                  "nullAble": 0,
+                  "decimal": 0,
+                  "rangeStart": 1,
+                  "rangeEnd": 100,
+                  "step": 1
+                }
+              ],
+              "children": [
+                {
+                  "code": "CE3FB81D80",
+                  "description": "Flügel Hebeglied Baugruppe",
+                  "attributes": [
+                    {
+                      "code": "147E174951",
+                      "description": "Flügel Hebeglied Grundkörper",
+                      "standardValue": "",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "5A83476D51",
+                          "expression": "Steinway HH",
+                          "description": "Steinway HH",
+                          "parts": [
+                            {
+                              "number": "922107065",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "0E1B3E51DB",
+                          "expression": "US-201",
+                          "description": "US-201",
+                          "parts": [
+                            {
+                              "number": "922107065",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2546483D7D",
+                          "expression": "US-OLD",
+                          "description": "US-OLD",
+                          "parts": [
+                            {
+                              "number": "922107113",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "DF09C7360B",
+                          "expression": "US-OLD mit Nut",
+                          "description": "US-OLD mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107070",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "7516FD43AD",
+                          "expression": "US",
+                          "description": "US",
+                          "parts": [
+                            {
+                              "number": "922107067",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "932D0C039A",
+                          "expression": "US mit Nut",
+                          "description": "US mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107073",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "3F2402AA74",
+                          "expression": "Grau Grau Blau",
+                          "description": "Grau Grau Blau",
+                          "parts": [
+                            {
+                              "number": "922107105",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "9371CE8244",
+                          "expression": "Grau Grau Blau mit Nut",
+                          "description": "Grau Grau Blau mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107078",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "85949CF9B4",
+                          "expression": "Rot Rot",
+                          "description": "Rot Rot",
+                          "parts": [
+                            {
+                              "number": "922107108",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "5BFDF1E206",
+                          "expression": "Rot Rot mit Nut",
+                          "description": "Rot Rot mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107071",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2885DADB94",
+                          "expression": "Grau Grau",
+                          "description": "Grau Grau",
+                          "parts": [
+                            {
+                              "number": "922107106",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2885DADB94",
+                          "expression": "Grau Grau mit Nut",
+                          "description": "Grau Grau",
+                          "parts": [
+                            {
+                              "number": "922107079",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "05261FFFAD",
+                          "expression": "Grau Grau verkürzt",
+                          "description": "Grau Grau verkürzt",
+                          "parts": [
+                            {
+                              "number": "922107118",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "6A0FD5C181",
+                          "expression": "Grau Grau Gelb",
+                          "description": "Grau Grau Gelb",
+                          "parts": [
+                            {
+                              "number": "922107110",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "7DB9BAFCDE",
+                          "expression": "Gra Grau Gelb mit Nut",
+                          "description": "Gra Grau Gelb",
+                          "parts": [
+                            {
+                              "number": "922107072",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "167588620F",
+                          "expression": "Grau Grün",
+                          "description": "Grau Grün",
+                          "parts": [
+                            {
+                              "number": "922107111",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "8B0E7800BD",
+                          "expression": "Grau Grün mit Nut",
+                          "description": "Grau Grün mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107090",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "BD8B802C8D",
+                          "expression": "Universal",
+                          "description": "Universal",
+                          "parts": [
+                            {
+                              "number": "922107069",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "589F6E3531",
+                          "expression": "Rot Rot Blau",
+                          "description": "Rot Rot Blau",
+                          "parts": [
+                            {
+                              "number": "922107109",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "6EC1E0DE89",
+                          "expression": "Rot Rot Blau mit Nut",
+                          "description": "Rot Rot Blau mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107091",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "E1D91E3279",
+                          "expression": "Rot",
+                          "description": "Rot",
+                          "parts": [
+                            {
+                              "number": "922107096",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "99CC543CEA",
+                          "expression": "Rot mit Nut",
+                          "description": "Rot mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107082",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "4BD4E5438F",
+                          "expression": "Rot Grün",
+                          "description": "Rot Grün",
+                          "parts": [
+                            {
+                              "number": "922107112",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "EBFA0A316D",
+                          "expression": "Rot Grün mit Nut",
+                          "description": "Rot Grün mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107092",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "5B6E7E335E",
+                          "expression": "Grau Grau Grün",
+                          "description": "Grau Grau Grün",
+                          "parts": [
+                            {
+                              "number": "922107107",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "D40CCE490C",
+                          "expression": "Grau Grau Grün mit Nut",
+                          "description": "Grau Grau Grün mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107076",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "FD9DCAA5F7",
+                          "expression": "Grau Blau mit Nut",
+                          "description": "Grau Blau mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107081",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "B9570EF48E",
+                          "expression": "Grau Gelb",
+                          "description": "Grau Gelb",
+                          "parts": [
+                            {
+                              "number": "922107104",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "4D09953B93",
+                          "expression": "Grau Gelb mit Nut",
+                          "description": "Grau Gelb mit Nut",
+                          "parts": [
+                            {
+                              "number": "922107089",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "CAEDC624AF",
+                          "expression": "Grün",
+                          "description": "Grün",
+                          "parts": [
+                            {
+                              "number": "922107101",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "338541D5D4",
+                          "expression": "Grün Grün",
+                          "description": "Grün Grün",
+                          "parts": [
+                            {
+                              "number": "922107114",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "42B4A04687",
+                          "expression": "FNN ohne Sattel",
+                          "description": "FNN ohne Sattel",
+                          "parts": [
+                            {
+                              "number": "922107115",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "051CAD615A",
+                          "expression": "Grau",
+                          "description": "Grau",
+                          "parts": [
+                            {
+                              "number": "922107097",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "4B8163E423",
+                          "expression": "Braun",
+                          "description": "Braun",
+                          "parts": [
+                            {
+                              "number": "922107100",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "1A2B11E0AD",
+                          "expression": "Rot Grau",
+                          "description": "Rot Grau",
+                          "parts": [
+                            {
+                              "number": "922107102",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "AE680FEBE7",
+                      "description": "Flügel Hebeglied Kapsel",
+                      "standardValue": "",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "548AD6BA68",
+                          "expression": "Renner",
+                          "description": "Renner",
+                          "parts": [
+                            {
+                              "number": "922107037",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "1B6B90B022",
+                          "expression": "Renner mit Schnur",
+                          "description": "Renner mit Schnur",
+                          "parts": [
+                            {
+                              "number": "922107005",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2A5289986C",
+                          "expression": "Steinway",
+                          "description": "Steinway",
+                          "parts": [
+                            {
+                              "number": "922107005",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "002F27E506",
+                          "expression": "MH",
+                          "description": "MH",
+                          "parts": [
+                            {
+                              "number": "802107006",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "31917677A6",
+                          "expression": "FORD",
+                          "description": "FORD",
+                          "parts": [
+                            {
+                              "number": "802107020",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "348BEDB24C",
+                          "expression": "Falcone",
+                          "description": "Falcone",
+                          "parts": [
+                            {
+                              "number": "802107008",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "DEA1204D01",
+                          "expression": "Renner Kurz",
+                          "description": "Renner Kurz",
+                          "parts": [
+                            {
+                              "number": "922107003",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "58C287A78F",
+                          "expression": "Renner Kurz mit Schnur",
+                          "description": "Renner Kurz mit Schnur",
+                          "parts": [
+                            {
+                              "number": "922107004",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "24C1177285",
+                          "expression": "Fazioli T-2",
+                          "description": "Fazioli T-2",
+                          "parts": [
+                            {
+                              "number": "922107021",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "E9D53D079E",
+                      "description": "Flügel Hebeglied Repetierschenkel",
+                      "standardValue": "",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "2A5289986C",
+                          "expression": "Steinway",
+                          "description": "Steinway",
+                          "parts": [
+                            {
+                              "number": "922107026",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "CCD9D5AA48",
+                          "expression": "Fazioli 308/ 310",
+                          "description": "Fazioli 308/ 310",
+                          "parts": [
+                            {
+                              "number": "922107024",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "AD7AD50C91",
+                          "expression": "Renner 18mm",
+                          "description": "Renner 18mm",
+                          "parts": [
+                            {
+                              "number": "922107034",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "A1F25CA2B0",
+                          "expression": "Renner 20mm",
+                          "description": "Renner 20mm",
+                          "parts": [
+                            {
+                              "number": "922107031",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "31253D3561",
+                          "expression": "Renner mit Stellschraube 18mm",
+                          "description": "Renner mit Stellschraube 18mm",
+                          "parts": [
+                            {
+                              "number": "922107030",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "0F6F8C74FC",
+                          "expression": "Renner mit Stellschraube 20mm",
+                          "description": "Renner mit Stellschraube 20mm",
+                          "parts": [
+                            {
+                              "number": "922107033",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "E2C2D5E0FF",
+                          "expression": "Steinway mit Stellschraube",
+                          "description": "Steinway mit Stellschraube",
+                          "parts": [
+                            {
+                              "number": "922107035",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "6955773B32",
+                      "description": "Flügel Repetierfeder",
+                      "standardValue": "0,95",
+                      "art": 0,
+                      "dataType": 0,
+                      "nullAble": 0,
+                      "decimal": 2,
+                      "rangeStart": 0.75,
+                      "rangeEnd": 1.0,
+                      "step": 0.05,
+                      "expression": [
+                        {
+                          "code": "B1FEF09B41",
+                          "expression": "0,75 mm",
+                          "description": "0,75 mm",
+                          "parts": [
+                            {
+                              "number": "925652528",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.75,
+                          "numberEnd": 0.75
+                        },
+                        {
+                          "code": "82E98A3D8F",
+                          "expression": "0,80 mm",
+                          "description": "0,80 mm",
+                          "parts": [
+                            {
+                              "number": "925654529",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.8,
+                          "numberEnd": 0.8
+                        },
+                        {
+                          "code": "AA9546530E",
+                          "expression": "0,85 mm",
+                          "description": "0,85 mm",
+                          "parts": [
+                            {
+                              "number": "925652530",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.85,
+                          "numberEnd": 0.85
+                        },
+                        {
+                          "code": "DF0C94DA90",
+                          "expression": "0,90 mm",
+                          "description": "0,90 mm",
+                          "parts": [
+                            {
+                              "number": "925654531",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.9,
+                          "numberEnd": 0.9
+                        },
+                        {
+                          "code": "680788B710",
+                          "expression": "0,95 mm",
+                          "description": "0,95 mm",
+                          "parts": [
+                            {
+                              "number": "925654532",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.95,
+                          "numberEnd": 0.95
+                        },
+                        {
+                          "code": "AA27890B3D",
+                          "expression": "1,0 mm",
+                          "description": "1,0 mm",
+                          "parts": [
+                            {
+                              "number": "925654533",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 1.0,
+                          "numberEnd": 1.0
+                        },
+                        {
+                          "code": "0C9765BF47",
+                          "expression": "0,85 mm Stellbar",
+                          "description": "0,85 mm Stellbar",
+                          "parts": [
+                            {
+                              "number": "925654534",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.85,
+                          "numberEnd": 0.85
+                        },
+                        {
+                          "code": "DF0C94DA90",
+                          "expression": "0,90 mm",
+                          "description": "0,90 mm",
+                          "parts": [
+                            {
+                              "number": "925654535",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.9,
+                          "numberEnd": 0.9
+                        },
+                        {
+                          "code": "680788B710",
+                          "expression": "0,95 mm",
+                          "description": "0,95 mm",
+                          "parts": [
+                            {
+                              "number": "925654536",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.95,
+                          "numberEnd": 0.95
+                        },
+                        {
+                          "code": "82E98A3D8F",
+                          "expression": "0,80 mm",
+                          "description": "0,80 mm",
+                          "parts": [
+                            {
+                              "number": "925654537",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ],
+                          "numberStart": 0.8,
+                          "numberEnd": 0.8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "B49744FB0D",
+                      "description": "Hebeglied mit Stoßzunge",
+                      "standardValue": "1",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 1,
+                      "expressions": [
+                        {
+                          "code": "JANEIN",
+                          "expression": "JA",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        },
+                        {
+                          "code": "JANEIN",
+                          "expression": "NEIN",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        }
+                      ]
+                    },
+                    {
+                      "code": "B65DF1F634",
+                      "description": "Hebeglied Stoßzungen Sorte",
+                      "standardValue": "",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "0B9765C175",
+                          "expression": "Stoßzunge Renner",
+                          "description": "Stoßzunge Renner",
+                          "parts": [
+                            {
+                              "number": "922107014",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "15AFBC7CE8",
+                          "expression": "Stoßzunge Steinway",
+                          "description": "Stoßzunge Steinway",
+                          "parts": [
+                            {
+                              "number": "922107012",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "0EC8C721F0",
+                          "expression": "Stoßzunge US",
+                          "description": "Stoßzunge US",
+                          "parts": [
+                            {
+                              "number": "922107016",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "0F9B1C3F62",
+                          "expression": "Stoßzunge MH",
+                          "description": "Stoßzunge MH",
+                          "parts": [
+                            {
+                              "number": "922107015",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "3C6CCD1BC0",
+                          "expression": "Stoßzunge Baldwin",
+                          "description": "Stoßzunge Baldwin",
+                          "parts": [
+                            {
+                              "number": "922107013",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "C1BF8039BC",
+                      "description": "Hebeglied mit Tragfeder",
+                      "standardValue": "0",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 1,
+                      "expressions": [
+                        {
+                          "code": "JANEIN",
+                          "expression": "JA",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        },
+                        {
+                          "code": "JANEIN",
+                          "expression": "NEIN",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        }
+                      ]
+                    },
+                    {
+                      "code": "7302C7F26C",
+                      "description": "Hebeglied Tragfeder Sorte",
+                      "standardValue": "",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "836D4B22BA",
+                          "expression": "0,55 mm Renner",
+                          "description": "0,55 mm Renner",
+                          "parts": [
+                            {
+                              "number": "925611027",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "6F3DA3E9D5",
+                          "expression": "0,60 mm Renner",
+                          "description": "0,60 mm Renner",
+                          "parts": [
+                            {
+                              "number": "925611028",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "D5F3A87055",
+                          "expression": "0,70 mm Renner",
+                          "description": "0,70 mm Renner",
+                          "parts": [
+                            {
+                              "number": "925611029",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "68B5460624",
+                          "expression": "0,70 mm USA",
+                          "description": "0,70 mm USA",
+                          "parts": [
+                            {
+                              "number": "925611030",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "2835FCDFF4",
+                      "description": "Renner Logo vorhanden",
+                      "standardValue": "1",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 1,
+                      "expressions": [
+                        {
+                          "code": "JANEIN",
+                          "expression": "JA",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        },
+                        {
+                          "code": "JANEIN",
+                          "expression": "NEIN",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        }
+                      ]
+                    },
+                    {
+                      "code": "2C0E0E4C85",
+                      "description": "Stärke Flügel Hammerruhepolster",
+                      "standardValue": "8.7",
+                      "art": 1,
+                      "dataType": 0,
+                      "nullAble": 0,
+                      "decimal": 1,
+                      "expressions": [
+                        {
+                          "code": "C7E1249FFC",
+                          "expression": "8.7",
+                          "description": "8.7",
+                          "numberStart": 8.7,
+                          "numberEnd": 8.7,
+                          "parts": [
+                            {
+                              "number": "924628405",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "C20AD4D76F",
+                          "expression": "12",
+                          "description": "12",
+                          "numberStart": 12,
+                          "numberEnd": 12,
+                          "parts": [
+                            {
+                              "number": "924628406",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "A23EEACD89",
+                      "description": "Hebeglied Repetierfeder Aufhängung",
+                      "standardValue": "Kordel",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "F0BA0EDBAD",
+                          "expression": "Kordel",
+                          "description": "Kordel",
+                          "parts": [
+                            {
+                              "__comment": "Fehlender Artikel im System Repetierfederkordel Zuschnitt mit Spitze aus 997850286",
+                              "number": "",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "6D9FED9398",
+                          "expression": "Stift",
+                          "description": "Stift",
+                          "parts": [
+                            {
+                              "number": "997850040",
+                              "quantity": 0.017,
+                              "unit": 8
+                            },
+                            {
+                              "number": "924652544",
+                              "quantity": 0.0277,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "children": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3469E82DB5",
+          "description": "Flügel Dämpferpüschelsatz",
+          "attributes": [
+            {
+              "code": "1A7A24F97F",
+              "description": "Stabform",
+              "standardValue": "1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "BEFDA91DDE",
+                  "expression": "WB-Hoch-977",
+                  "description": "WB-Hoch-977",
+                  "parts": [
+                    {
+                      "number": "924626265",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "53A8916D57",
+                  "expression": "WB-Hoch-978",
+                  "description": "WB-Hoch-978",
+                  "parts": [
+                    {
+                      "number": "924626266",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "F170345807",
+                  "expression": "WB-Hoch-981",
+                  "description": "WB-Hoch-981",
+                  "parts": [
+                    {
+                      "number": "924626267",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "817020A8B7",
+                  "expression": "AH-Hoch-3",
+                  "description": "AH-Hoch-3",
+                  "parts": [
+                    {
+                      "number": "924626268",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "BAE1C84391",
+                  "expression": "AH-Hoch-4",
+                  "description": "AH-Hoch-4",
+                  "parts": [
+                    {
+                      "number": "924626269",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "AE56EA67D0",
+                  "expression": "WB-MATT-977",
+                  "description": "WB-MATT-977",
+                  "parts": [
+                    {
+                      "number": "924626291",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "09AA3CAF8D",
+                  "expression": "WB-MATT-978",
+                  "description": "WB-MATT-978",
+                  "parts": [
+                    {
+                      "number": "924626292",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "4AD6369836",
+                  "expression": "WB-MATT-981",
+                  "description": "WB-MATT-981",
+                  "parts": [
+                    {
+                      "number": "924626293",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "children": [
+            {
+              "code": "58C013F25E",
+              "description": "DämpferPüschel-Feld",
+              "attributes": [
+                {
+                  "code": "B739A89768",
+                  "description": "Anzahl Töne",
+                  "standardValue": "20",
+                  "art": 0,
+                  "dataType": 0,
+                  "nullAble": 0,
+                  "decimal": 0,
+                  "rangeStart": 1,
+                  "rangeEnd": 97,
+                  "step": 1
+                }
+              ],
+              "children": [
+                {
+                  "code": "2817D4C9AD",
+                  "description": "Dämpferpüschel",
+                  "attributes": [
+                    {
+                      "code": "5908468939",
+                      "description": "Aufschittbreite",
+                      "standardValue": "10",
+                      "art": 0,
+                      "dataType": 0,
+                      "nullAble": 0,
+                      "decimal": 1,
+                      "rangeStart": 9.0,
+                      "rangeEnd": 11.5,
+                      "step": 0
+                    },
+                    {
+                      "code": "D41D8CD98F",
+                      "expression": "",
+                      "description": "",
+                      "parts": [
+                        {
+                          "number": "",
+                          "quantity": "1",
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ],
+                  "children": [
+                    {
+                      "code": "30E84F7DF6",
+                      "description": "Dämpferpüschel Unterlage Filz",
+                      "attributes": [
+                        {
+                          "code": "83A9B59E7A",
+                          "description": "Dämpferpüschel Unterlage Filz Sorte",
+                          "standardValue": "",
+                          "art": 1,
+                          "dataType": 1,
+                          "nullAble": 0,
+                          "expressions": [
+                            {
+                              "code": "A8E701827B",
+                              "expression": "1008 Schwarz",
+                              "description": "1008 Schwarz",
+                              "parts": [
+                                {
+                                  "number": "997850219",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "77300DD222",
+                              "expression": "1009 Schwarz",
+                              "description": "1009 Schwarz",
+                              "parts": [
+                                {
+                                  "number": "997850220",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "3DA2F4393C",
+                              "expression": "1010 Schwarz",
+                              "description": "1010 Schwarz",
+                              "parts": [
+                                {
+                                  "number": "997850228",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "1E1FD72C11",
+                              "expression": "1011 Schwarz",
+                              "description": "1011 Schwarz",
+                              "parts": [
+                                {
+                                  "number": "997850227",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "EAA981B6D9",
+                              "expression": "1014 Rot",
+                              "description": "1014 Rot",
+                              "parts": [
+                                {
+                                  "number": "997850246",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "7B2600BF27",
+                              "expression": "1017 Grün",
+                              "description": "1017 Grün",
+                              "parts": [
+                                {
+                                  "number": "997850287",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "725DBF1237",
+                              "expression": "1036 Rot",
+                              "description": "1036 Rot",
+                              "parts": [
+                                {
+                                  "number": "997850257",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "45E0B1E5CE",
+                              "expression": "1040 Blau",
+                              "description": "1040 Blau",
+                              "parts": [
+                                {
+                                  "number": "997850288",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "24031FE08E",
+                              "expression": "2026 Weinrot",
+                              "description": "2026 Weinrot",
+                              "parts": [
+                                {
+                                  "number": "997850293",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "code": "7EAF749292",
+                          "description": "Länge Dämpferpüschel Filz",
+                          "standardValue": "",
+                          "art": 0,
+                          "dataType": 0,
+                          "nullAble": 0,
+                          "decimal": 0,
+                          "rangeStart": 18,
+                          "rangeEnd": 46,
+                          "step": 2
+                        },
+                        {
+                          "code": "AA8C3B164E",
+                          "description": "Dämpferpüschel Hohlkehle augestochen",
+                          "standardValue": "0",
+                          "art": 1,
+                          "dataType": 1,
+                          "nullAble": 1,
+                          "expressions": [
+                            {
+                              "code": "JANEIN",
+                              "expression": "JA",
+                              "description": "Ja / Nein",
+                              "numberValue": 0.0
+                            },
+                            {
+                              "code": "JANEIN",
+                              "expression": "NEIN",
+                              "description": "Ja / Nein",
+                              "numberValue": 0.0
+                            }
+                          ]
+                        }
+                      ],
+                      "children": [
+                      ]
+                    },
+                    {
+                      "code": "B7821FA66B",
+                      "description": "Flügel Dämpferpüschel Filz",
+                      "attributes": [
+                        {
+                          "code": "4BBB9E8960",
+                          "description": "Flügel Dämpferpüschel Filz Sorte",
+                          "standardValue": "",
+                          "art": 1,
+                          "dataType": 1,
+                          "nullAble": 0,
+                          "expressions": [
+                            {
+                              "code": "89F0FD5C92",
+                              "expression": "325",
+                              "description": "325",
+                              "parts": [
+                                {
+                                  "number": "9978850147",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "A666587AFD",
+                              "expression": "326",
+                              "description": "326",
+                              "parts": [
+                                {
+                                  "number": "9978850156",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "B83AAC23B9",
+                              "expression": "327",
+                              "description": "327",
+                              "parts": [
+                                {
+                                  "number": "9978850135",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "CD00692C3B",
+                              "expression": "328",
+                              "description": "328",
+                              "parts": [
+                                {
+                                  "number": "9978850141",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "6FAA8040DA",
+                              "expression": "329",
+                              "description": "329",
+                              "parts": [
+                                {
+                                  "number": "9978850158",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "6DA37DD313",
+                              "expression": "331",
+                              "description": "331",
+                              "parts": [
+                                {
+                                  "number": "9978850139",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "C042F4DB68",
+                              "expression": "332",
+                              "description": "332",
+                              "parts": [
+                                {
+                                  "number": "9978850143",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "310DCBBF4C",
+                              "expression": "333",
+                              "description": "333",
+                              "parts": [
+                                {
+                                  "number": "9978850118",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "F9B902FC32",
+                              "expression": "335",
+                              "description": "335",
+                              "parts": [
+                                {
+                                  "number": "9978850144",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "6855456E2F",
+                              "expression": "336",
+                              "description": "336",
+                              "parts": [
+                                {
+                                  "number": "9978850145",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "357A6FDF76",
+                              "expression": "337",
+                              "description": "337",
+                              "parts": [
+                                {
+                                  "number": "9978850159",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "40008B9A53",
+                              "expression": "340",
+                              "description": "340",
+                              "parts": [
+                                {
+                                  "number": "9978850148",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "9DE6D14FFF",
+                              "expression": "350",
+                              "description": "350",
+                              "parts": [
+                                {
+                                  "number": "146",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "EFE937780E",
+                              "expression": "351",
+                              "description": "351",
+                              "parts": [
+                                {
+                                  "number": "9978850179",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "EB16372791",
+                              "expression": "211",
+                              "description": "211",
+                              "parts": [
+                                {
+                                  "number": "9978850134",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "3B8A614226",
+                              "expression": "215",
+                              "description": "215",
+                              "parts": [
+                                {
+                                  "number": "9978850125",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "C0E190D826",
+                              "expression": "219",
+                              "description": "219",
+                              "parts": [
+                                {
+                                  "number": "9978850130",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "EC8CE6ABB3",
+                              "expression": "220",
+                              "description": "220",
+                              "parts": [
+                                {
+                                  "number": "9978850132",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "9CFDF10E8F",
+                              "expression": "226",
+                              "description": "226",
+                              "parts": [
+                                {
+                                  "number": "9978850140",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "74DB120F0A",
+                              "expression": "228",
+                              "description": "228",
+                              "parts": [
+                                {
+                                  "number": "9978850154",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "6DA9003B74",
+                              "expression": "230",
+                              "description": "230",
+                              "parts": [
+                                {
+                                  "number": "9978850137",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "9B04D15284",
+                              "expression": "231",
+                              "description": "231",
+                              "parts": [
+                                {
+                                  "number": "9978850138",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "2B44928AE1",
+                              "expression": "115",
+                              "description": "115",
+                              "parts": [
+                                {
+                                  "number": "9978850124",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "C45147DEE7",
+                              "expression": "116",
+                              "description": "116",
+                              "parts": [
+                                {
+                                  "number": "9978850129",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "DA4FB5C6E9",
+                              "expression": "120",
+                              "description": "120",
+                              "parts": [
+                                {
+                                  "number": "9978850131",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "C8FFE9A587",
+                              "expression": "124",
+                              "description": "124",
+                              "parts": [
+                                {
+                                  "number": "9978850151",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "3DEF184AD8",
+                              "expression": "125",
+                              "description": "125",
+                              "parts": [
+                                {
+                                  "number": "9978850133",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "9B8619251A",
+                              "expression": "130",
+                              "description": "130",
+                              "parts": [
+                                {
+                                  "number": "9978850136",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "464E59D670",
+                              "expression": "Rot 73x46 Konus 977",
+                              "description": "Rot 73x46 Konus 977",
+                              "parts": [
+                                {
+                                  "number": "923133032  ",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "99E0D82731",
+                              "expression": "Rot 73x46 Konus 978",
+                              "description": "Rot 73x46 Konus 978",
+                              "parts": [
+                                {
+                                  "number": "923133033",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "74B9CED970",
+                              "expression": "Rot 83x40 Konus 976",
+                              "description": "Rot 83x40 Konus 976",
+                              "parts": [
+                                {
+                                  "number": "923133023",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "A099E738DD",
+                              "expression": "Rot 83x40 Konus 977",
+                              "description": "Rot 83x40 Konus 977",
+                              "parts": [
+                                {
+                                  "number": "923133024",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "05F1F2160F",
+                              "expression": "Blau 83x46 Konus 976",
+                              "description": "Blau 83x46 Konus 976",
+                              "parts": [
+                                {
+                                  "number": "923133051",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "FA3F3FE3A5",
+                              "expression": "Rot 83x40 Konus 978",
+                              "description": "Rot 83x40 Konus 978",
+                              "parts": [
+                                {
+                                  "number": "923133025",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "05F1F2160F",
+                              "expression": "Blau 83x46 Konus 976",
+                              "description": "Blau 83x46 Konus 976",
+                              "parts": [
+                                {
+                                  "number": "923133052",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "A099E738DD",
+                              "expression": "Rot 83x40 Konus 977",
+                              "description": "Rot 83x40 Konus 977",
+                              "parts": [
+                                {
+                                  "number": "923133027",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "12FFA54B1E",
+                              "expression": "Rot 83x46 Konus 978",
+                              "description": "Rot 83x46 Konus 978",
+                              "parts": [
+                                {
+                                  "number": "923133028",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "7BF316F015",
+                              "expression": "Rot 83x50 Konus 977",
+                              "description": "Rot 83x50 Konus 977",
+                              "parts": [
+                                {
+                                  "number": "923133030",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "70709832BE",
+                              "expression": "Rot 83x50 Konus 978",
+                              "description": "Rot 83x50 Konus 978",
+                              "parts": [
+                                {
+                                  "number": "923133031",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "B35DD179A9",
+                              "expression": "Rot 83x50 Konus Hardi",
+                              "description": "Rot 83x50 Konus Hardi",
+                              "parts": [
+                                {
+                                  "number": "923133037",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "F7994B9AD5",
+                              "expression": "Rot 95x40 Konus 976",
+                              "description": "Rot 95x40 Konus 976",
+                              "parts": [
+                                {
+                                  "number": "923133002",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "B6B9460BC3",
+                              "expression": "Rot 95x46 Konus 977",
+                              "description": "Rot 95x46 Konus 977",
+                              "parts": [
+                                {
+                                  "number": "923133006",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "55C5FEEEB2",
+                              "expression": "Grün 95x46 Konus 977",
+                              "description": "Grün 95x46 Konus 977",
+                              "parts": [
+                                {
+                                  "number": "923133055",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "E86D49C277",
+                              "expression": "Blau 95x46 Konus 978",
+                              "description": "Blau 95x46 Konus 978",
+                              "parts": [
+                                {
+                                  "number": "923133050",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            },
+                            {
+                              "code": "AB68C60DCF",
+                              "expression": "Rot 95x50 Konus 978",
+                              "description": "Rot 95x50 Konus 978",
+                              "parts": [
+                                {
+                                  "number": "923133009",
+                                  "quantity": 1,
+                                  "unit": 8
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "code": "7EAF749292",
+                          "description": "Länge Dämpferpüschel Filz",
+                          "standardValue": "",
+                          "art": 0,
+                          "dataType": 0,
+                          "nullAble": 0,
+                          "decimal": 0,
+                          "rangeStart": 18,
+                          "rangeEnd": 46,
+                          "step": 2
+                        },
+                        {
+                          "code": "264509C977",
+                          "description": "Flügel Dämpfer mit Flachfilz",
+                          "standardValue": "1",
+                          "art": 1,
+                          "dataType": 1,
+                          "nullAble": 1,
+                          "expressions": [
+                            {
+                              "code": "JANEIN",
+                              "expression": "JA",
+                              "description": "Ja / Nein",
+                              "numberValue": 0.0
+                            },
+                            {
+                              "code": "JANEIN",
+                              "expression": "NEIN",
+                              "description": "Ja / Nein",
+                              "numberValue": 0.0
+                            }
+                          ]
+                        }
+                      ],
+                      "children": [
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "D8E83E6E42",
+          "description": "Flügel Hammerstiel Satz",
+          "attributes": [
+            {
+              "code": "B4E7EDB002",
+              "description": "Flügel Hammerstiel wird montiert",
+              "standardValue": "0",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            }
+          ],
+          "children": [
+            {
+              "code": "698B6E5D2A",
+              "description": "Flügel Hammerstiel Feld",
+              "attributes": [
+                {
+                  "code": "27C9484F27",
+                  "description": "Anzahl Flügelhammerstiele",
+                  "standardValue": "88",
+                  "art": 0,
+                  "dataType": 0,
+                  "nullAble": 0,
+                  "decimal": 0,
+                  "rangeStart": 1,
+                  "rangeEnd": 100,
+                  "step": 1
+                }
+              ],
+              "children": [
+                {
+                  "code": "02C6EC34C3",
+                  "description": "Flügel Hammerstiel Baugruppe",
+                  "attributes": [
+                    {
+                      "code": "C288F7A795",
+                      "description": "Hammerstiel Kapsel Art",
+                      "standardValue": "Renner",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "61EF93F8C0",
+                          "expression": "Fazioli T1",
+                          "description": "Fazioli T1",
+                          "parts": [
+                            {
+                              "number": "804620095",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "548AD6BA68",
+                          "expression": "Renner",
+                          "description": "Renner",
+                          "parts": [
+                            {
+                              "number": "924620149",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2A5289986C",
+                          "expression": "Steinway",
+                          "description": "Steinway",
+                          "parts": [
+                            {
+                              "number": "924620152",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "7193947F2E",
+                          "expression": "Steinway old",
+                          "description": "Steinway old",
+                          "parts": [
+                            {
+                              "number": "924620153",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "497816461B",
+                          "expression": "Versetzte Abnickschraube",
+                          "description": "Versetzte Abnickschraube",
+                          "parts": [
+                            {
+                              "number": "924620154",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "26AEA35421",
+                          "expression": "Yamaha Kinebuchi",
+                          "description": "Yamaha Kinebuchi",
+                          "parts": [
+                            {
+                              "number": "804620103",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "9AFF4A0270",
+                          "expression": "Yamaha Old",
+                          "description": "Yamaha Old",
+                          "parts": [
+                            {
+                              "number": "804620094",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "72FCF5711A",
+                          "expression": "Renner Langloch",
+                          "description": "Renner Langloch",
+                          "parts": [
+                            {
+                              "number": "804620114",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "12568E5C76",
+                          "expression": "Prat Read Standard",
+                          "description": "Prat Read Standard",
+                          "parts": [
+                            {
+                              "number": "804620115",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "75088D8EA4",
+                          "expression": "Knabe",
+                          "description": "Knabe",
+                          "parts": [
+                            {
+                              "number": "804620116",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "002F27E506",
+                          "expression": "MH",
+                          "description": "MH",
+                          "parts": [
+                            {
+                              "number": "804620117",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "C55C0936E2",
+                          "expression": "Renner Versetzte Kapselschraube",
+                          "description": "Renner Versetzte Kapselschraube",
+                          "parts": [
+                            {
+                              "number": "804620126",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2A53DE0BBE",
+                          "expression": "Baldwin Old",
+                          "description": "Baldwin Old",
+                          "parts": [
+                            {
+                              "number": "804620132",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "8006189430",
+                          "expression": "Falcon",
+                          "description": "Falcon",
+                          "parts": [
+                            {
+                              "number": "804620148",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "DDAC03C97D",
+                          "expression": "Kolberg",
+                          "description": "Kolberg",
+                          "parts": [
+                            {
+                              "number": "804620162",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "61C2E45A79",
+                          "expression": "Flemming",
+                          "description": "Flemming",
+                          "parts": [
+                            {
+                              "number": "804620157",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "D17F09F302",
+                          "expression": "MH Langloch",
+                          "description": "MH Langloch",
+                          "parts": [
+                            {
+                              "number": "924620122",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "55D60E634B",
+                          "expression": "Renner Senkung",
+                          "description": "Renner Senkung",
+                          "parts": [
+                            {
+                              "number": "924620150",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "40BB0B5639",
+                          "expression": "Renner O Bohrung",
+                          "description": "Renner O Bohrung",
+                          "parts": [
+                            {
+                              "number": "924620156",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "07DC605349",
+                          "expression": "Baldwin Neu",
+                          "description": "Baldwin Neu",
+                          "parts": [
+                            {
+                              "number": "924620164",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "DE656367C2",
+                          "expression": "Prat Read Aeola",
+                          "description": "Prat Read Aeola",
+                          "parts": [
+                            {
+                              "number": "924620167",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "722A572921",
+                          "expression": "Kawai",
+                          "description": "Kawai",
+                          "parts": [
+                            {
+                              "number": "924620170",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "480E3A5ABA",
+                          "expression": "Bechstein Alu",
+                          "description": "Bechstein Alu",
+                          "parts": [
+                            {
+                              "number": "924620168",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "24C1177285",
+                          "expression": "Faziole T2",
+                          "description": "Faziole T2",
+                          "parts": [
+                            {
+                              "number": "924620155",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "217B29C3D5",
+                      "description": "Flügelhammerstiel Stiel Art",
+                      "standardValue": "",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "C88E338A7F",
+                          "expression": "Steinway Bass",
+                          "description": "Steinway Bass",
+                          "parts": [
+                            {
+                              "number": "923149014",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "6BA879F00D",
+                          "expression": "Steinway Medium",
+                          "description": "Steinway Medium",
+                          "parts": [
+                            {
+                              "number": "923149009",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "245C0539D0",
+                          "expression": "Steinway Diskant",
+                          "description": "Steinway Diskant",
+                          "parts": [
+                            {
+                              "number": "923149015",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "ADF72A0DB2",
+                          "expression": "Renner Bass",
+                          "description": "Renner Bass",
+                          "parts": [
+                            {
+                              "number": "923149010",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "F5B7D8538D",
+                          "expression": "Renner Medium",
+                          "description": "Renner Medium",
+                          "parts": [
+                            {
+                              "number": "923149032",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "A2D9547B5D",
+                          "expression": "Renner Diskant",
+                          "description": "Renner Diskant",
+                          "parts": [
+                            {
+                              "number": "923149011",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "A4BB1AE60F",
+                          "expression": "US Rot Bass",
+                          "description": "US Rot Bass",
+                          "parts": [
+                            {
+                              "number": "803149027",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "0608C3C877",
+                          "expression": "US Rot Medium",
+                          "description": "US Rot Medium",
+                          "parts": [
+                            {
+                              "number": "803149028",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "F19EAEA97E",
+                          "expression": "US Rot Diskant",
+                          "description": "US Rot Diskant",
+                          "parts": [
+                            {
+                              "number": "803149029",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "E294961EB7",
+                          "expression": "US Blau Bass",
+                          "description": "US Blau Bass",
+                          "parts": [
+                            {
+                              "number": "803149022",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "373C9BD5D1",
+                          "expression": "US blau Medium",
+                          "description": "US blau Medium",
+                          "parts": [
+                            {
+                              "number": "803149024",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "798708E8C7",
+                          "expression": "US blau Diskant",
+                          "description": "US blau Diskant",
+                          "parts": [
+                            {
+                              "number": "803149023",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "E733B3F64D",
+                          "expression": "Steinway Old Bass",
+                          "description": "Steinway Old Bass",
+                          "parts": [
+                            {
+                              "number": "923149016",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "9CD18CFB40",
+                          "expression": "Steinway Old Diskant",
+                          "description": "Steinway Old Diskant",
+                          "parts": [
+                            {
+                              "number": "923149017",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "27A7F3B22D",
+                          "expression": "Steinway Bass vorsortiert",
+                          "description": "Steinway Bass vorsortiert",
+                          "parts": [
+                            {
+                              "number": "923149035",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "024F18A263",
+                          "expression": "Steinway Medium vorsortiert",
+                          "description": "Steinway Medium vorsortiert",
+                          "parts": [
+                            {
+                              "number": "923149036",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "08C0F73ED4",
+                          "expression": "Steinway Diskant vorsortier",
+                          "description": "Steinway Diskant vorsortier",
+                          "parts": [
+                            {
+                              "number": "923149037",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "14A9EDAE4B",
+                          "expression": "Steinway Ahorn Bass",
+                          "description": "Steinway Ahorn Bass",
+                          "parts": [
+                            {
+                              "number": "923149018",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "3E2B0A0FEF",
+                          "expression": "Steinway Ahorn Diskant",
+                          "description": "Steinway Ahorn Diskant",
+                          "parts": [
+                            {
+                              "number": "923149019",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "749F9D8F0D",
+                          "expression": "Renner Ahorn Bass",
+                          "description": "Renner Ahorn Bass",
+                          "parts": [
+                            {
+                              "number": "923149012",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "C791501192",
+                          "expression": "Renner Ahorn Diskant",
+                          "description": "Renner Ahorn Diskant",
+                          "parts": [
+                            {
+                              "number": "923149013",
+                              "quantity": "1",
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "3E83303B1C",
+                      "description": "Kapsle vorhanden",
+                      "standardValue": "1",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 1,
+                      "expressions": [
+                        {
+                          "code": "JANEIN",
+                          "expression": "JA",
+                          "description": "Ja / Nein"
+                        },
+                        {
+                          "code": "JANEIN",
+                          "expression": "NEIN",
+                          "description": "Ja / Nein"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "2835FCDFF4",
+                      "description": "Renner Logo vorhanden",
+                      "standardValue": "1",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 1,
+                      "expressions": [
+                        {
+                          "code": "JANEIN",
+                          "expression": "JA",
+                          "description": "Ja / Nein"
+                        },
+                        {
+                          "code": "JANEIN",
+                          "expression": "NEIN",
+                          "description": "Ja / Nein"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "CEA9A5EE3C",
+                      "description": "Hammmerröllchen Form ist Groß",
+                      "standardValue": "1",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 1,
+                      "expressions": [
+                        {
+                          "code": "JANEIN",
+                          "expression": "JA",
+                          "description": "Ja / Nein",
+                          "parts": [
+                            {
+                              "number": "923149004",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "JANEIN",
+                          "expression": "NEIN",
+                          "description": "Ja / Nein",
+                          "parts": [
+                            {
+                              "number": "923149006",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "children": [
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "D41D8CD98F",
+          "description": "Flügel Mechanik Gestell",
+          "__comment": "FERTIG - Stand 20.07.2021 durch CKU",
+          "attributes": [
+            {
+              "code": "1DD26F1F17",
+              "description": "Backe - 1",
+              "standardValue": "901 A1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "FD62964A27",
+                  "expression": "901 A1",
+                  "description": "901 A1",
+                  "parts": [
+                    {
+                      "number": "927850183",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "7640465EAA",
+                  "expression": "901 h1",
+                  "description": "901 h1",
+                  "parts": [
+                    {
+                      "number": "927850184",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "49FF439A07",
+                  "expression": "901 h2",
+                  "description": "901 h2",
+                  "parts": [
+                    {
+                      "number": "927850185",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "E8609ABF19",
+                  "expression": "902 A1",
+                  "description": "902 A1",
+                  "parts": [
+                    {
+                      "number": "927850186",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "8137B613B8",
+                  "expression": "902h1",
+                  "description": "902h1",
+                  "parts": [
+                    {
+                      "number": "927850187",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "32A7CB9A0E",
+                  "expression": "902 h2",
+                  "description": "902 h2",
+                  "parts": [
+                    {
+                      "number": "927850188",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "BD3A352474",
+                  "expression": "902 h3",
+                  "description": "902 h3",
+                  "parts": [
+                    {
+                      "number": "927850195",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "5025693527",
+                  "expression": "901 A1 Sauter",
+                  "description": "901 A1 Sauter",
+                  "parts": [
+                    {
+                      "number": "924671789",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "AA13B93F94",
+                  "expression": "902 A1 Schimmel",
+                  "description": "902 A1 Schimmel",
+                  "parts": [
+                    {
+                      "number": "924671802",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "B4E309EA82",
+              "description": "Backe 2",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "FD62964A27",
+                  "expression": "901 A1",
+                  "description": "901 A1",
+                  "parts": [
+                    {
+                      "number": "927850183",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "7640465EAA",
+                  "expression": "901 h1",
+                  "description": "901 h1",
+                  "parts": [
+                    {
+                      "number": "927850184",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "49FF439A07",
+                  "expression": "901 h2",
+                  "description": "901 h2",
+                  "parts": [
+                    {
+                      "number": "927850185",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "E8609ABF19",
+                  "expression": "902 A1",
+                  "description": "902 A1",
+                  "parts": [
+                    {
+                      "number": "927850186",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "8137B613B8",
+                  "expression": "902h1",
+                  "description": "902h1",
+                  "parts": [
+                    {
+                      "number": "927850187",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "32A7CB9A0E",
+                  "expression": "902 h2",
+                  "description": "902 h2",
+                  "parts": [
+                    {
+                      "number": "927850188",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "BD3A352474",
+                  "expression": "902 h3",
+                  "description": "902 h3",
+                  "parts": [
+                    {
+                      "number": "927850195",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "5025693527",
+                  "expression": "901 A1 Sauter",
+                  "description": "901 A1 Sauter",
+                  "parts": [
+                    {
+                      "number": "924671789",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "AA13B93F94",
+                  "expression": "902 A1 Schimmel",
+                  "description": "902 A1 Schimmel",
+                  "parts": [
+                    {
+                      "number": "924671802",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "B4E309EA82",
+              "description": "Backe 2",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "FD62964A27",
+                  "expression": "901 A1",
+                  "description": "901 A1",
+                  "parts": [
+                    {
+                      "number": "927850183",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "7640465EAA",
+                  "expression": "901 h1",
+                  "description": "901 h1",
+                  "parts": [
+                    {
+                      "number": "927850184",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "49FF439A07",
+                  "expression": "901 h2",
+                  "description": "901 h2",
+                  "parts": [
+                    {
+                      "number": "927850185",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "E8609ABF19",
+                  "expression": "902 A1",
+                  "description": "902 A1",
+                  "parts": [
+                    {
+                      "number": "927850186",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "8137B613B8",
+                  "expression": "902h1",
+                  "description": "902h1",
+                  "parts": [
+                    {
+                      "number": "927850187",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "32A7CB9A0E",
+                  "expression": "902 h2",
+                  "description": "902 h2",
+                  "parts": [
+                    {
+                      "number": "927850188",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "BD3A352474",
+                  "expression": "902 h3",
+                  "description": "902 h3",
+                  "parts": [
+                    {
+                      "number": "927850195",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "5025693527",
+                  "expression": "901 A1 Sauter",
+                  "description": "901 A1 Sauter",
+                  "parts": [
+                    {
+                      "number": "924671789",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "AA13B93F94",
+                  "expression": "902 A1 Schimmel",
+                  "description": "902 A1 Schimmel",
+                  "parts": [
+                    {
+                      "number": "924671802",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "66DCFF62F0",
+              "description": "Backe 3",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "FD62964A27",
+                  "expression": "901 A1",
+                  "description": "901 A1",
+                  "parts": [
+                    {
+                      "number": "927850183",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "7640465EAA",
+                  "expression": "901 h1",
+                  "description": "901 h1",
+                  "parts": [
+                    {
+                      "number": "927850184",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "49FF439A07",
+                  "expression": "901 h2",
+                  "description": "901 h2",
+                  "parts": [
+                    {
+                      "number": "927850185",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "E8609ABF19",
+                  "expression": "902 A1",
+                  "description": "902 A1",
+                  "parts": [
+                    {
+                      "number": "927850186",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "8137B613B8",
+                  "expression": "902h1",
+                  "description": "902h1",
+                  "parts": [
+                    {
+                      "number": "927850187",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "32A7CB9A0E",
+                  "expression": "902 h2",
+                  "description": "902 h2",
+                  "parts": [
+                    {
+                      "number": "927850188",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "BD3A352474",
+                  "expression": "902 h3",
+                  "description": "902 h3",
+                  "parts": [
+                    {
+                      "number": "927850195",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "5025693527",
+                  "expression": "901 A1 Sauter",
+                  "description": "901 A1 Sauter",
+                  "parts": [
+                    {
+                      "number": "924671789",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "AA13B93F94",
+                  "expression": "902 A1 Schimmel",
+                  "description": "902 A1 Schimmel",
+                  "parts": [
+                    {
+                      "number": "924671802",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "02DCE06FF3",
+              "description": "Backe 4",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "FD62964A27",
+                  "expression": "901 A1",
+                  "description": "901 A1",
+                  "parts": [
+                    {
+                      "number": "927850183",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "7640465EAA",
+                  "expression": "901 h1",
+                  "description": "901 h1",
+                  "parts": [
+                    {
+                      "number": "927850184",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "49FF439A07",
+                  "expression": "901 h2",
+                  "description": "901 h2",
+                  "parts": [
+                    {
+                      "number": "927850185",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "E8609ABF19",
+                  "expression": "902 A1",
+                  "description": "902 A1",
+                  "parts": [
+                    {
+                      "number": "927850186",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "8137B613B8",
+                  "expression": "902h1",
+                  "description": "902h1",
+                  "parts": [
+                    {
+                      "number": "927850187",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "32A7CB9A0E",
+                  "expression": "902 h2",
+                  "description": "902 h2",
+                  "parts": [
+                    {
+                      "number": "927850188",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "BD3A352474",
+                  "expression": "902 h3",
+                  "description": "902 h3",
+                  "parts": [
+                    {
+                      "number": "927850195",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "5025693527",
+                  "expression": "901 A1 Sauter",
+                  "description": "901 A1 Sauter",
+                  "parts": [
+                    {
+                      "number": "924671789",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "AA13B93F94",
+                  "expression": "902 A1 Schimmel",
+                  "description": "902 A1 Schimmel",
+                  "parts": [
+                    {
+                      "number": "924671802",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "2BBFA601B5",
+              "description": "Backe 5",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "FD62964A27",
+                  "expression": "901 A1",
+                  "description": "901 A1",
+                  "parts": [
+                    {
+                      "number": "927850183",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "7640465EAA",
+                  "expression": "901 h1",
+                  "description": "901 h1",
+                  "parts": [
+                    {
+                      "number": "927850184",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "49FF439A07",
+                  "expression": "901 h2",
+                  "description": "901 h2",
+                  "parts": [
+                    {
+                      "number": "927850185",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "E8609ABF19",
+                  "expression": "902 A1",
+                  "description": "902 A1",
+                  "parts": [
+                    {
+                      "number": "927850186",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "8137B613B8",
+                  "expression": "902h1",
+                  "description": "902h1",
+                  "parts": [
+                    {
+                      "number": "927850187",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "32A7CB9A0E",
+                  "expression": "902 h2",
+                  "description": "902 h2",
+                  "parts": [
+                    {
+                      "number": "927850188",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "BD3A352474",
+                  "expression": "902 h3",
+                  "description": "902 h3",
+                  "parts": [
+                    {
+                      "number": "927850195",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "5025693527",
+                  "expression": "901 A1 Sauter",
+                  "description": "901 A1 Sauter",
+                  "parts": [
+                    {
+                      "number": "924671789",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "AA13B93F94",
+                  "expression": "902 A1 Schimmel",
+                  "description": "902 A1 Schimmel",
+                  "parts": [
+                    {
+                      "number": "924671802",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "C0C9454A46",
+              "description": "monierte Auslösepuppenleisten",
+              "standardValue": "1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            },
+            {
+              "code": "4A4E4E06C5",
+              "description": "Befestigung der Auslösepuppenleisten mit Rückwandschrauben",
+              "standardValue": "0",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                }
+              ]
+            },
+            {
+              "code": "BF2383F967",
+              "description": "Auslösepuppen Leisten sind Montiert",
+              "standardValue": "1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                }
+              ]
+            },
+            {
+              "code": "BC7E864B5A",
+              "description": "Anzahl Töne Gesamt",
+              "standardValue": "88",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 1,
+              "rangeEnd": 97,
+              "step": 1
+            },
+            {
+              "__comment": "Wenn Ja dann Stückliste ergänzen um Klasse Hammerruheleiste",
+              "code": "D5E7750050",
+              "description": "FlügelMechanik Gestell mit Hammerruheleiste",
+              "standardValue": "0",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                }
+              ]
+            }
+          ],
+          "children": [
+            {
+              "code": "4303A2D28A",
+              "description": "Flügel Mechanikgestell Feld",
+              "attributes": [
+                {
+                  "code": "341D8234F1",
+                  "description": "Anzahl Töne im Feld",
+                  "standardValue": "20",
+                  "art": 0,
+                  "dataType": 0,
+                  "nullAble": 0,
+                  "decimal": 0,
+                  "rangeStart": 1,
+                  "rangeEnd": 97,
+                  "step": 1,
+                  "expressions": [
+                    {
+                      "code": "08CB2E1758",
+                      "expression": "4,5 x 17",
+                      "description": "4,5 x 17",
+                      "parts": [
+                        {
+                          "number": "995641615",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "68AFBEA70E",
+                      "expression": "4,5 x 22",
+                      "description": "4,5 x 22",
+                      "parts": [
+                        {
+                          "number": "995641618",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "29A6D2353C",
+                  "description": "Anzahl Befestigungsschrauben für die Auslösepuppenleiste",
+                  "standardValue": "2",
+                  "art": 0,
+                  "dataType": 0,
+                  "nullAble": 0,
+                  "decimal": 0,
+                  "rangeStart": 1,
+                  "rangeEnd": 3,
+                  "step": 1,
+                  "expressions": [
+                    {
+                      "code": "9D7C67CF39",
+                      "expression": "Rückwand 3x25",
+                      "description": "Rückwand 3x25",
+                      "parts": [
+                        {
+                          "number": "926616133",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "9D7C67CF39",
+                      "expression": "Rückwand 3x25",
+                      "description": "Rückwand 3x25",
+                      "parts": [
+                        {
+                          "number": "926616135",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "children": [
+                {
+                  "code": "4C39324088",
+                  "description": "Flügel Auslösepuppen Leisten",
+                  "attributes": [
+                    {
+                      "code": "9AE25945D8",
+                      "description": "Höhe der Auslösepuppen",
+                      "standardValue": "12",
+                      "art": 1,
+                      "dataType": 0,
+                      "nullAble": 0,
+                      "decimal": 0,
+                      "expressions": [
+                        {
+                          "code": "D3D9446802",
+                          "expression": "10",
+                          "description": "10",
+                          "numberStart": 10,
+                          "numberEnd": 10,
+                          "parts": [
+                            {
+                              "number": "927816037",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "C20AD4D76F",
+                          "expression": "12",
+                          "description": "12",
+                          "numberStart": 12,
+                          "numberEnd": 12,
+                          "parts": [
+                            {
+                              "number": "927816036",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "C51CE410C1",
+                          "expression": "13",
+                          "description": "13",
+                          "numberStart": 13,
+                          "numberEnd": 13,
+                          "parts": [
+                            {
+                              "number": "927816035",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "2CB23BDCB9",
+                      "description": "Auslösepuppen gebohrt",
+                      "standardValue": "12",
+                      "art": 1,
+                      "dataType": 0,
+                      "nullAble": 0,
+                      "decimal": 0,
+                      "expressions": [
+                        {
+                          "code": "C20AD4D76F",
+                          "expression": "12",
+                          "description": "12",
+                          "numberStart": 12,
+                          "numberEnd": 12,
+                          "parts": [
+                            {
+                              "number": "924616114",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2B24D49505",
+                          "expression": "14,5",
+                          "description": "14,5",
+                          "numberStart": 14.5,
+                          "numberEnd": 14.5,
+                          "parts": [
+                            {
+                              "number": "924616113",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "30E86E111E",
+                      "description": "AuslösePuppenLeisten Filz",
+                      "standardValue": "Grün",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "CAEDC624AF",
+                          "expression": "Grün",
+                          "description": "Grün",
+                          "parts": [
+                            {
+                              "number": "924616122",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        },
+                        {
+                          "code": "2F16C4693C",
+                          "expression": "Weiß",
+                          "description": "Weiß",
+                          "parts": [
+                            {
+                              "number": "924616124",
+                              "quantity": 1,
+                              "unit": 8
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "68F2A5965D",
+                      "description": "AuslösePuppenLeisten sind gebohrt",
+                      "standardValue": "1",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 1,
+                      "expressions": [
+                        {
+                          "code": "JANEIN",
+                          "expression": "JA",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        },
+                        {
+                          "code": "JANEIN",
+                          "expression": "NEIN",
+                          "description": "Ja / Nein",
+                          "numberValue": 0.0
+                        }
+                      ]
+                    },
+                    {
+                      "code": "E2BAE65C2F",
+                      "description": "AuslösePuppenLeisten Bohrung",
+                      "standardValue": "Gerade",
+                      "art": 1,
+                      "dataType": 1,
+                      "nullAble": 0,
+                      "expressions": [
+                        {
+                          "code": "807F0A5BE6",
+                          "expression": "Bohrung Schräg",
+                          "description": "Bohrung Schräg"
+                        },
+                        {
+                          "code": "AF0D97ABB7",
+                          "expression": "Bohrung Gerade",
+                          "description": "Bohrung Gerade"
+                        }
+                      ]
+                    }
+                  ],
+                  "children": [
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "68F75C34E7",
+              "description": "Flügel Mechanik Balken",
+              "attributes": [
+                {
+                  "code": "D6E7AC0CAF",
+                  "description": "Flügel Mechanikbalken Art",
+                  "standardValue": "",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "6D025B0EF4",
+                      "expression": "Balken Gerade",
+                      "description": "Balken Gerade",
+                      "parts": [
+                        {
+                          "number": "927810001",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "F1384C9AA8",
+                      "expression": "Balken Schräg",
+                      "description": "Balken Schräg",
+                      "parts": [
+                        {
+                          "number": "92781005",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "441F6E0D3C",
+                      "expression": "Balken Alu Kurz",
+                      "description": "Balken Alu Kurz",
+                      "parts": [
+                        {
+                          "number": "923102001",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "386B2AABBD",
+                      "expression": "Balken Alu Lang",
+                      "description": "Balken Alu Lang",
+                      "parts": [
+                        {
+                          "number": "923102002",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "740A8930B5",
+                      "expression": "Balken Blüthner",
+                      "description": "Balken Blüthner",
+                      "parts": [
+                        {
+                          "number": "927810003",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "8AE489C804",
+                  "description": "Mechanikleiste gebohrt",
+                  "standardValue": "1",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 1,
+                  "expressions": [
+                    {
+                      "code": "JANEIN",
+                      "expression": "JA",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    },
+                    {
+                      "code": "JANEIN",
+                      "expression": "NEIN",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    }
+                  ]
+                },
+                {
+                  "code": "3E53217EB9",
+                  "description": "Auflage mit Sandpapier",
+                  "standardValue": "0",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 1,
+                  "expressions": [
+                    {
+                      "code": "JANEIN",
+                      "expression": "JA",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    },
+                    {
+                      "code": "JANEIN",
+                      "expression": "NEIN",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    }
+                  ]
+                },
+                {
+                  "code": "3DFFED0799",
+                  "description": "Mechanik Balken mit Renner Logo",
+                  "standardValue": "1",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 1,
+                  "expressions": [
+                    {
+                      "code": "JANEIN",
+                      "expression": "JA",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    },
+                    {
+                      "code": "JANEIN",
+                      "expression": "NEIN",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    }
+                  ]
+                }
+              ],
+              "children": [
+              ]
+            },
+            {
+              "code": "FF6F0ECCA9",
+              "description": "Flügel Hebegliedleiste",
+              "attributes": [
+                {
+                  "code": "8BBFC532D7",
+                  "description": "Flügel Hebegliedleisten Art",
+                  "standardValue": "",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "1CE6D29B1B",
+                      "expression": "Hebegliedleiste Alu kurz",
+                      "description": "Hebegliedleiste Alu kurz",
+                      "parts": [
+                        {
+                          "number": "923102010",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "1D83E71586",
+                      "expression": "Hebegliedleiste Alu lang",
+                      "description": "Hebegliedleiste Alu lang",
+                      "parts": [
+                        {
+                          "number": "923102011",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "FCD11C2372",
+                      "expression": "Hebegliedleiste Voll Holz 1500",
+                      "description": "Hebegliedleiste Voll Holz 1500",
+                      "parts": [
+                        {
+                          "number": "927862171",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "20CF2C0AAE",
+                      "expression": "Hebegliedleiste SH 1400",
+                      "description": "Hebegliedleiste SH 1400",
+                      "parts": [
+                        {
+                          "number": "927862177",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "D1D2684EAD",
+                  "description": "Hebegliedleiste gebohrt",
+                  "standardValue": "1",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 1,
+                  "expressions": [
+                    {
+                      "code": "JANEIN",
+                      "expression": "JA",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    },
+                    {
+                      "code": "JANEIN",
+                      "expression": "NEIN",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    }
+                  ]
+                },
+                {
+                  "code": "41214BA1E7",
+                  "description": "Hebegliedleiste mit Kerbendraht",
+                  "standardValue": "1",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 1,
+                  "expressions": [
+                    {
+                      "code": "JANEIN",
+                      "expression": "JA",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    },
+                    {
+                      "code": "JANEIN",
+                      "expression": "NEIN",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    }
+                  ]
+                },
+                {
+                  "code": "21D6168AF4",
+                  "description": "Hebegliedleiste abgehobelt",
+                  "standardValue": "0",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 1,
+                  "expressions": [
+                    {
+                      "code": "JANEIN",
+                      "expression": "JA",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    },
+                    {
+                      "code": "JANEIN",
+                      "expression": "NEIN",
+                      "description": "Ja / Nein",
+                      "numberValue": 0.0
+                    }
+                  ]
+                }
+              ],
+              "children": [
+              ]
+            },
+            {
+              "code": "59BE4515F2",
+              "description": "Flügel Hammerruhe Leiste",
+              "attributes": [
+                {
+                  "code": "3664D9F585",
+                  "description": "Flügel Hammerruheleisten Art",
+                  "standardValue": "",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "56801C4181",
+                      "expression": "Rohling 14x7x1400",
+                      "description": "Rohling 14x7x1400",
+                      "parts": [
+                        {
+                          "number": "997831587",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "2E6DD8EB20",
+                      "expression": "Rohling 14x7x1500",
+                      "description": "Rohling 14x7x1500",
+                      "parts": [
+                        {
+                          "number": "997831588",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "36250A4144",
+                      "expression": "Rohling 14x7x1350",
+                      "description": "Rohling 14x7x1350",
+                      "parts": [
+                        {
+                          "number": "997831582",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "71D3EB312E",
+                  "description": "Flügel Hammerruheleisten Filz",
+                  "standardValue": "",
+                  "art": 1,
+                  "dataType": 1,
+                  "nullAble": 0,
+                  "expressions": [
+                    {
+                      "code": "689A737313",
+                      "expression": "1066/10-16x1300",
+                      "description": "1066/10-16x1300",
+                      "parts": [
+                        {
+                          "number": "924628398",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "AD5953E5BB",
+                      "expression": "1066/9-16x1250",
+                      "description": "1066/9-16x1250",
+                      "parts": [
+                        {
+                          "number": "924628400",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "27EA761CB2",
+                      "expression": "1066/10-16x1250",
+                      "description": "1066/10-16x1250",
+                      "parts": [
+                        {
+                          "number": "924628401",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    },
+                    {
+                      "code": "F869C3CA6C",
+                      "expression": "1066/10-16x1150",
+                      "description": "1066/10-16x1150",
+                      "parts": [
+                        {
+                          "number": "924628402",
+                          "quantity": 1,
+                          "unit": 8
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "children": [
+              ]
+            }
+          ]
+        },
+        {
+          "code": "F75967C5D8",
+          "description": "Flügelfängersatz",
+          "attributes": [
+            {
+              "code": "526FB36556",
+              "description": "Anzahl Fänger",
+              "standardValue": "90",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 80,
+              "rangeEnd": 100,
+              "step": 1
+            },
+            {
+              "code": "489253A5F9",
+              "description": "Eingedrehte Länge",
+              "standardValue": "85",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 75,
+              "rangeEnd": 100,
+              "step": 1
+            },
+            {
+              "code": "945EA09CB6",
+              "description": "Flügel-Fängerdraht",
+              "standardValue": "2,9mm x 75mm",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "F79F1087DE",
+                  "expression": "2,5 x 70 mm",
+                  "description": "2,5 x 70 mm",
+                  "parts": [
+                    {
+                      "number": "925615090",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "E60D978818",
+                  "expression": "2,5 x 75 mm",
+                  "description": "2,5 x 75 mm",
+                  "parts": [
+                    {
+                      "number": "925615091",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "C4B4CF8A0E",
+                  "expression": "2,5 x 80 mm",
+                  "description": "2,5 x 80 mm",
+                  "parts": {
+                    "number": "925615092",
+                    "quantity": "1",
+                    "unit": 8
+                  }
+                },
+                {
+                  "code": "E7249159F2",
+                  "expression": "2,5 x 85 mm",
+                  "description": "2,5 x 85 mm",
+                  "parts": [
+                    {
+                      "number": "925615093",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "8987ABB75B",
+                  "expression": "2,5 x 90 mm",
+                  "description": "2,5 x 90 mm",
+                  "parts": [
+                    {
+                      "number": "925615094",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "F2A1E83F40",
+                  "expression": "2,9 x 65 mm",
+                  "description": "2,9 x 65 mm",
+                  "parts": [
+                    {
+                      "number": "995039570",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "D805B970C7",
+                  "expression": "2,9 x 70 mm",
+                  "description": "2,9 x 70 mm",
+                  "parts": [
+                    {
+                      "number": "925615095",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "F806F04AC8",
+                  "expression": "2,9 x 75 mm",
+                  "description": "2,9 x 75 mm",
+                  "parts": [
+                    {
+                      "number": "025615096",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "B9B3DE6E28",
+                  "expression": "2,9 x 80 mm",
+                  "description": "2,9 x 80 mm",
+                  "parts": [
+                    {
+                      "number": "925615097",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "A4A36306FA",
+              "description": "FilzStreifen geschärft",
+              "standardValue": "0",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            },
+            {
+              "code": "A3EA27F6B4",
+              "description": "hat Draht",
+              "standardValue": "1",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein"
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein"
+                }
+              ]
+            },
+            {
+              "code": "5C2D61253F",
+              "description": "art Unterfilz",
+              "standardValue": "1015-35",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                {
+                  "code": "36D9078AA1",
+                  "expression": "1015-35 18x400mm Standard",
+                  "description": "1015-35 18x400mm Standard",
+                  "parts": [
+                    {
+                      "number": "924615076",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                },
+                {
+                  "code": "C4E63FADE2",
+                  "expression": "1015-45 18x400mm geschärft",
+                  "description": "1015-45 18x400mm geschärft",
+                  "parts": [
+                    {
+                      "number": "924615076",
+                      "quantity": "1",
+                      "unit": 8
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "children": [
+          ]
+        }
+      ]
+    }
+  ]
+}
+@endjson
