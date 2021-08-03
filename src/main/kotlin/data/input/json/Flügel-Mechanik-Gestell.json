@@ -755,28 +755,6 @@
       ]
     },
     {
-      "code": "BF2383F967",
-      "description": "Auslösepuppen Leisten sind Montiert",
-      "standardValue": "1",
-      "art": 1,
-      "dataType": 1,
-      "nullAble": 1,
-      "expressions": [
-        {
-          "code": "JANEIN",
-          "expression": "JA",
-          "description": "Ja / Nein",
-          "numberValue": 0.0
-        },
-        {
-          "code": "JANEIN",
-          "expression": "NEIN",
-          "description": "Ja / Nein",
-          "numberValue": 0.0
-        }
-      ]
-    },
-    {
       "code": "BC7E864B5A",
       "description": "Anzahl Töne Gesamt",
       "standardValue": "88",

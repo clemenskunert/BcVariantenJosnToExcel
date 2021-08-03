@@ -28,6 +28,28 @@
           "description": "Flügel Hebeglied Baugruppe",
           "attributes": [
             {
+              "code": "56E621C19B",
+              "description": "Flügel Hebeglied mit Ruhepolster",
+              "standardValue": "JA",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                {
+                  "code": "JANEIN",
+                  "expression": "JA",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                },
+                {
+                  "code": "JANEIN",
+                  "expression": "NEIN",
+                  "description": "Ja / Nein",
+                  "numberValue": 0.0
+                }
+              ]
+            },
+            {
               "code": "147E174951",
               "description": "Flügel Hebeglied Grundkörper",
               "standardValue": "",
