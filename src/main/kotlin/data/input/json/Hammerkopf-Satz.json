@@ -1,0 +1,1740 @@
+{
+  "code": "063D6865E4",
+  "description": "Piano Hammerkopf Satz",
+  "decision": {
+    "aktionSets": [
+      {
+        "code": "E4EA0C1117",
+        "description": "Akion Set Hammerkopf Piano Teilungsnummer 1"
+      },
+      {
+        "code": "644BA8ECB8",
+        "description": "Aktion Set Hammerkopf Piano Teilungsnummer 2"
+      },
+      {
+        "code": "3EB5FE940E",
+        "description": "Aktion Set Hammerkopf Piano Teiliungsnummer 3"
+      },
+      {
+        "code": "C2B442F8B5",
+        "description": "Aktion Set Hammerkopf Piano Teilungsnummer 4"
+      },
+      {
+        "code": "0160546D24",
+        "description": "Aktion Set Hammerkopf Totallänge"
+      }
+    ]
+  },
+  "attributes": [
+  ],
+  "children": [
+  ]
+}
+@startjson
+{
+  "code": "B810D9B650",
+  "description": "Flügel Hammerkopfsatz",
+  "decision": [
+    {
+      "aktionSets": [
+        {
+          "code": "630E0D4D89",
+          "description": "Aktionsset Vorbelegung Flügel Hammerkopf Teilungsnummer 1"
+        },
+        {
+          "code": "48CB9E6D6B",
+          "description": "Aktionsset Vorbelegung Flügel Hammerkopf Teilungsnummer 2"
+        },
+        {
+          "code": "7176DE22C8",
+          "description": "Aktionsset Vorbeleung Flügel Hammerkopf Teilungsnummer 3"
+        },
+        {
+          "code": "017348A39F",
+          "description": "Aktionsset Vorbelegung Flügel Hammerkopf Teilungsnummer 4"
+        },
+        {
+          "code": "6E98A43116",
+          "description": "Aktion Set MX Feld 2 Ausblenden"
+        },
+        {
+          "code": "65406F4BD6",
+          "description": "Aktion Set MX Feld 3 Ausblenden"
+        },
+        {
+          "code": "C993D0D135",
+          "description": "Aktion Set M0 Feld 2 Ausblenden"
+        },
+        {
+          "code": "7BBA657830",
+          "description": "Aktion Set M0 Feld 3 Ausblenden"
+        },
+        {
+          "code": "4D14C5A381",
+          "description": "Aktion Set Gesamtlänge Feld 2 Ausblenden"
+        },
+        {
+          "code": "F21BA17ACE",
+          "description": "Aktio Set Gesamtlänge Feld 3 Ausblenden"
+        },
+        {
+          "code": "021015D4EE",
+          "description": "Aktion Set Aufschnittbreite Feld 2 Ausblenden"
+        },
+        {
+          "code": "C0BBDE2FED",
+          "description": "Aktion Set Aufschnittbreite Feld 3 Ausblenden"
+        },
+        {
+          "code": "EF2FCFF899",
+          "description": "Aktion Set Anzahl Kerne Feld 2 ausblenden"
+        },
+        {
+          "code": "79FFCF1A40",
+          "description": "Aktion Set Anzahl Kerne Feld 3 ausblenden"
+        },
+        {
+          "code": "8682DE8E5B",
+          "description": "Aktion Set Feld 2 ausblenden"
+        },
+        {
+          "code": "4247374404",
+          "description": "Aktion Set Feld 3 ausblenden"
+        }
+      ]
+    },
+    {
+      "conditionSets": [
+        {
+          "code": "176C93E948",
+          "description": "Bedingungsset Hammerkopf Flügel Teilungsnummer 1"
+        },
+        {
+          "code": "6EB8907EB7",
+          "description": "Bedingungset Hammerkopf Flügel Teilungsnummer 2"
+        },
+        {
+          "code": "373992C2B0",
+          "description": "Bedingungset Hammerkopf Flügel Teilungsnummer 3"
+        },
+        {
+          "code": "D22BB87950",
+          "description": "Bedingungsset Hammerkopf Flügel Teilungsnummer 4"
+        },
+        {
+          "code": "2FEBF595CA",
+          "description": "BEdingung MX ausblenden Feld 2"
+        },
+        {
+          "code": "12E66DA7AE",
+          "description": "Bedingung MX ausblenden  Feld 3"
+        },
+        {
+          "code": "C49D04EFAD",
+          "description": "Bedingung M0 ausblenden Feld 2"
+        },
+        {
+          "code": "D19844B767",
+          "description": "Bedingung M0 ausblenden Feld 3"
+        },
+        {
+          "code": "68F658B509",
+          "description": "Bedingung Gesamtlänge ausblenden Feld 2"
+        },
+        {
+          "code": "6A4B4FF832",
+          "description": "Bedingung Gesamtlänge ausblenden Feld 3"
+        },
+        {
+          "code": "FF9E9607D7",
+          "description": "Bedingung Anzahl Kerne ausblenden Feld 2"
+        },
+        {
+          "code": "D547494BCF",
+          "description": "Bedninung Anzahl Kerne ausblenden Feld 3"
+        },
+        {
+          "code": "C80E72BBC4",
+          "description": "Bedingung Aufschnittbreite ausblenden Feld 2"
+        },
+        {
+          "code": "EC2910957B",
+          "description": "Bedingung Aufschnittbreite ausblenden Feld 3"
+        },
+        {
+          "code": "6AA75114B6",
+          "description": "Bedingung Feld 2 ausblenden"
+        },
+        {
+          "code": "C6F4A8FB8B",
+          "description": "Bedingung Feld 3 ausblenden"
+        }
+      ]
+    }
+  ],
+  "attributes": [
+    {
+      "code": "805651401E",
+      "description": "Hammerkopf Anzahl Felder",
+      "standardValue": "2",
+      "art": 1,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "expressions": [
+      ]
+    },
+    {
+      "code": "50E8F0945C",
+      "description": "Breite R10 im Diskant",
+      "standardValue": "4",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 2.8,
+      "rangeEnd": 5.6,
+      "step": 0.1
+    },
+    {
+      "code": "7DB6B23DC6",
+      "description": "Breite R10 im Bass",
+      "standardValue": "6.5",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 5,
+      "rangeEnd": 8,
+      "step": 0.1
+    },
+    {
+      "code": "93D71425FF",
+      "description": "Winkel Konizität Kern",
+      "standardValue": "1",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 0,
+      "rangeEnd": 3.2,
+      "step": 0.1
+    },
+    {
+      "code": "0EDB1C0862",
+      "description": "Total Länge Hammerkern",
+      "standardValue": "1112",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 900,
+      "rangeEnd": 1112,
+      "step": 0.1
+    },
+    {
+      "code": "846828FB09",
+      "description": "Tauchmischung Hammerkopf",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "75105C9D7A",
+          "expression": "20E-8K-2M",
+          "description": "20E-8K-2M",
+          "parts": [
+            {
+              "number": "9978317",
+              "quantity": 0.003,
+              "unit": 4
+            },
+            {
+              "number": "997850320",
+              "quantity": 0.013,
+              "unit": 4
+            },
+            {
+              "number": "997850322",
+              "quantity": 0.03,
+              "unit": 4
+            }
+          ]
+        },
+        {
+          "code": "4867FEF21D",
+          "expression": "10E-8K-2M",
+          "description": "10E-8K-2M",
+          "parts": [
+            {
+              "__comment": "Methanol M",
+              "number": "9978317",
+              "quantity": 0.001,
+              "unit": 4
+            },
+            {
+              "__comment": "Kolodium K",
+              "number": "997850320",
+              "quantity": 0.004,
+              "unit": 4
+            },
+            {
+              "__comment": "Ether E",
+              "number": "997850322",
+              "quantity": 0.005,
+              "unit": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "19FCFC913A",
+      "description": "Tauchen am Stab",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "10C559FC85",
+      "description": "Tauchen ab Ton",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 0,
+      "rangeEnd": 100,
+      "step": 5
+    },
+    {
+      "code": "995F89D923",
+      "description": "Hammerkopf genietet",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "8904477F99",
+      "description": "Hammerkopf gebohrt",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "CC4C00AE65",
+      "description": "Hammerkopf Schwanz abgerundet",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "11D91DD290",
+      "description": "Hammerkopf Zugespitzt Standard",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "D3BBCD8C79",
+      "description": "Hammerkopf Bass beschnitten",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 0,
+      "rangeStart": 0,
+      "rangeEnd": 2,
+      "step": 1
+    },
+    {
+      "code": "EDFACF21BF",
+      "description": "Hammerkopf Press Form",
+      "standardValue": "RENNER",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "548AD6BA68",
+          "expression": "RENNER RUND",
+          "description": "RENNER RUND"
+        },
+        {
+          "code": "AFDC812D47",
+          "expression": "RENNER SPITZ",
+          "description": "RENNER SPITZ"
+        },
+        {
+          "code": "2A5289986C",
+          "expression": "Steinway",
+          "description": "Steinway"
+        }
+      ]
+    },
+    {
+      "code": "D30C86C9C2",
+      "description": "Hammerkopf Temperatur Leimpresse Form Diskant",
+      "standardValue": "60",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 60,
+      "rangeEnd": 110,
+      "step": 5
+    },
+    {
+      "code": "AB32A0A2BD",
+      "description": "Hammerkopf Temperatur Leimpresse Form Bass",
+      "standardValue": "60",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 40,
+      "rangeEnd": 110,
+      "step": 5
+    },
+    {
+      "code": "119AC8ADC3",
+      "description": "Hammerkopf Temperatur Leimpresse Gegenlage Diskant",
+      "standardValue": "120",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 90,
+      "rangeEnd": 135,
+      "step": 5
+    },
+    {
+      "code": "6971834DCE",
+      "description": "Hammerkopf Temperatur Leimpresse Gegenlage Bass",
+      "standardValue": "120",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 90,
+      "rangeEnd": 120,
+      "step": 5
+    },
+    {
+      "code": "23A25F75E4",
+      "description": "Hammerkopf verpackt im Sack",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "09F445E025",
+      "description": "Hammerkopf Gesamtlänge Feld 1",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 80,
+      "step": 0.1
+    },
+    {
+      "code": "8FF085E935",
+      "description": "Hammerkopf Gesamtlänge Feld 2",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 80,
+      "step": 0.1
+    },
+    {
+      "code": "35F997BAA4",
+      "description": "Hammerkopf Gesamtlänge Feld 3",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 80,
+      "step": 0.1
+    },
+    {
+      "code": "9C62C7F546",
+      "description": "Hammerkopf Größe",
+      "standardValue": "4",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 3,
+      "rangeEnd": 6,
+      "step": 1
+    },
+    {
+      "code": "7903EFF237",
+      "description": "Hammerkopf mit Unterfilz",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "2ED9E919D5",
+      "description": "Hammerkopf Oberfilz Art",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FE26E1CBA5",
+          "expression": "V1304K",
+          "description": "V1304K",
+          "parts": [
+            {
+              "number": "904622233",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "0165A3AB3E",
+          "expression": "V1512S",
+          "description": "V1512S",
+          "parts": [
+            {
+              "number": "904622250",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "78B9AA6CEC",
+          "expression": "W1304K",
+          "description": "W1304K",
+          "parts": [
+            {
+              "number": "904622205",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "F16FC57A82",
+          "expression": "W1312K",
+          "description": "W1312K",
+          "parts": [
+            {
+              "number": "904622206",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "0A5D08BD22",
+          "expression": "W1312WS",
+          "description": "W1312WS",
+          "parts": [
+            {
+              "number": "9046222254",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "36A030EA4E",
+          "expression": "W1498K",
+          "description": "W1498K",
+          "parts": [
+            {
+              "number": "904622207",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "12211A5416",
+          "expression": "W1498L",
+          "description": "W1498L",
+          "parts": [
+            {
+              "number": "904622208",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "D0423E09F0",
+          "expression": "W1498S",
+          "description": "W1498S",
+          "parts": [
+            {
+              "number": "904622209",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "43B123DA68",
+          "expression": "W1404S",
+          "description": "W1404S",
+          "parts": [
+            {
+              "number": "904622210",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "A345598940",
+          "expression": "W1404L",
+          "description": "W1404L",
+          "parts": [
+            {
+              "number": "904622211",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "D46D3A4BA8",
+          "expression": "W1404WS",
+          "description": "W1404WS",
+          "parts": [
+            {
+              "number": "904622244",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "D9979999B6",
+          "expression": "W1408K",
+          "description": "W1408K",
+          "parts": [
+            {
+              "number": "904622213",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "49F52E7185",
+          "expression": "W1412K",
+          "description": "W1412K",
+          "parts": [
+            {
+              "number": "904622214",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "DF7A19D41B",
+          "expression": "W1412Ws",
+          "description": "W1412Ws",
+          "parts": [
+            {
+              "number": "904622255",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "B873909748",
+          "expression": "W1508K",
+          "description": "W1508K",
+          "parts": [
+            {
+              "number": "904622216",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E941E6E3C6",
+          "expression": "W1512K",
+          "description": "W1512K",
+          "parts": [
+            {
+              "number": "904622207",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "B1DFCB4617",
+          "expression": "W1512L",
+          "description": "W1512L",
+          "parts": [
+            {
+              "number": "904622225",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "4266765E9F",
+          "expression": "W1512WS",
+          "description": "W1512WS",
+          "parts": [
+            {
+              "number": "904622218",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E24A3103C6",
+          "expression": "W1612K",
+          "description": "W1612K",
+          "parts": [
+            {
+              "number": "904622219",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "3F29D74141",
+          "expression": "W1612WS",
+          "description": "W1612WS",
+          "parts": [
+            {
+              "number": "904622251",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9BB1D7B894",
+          "expression": "W1612WS2",
+          "description": "W1612WS2",
+          "parts": [
+            {
+              "number": "",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "CE3FD3EBF5",
+          "expression": "W1512WS2",
+          "description": "W1512WS2",
+          "parts": [
+            {
+              "number": "",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "F5B1685E41",
+      "description": "Hammerkopf Unterfilzart",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "266A53A2CF",
+          "expression": "V113ROT",
+          "description": "V113ROT",
+          "parts": [
+            {
+              "number": "994622611",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "4C6EABB550",
+          "expression": "V75GELB",
+          "description": "V75GELB",
+          "parts": [
+            {
+              "number": "994622614",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C4A5A5CB68",
+          "expression": "V75HELLBLAU",
+          "description": "V75HELLBLAU",
+          "parts": [
+            {
+              "number": "994622606",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9892365252",
+          "expression": "V75Olive",
+          "description": "V75Olive",
+          "parts": [
+            {
+              "number": "994622615",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "2262C0156A",
+          "expression": "V75Orange",
+          "description": "V75Orange",
+          "parts": [
+            {
+              "number": "994622612",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "507EEEDE03",
+          "expression": "V75Rot",
+          "description": "V75Rot",
+          "parts": [
+            {
+              "number": "994622609",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "556E04541B",
+          "expression": "V75S-Blau",
+          "description": "V75S-Blau",
+          "parts": [
+            {
+              "number": "994622604",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "A023FD5C02",
+          "expression": "V75Schwarz",
+          "description": "V75Schwarz",
+          "parts": [
+            {
+              "number": "994622602",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "B64E4FCF35",
+          "expression": "V75Grün",
+          "description": "V75Grün",
+          "parts": [
+            {
+              "number": "994622601",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "FDB7439E91",
+          "expression": "V75S-Rot",
+          "description": "V75S-Rot",
+          "parts": [
+            {
+              "number": "994622616",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C4D7ADDD7A",
+          "expression": "V75Grau",
+          "description": "V75Grau",
+          "parts": [
+            {
+              "number": "994622605",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "CBF1B2EC7B",
+          "expression": "V75Violett",
+          "description": "V75Violett",
+          "parts": [
+            {
+              "number": "994622613",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "ED2F2D1935",
+          "expression": "V113Violett",
+          "description": "V113Violett",
+          "parts": [
+            {
+              "number": "",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "D88E4B16C8",
+          "expression": "V85Blau",
+          "description": "V85Blau",
+          "parts": [
+            {
+              "number": "994622607",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9E4976C7D8",
+          "expression": "V85Rot",
+          "description": "V85Rot",
+          "parts": [
+            {
+              "number": "994622610",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "6411672F93",
+          "expression": "V85Weinrot",
+          "description": "V85Weinrot",
+          "parts": [
+            {
+              "number": "994622608",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2F2EF545E3",
+      "description": "Piano Hammerkopfkehlstab",
+      "standardValue": "WB",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "29635CD46E",
+          "expression": "WB",
+          "description": "WB",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "507822493",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "Diskant",
+              "number": "507822494",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E81B11A13B",
+          "expression": "Kotibe",
+          "description": "Kotibe",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "507822495",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "Diskant",
+              "number": "507822496",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "F0E8304245",
+          "expression": "NB",
+          "description": "NB",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "507822491",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "Diskant",
+              "number": "507822492",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E99C19DEC2",
+          "expression": "AH",
+          "description": "AH",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "507822486",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "Diskant",
+              "number": "507822487",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "0A5528FB25",
+          "expression": "SONDER-WB",
+          "description": "SONDER-WB",
+          "parts": [
+            {
+              "number": "507822499",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "886A525EF2",
+      "description": "Flügel Hammerkopf Kehlstab",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "691A70EF17",
+          "expression": "CSB-AH",
+          "description": "CSB-AH",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "517822034",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "Diskant",
+              "number": "517822065",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "83780D655D",
+          "expression": "CSB-NB",
+          "description": "CSB-NB",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "517822033",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "Diskant",
+              "number": "517822064",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "19ED9AE3D3",
+          "expression": "CSB-WB",
+          "description": "CSB-WB",
+          "parts": [
+            {
+              "number": "517822031",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "EB384DC515",
+          "expression": "CSB-Kotibe Zahnung",
+          "description": "CSB-Kotibe Zahnung",
+          "parts": [
+            {
+              "number": "517822032",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "114EB5B965",
+          "expression": "CSB-Kotibe ohne Zahnung",
+          "description": "CSB-Kotibe ohne Zahnung",
+          "parts": [
+            {
+              "number": "517822030",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C15C57A09E",
+          "expression": "US-AH",
+          "description": "US-AH",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "517822042",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "DISKANT",
+              "number": "517822063",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "DC72CAF711",
+          "expression": "US-NB",
+          "description": "US-NB",
+          "parts": [
+            {
+              "__comment": "BASS",
+              "number": "517822041",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "DISKANT",
+              "number": "517822072",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "4969EC0E8E",
+          "expression": "US-WB",
+          "description": "US-WB",
+          "parts": [
+            {
+              "number": "517822007",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "128A853477",
+          "expression": "US-Kotibe Zahnung",
+          "description": "US-Kotibe",
+          "parts": [
+            {
+              "number": "517822040",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "3A768C8790",
+          "expression": "US-Kotibe ohne Zahnung",
+          "description": "US-Kotibe ohne Zahnung",
+          "parts": [
+            {
+              "number": "517822056",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "403113AA78",
+          "expression": "AB-NB",
+          "description": "AB-NB",
+          "parts": [
+            {
+              "__comment": "Bass",
+              "number": "517822011",
+              "quantity": 1,
+              "unit": 8
+            },
+            {
+              "__comment": "Diskant",
+              "number": "517822062",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "EA7E2777CE",
+          "expression": "AB-WB",
+          "description": "AB-WB",
+          "parts": [
+            {
+              "number": "517822007",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "8091FBFCF9",
+          "expression": "AB-Kotibe",
+          "description": "AB-Kotibe",
+          "parts": [
+            {
+              "number": "517822008",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E5BADDC79F",
+          "expression": "B46-NB",
+          "description": "B46-NB",
+          "parts": [
+            {
+              "number": "517822028",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "E2D486E368",
+          "expression": "B46-WB",
+          "description": "B46-WB",
+          "parts": [
+            {
+              "number": "517822026",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7EE42D0A7D",
+          "expression": "B46-Kotibe",
+          "description": "B46-Kotibe",
+          "parts": [
+            {
+              "number": "517822077",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "A92EBFCB8E",
+          "expression": "B34-WB",
+          "description": "B34-WB",
+          "parts": [
+            {
+              "number": "517822012",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "80F71BFB27",
+      "description": "Hammerkopf Anzahl Kerne Feld 1",
+      "standardValue": "23",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 100,
+      "step": 1
+    },
+    {
+      "code": "ACC13BEA8E",
+      "description": "Hammerkopf Anzahl Kerne Feld 2",
+      "standardValue": "67",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 0,
+      "rangeStart": 0,
+      "rangeEnd": 100,
+      "step": 1
+    },
+    {
+      "code": "95161AE739",
+      "description": "Hammerkopf Anzahl Kerne Feld 3",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 0,
+      "rangeStart": 0,
+      "rangeEnd": 100,
+      "step": 1
+    },
+    {
+      "code": "5200D62926",
+      "description": "Hammerkopf Feld 1",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "CDA3A7455E",
+      "description": "Hammerkopf Feld 2",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "20BB877F17",
+      "description": "Hammerkopf Feld 3",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "477A4E3BEF",
+      "description": "Hammerkopf Aufschnittbreite Feld 1",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 8,
+      "rangeEnd": 14.5,
+      "step": 0.2
+    },
+    {
+      "code": "F9E9AF758F",
+      "description": "Hammerkopf Aufschnittbreite Feld 2",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 1,
+      "rangeStart": 8,
+      "rangeEnd": 14.5,
+      "step": 0.2
+    },
+    {
+      "code": "793FE6975C",
+      "description": "Hammerkopf Aufschnittbreite Feld 3",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 1,
+      "rangeStart": 8,
+      "rangeEnd": 14.5,
+      "step": 0.2
+    },
+    {
+      "code": "4F08ADF440",
+      "description": "Kernlänge M0 Feld 1",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 90,
+      "step": 0.1
+    },
+    {
+      "code": "88E532486E",
+      "description": "Kernlänge MX Feld 1",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 90,
+      "step": 0.1
+    },
+    {
+      "code": "CD825975B3",
+      "description": "Kernlänge M0 Feld 2",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 90,
+      "step": 0.1
+    },
+    {
+      "code": "A566E4D9B2",
+      "description": "Kernlänge MX Feld 2",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 90,
+      "step": 0.1
+    },
+    {
+      "code": "3EB758C817",
+      "description": "Kernlänge Mo Feld 3",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 90,
+      "step": 0.1
+    },
+    {
+      "code": "3702C2FD0A",
+      "description": "Kernlänge MX Feld 3",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 1,
+      "decimal": 1,
+      "rangeStart": 40,
+      "rangeEnd": 90,
+      "step": 0.1
+    },
+    {
+      "code": "282A1E3DD8",
+      "description": "Hammerkopf Logo Laser",
+      "standardValue": "Renner+FFW",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "58C9E7A1A9",
+          "expression": "Renner + FFW",
+          "description": "Renner + FFW"
+        },
+        {
+          "code": "C025EF009C",
+          "expression": "Nur Nummer",
+          "description": "Nur Nummer"
+        },
+        {
+          "code": "8B25FE314F",
+          "expression": "Renner + FFW Hochgesetzt",
+          "description": "Renner + FFW Hochgesetzt"
+        },
+        {
+          "code": "DB41FC83F2",
+          "expression": "Nur Nummer Hochgesetzt",
+          "description": "Nur Nummer Hochgesetzt"
+        }
+      ]
+    },
+    {
+      "code": "E56C6D4F5D",
+      "description": "Hammerkopf Oberfilz ausgehobelt",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein",
+          "numberValue": 0.0
+        }
+      ]
+    },
+    {
+      "code": "6F95FBCCC8",
+      "description": "Hammerkopf Flügel Teilungsnummer",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+      ]
+    },
+    {
+      "code": "A014410FD3",
+      "description": "Hammerkopf Piano Teilungsnummer",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+      ]
+    }
+  ],
+  "children": [
+    {
+      "code": "126CA7FFC1",
+      "description": "Hammerkopf Feld 1",
+      "attributes": [
+      ],
+      "children": [
+      ]
+    },
+    {
+      "code": "BF90B69E35",
+      "description": "Hammerkopf Feld 2",
+      "attributes": [
+      ],
+      "children": [
+      ]
+    },
+    {
+      "code": "00188DCF5E",
+      "description": "Hammerkopf Feld 3",
+      "attributes": [
+      ],
+      "children": [
+      ]
+    },
+    {
+      "code": "720FB9BE66",
+      "description": "Hammerkopf Unterfilz Streifen",
+      "attributes": [
+      ],
+      "children": [
+      ]
+    },
+    {
+      "code": "D3F8D2F1B2",
+      "description": "Hammerkopf Oberfilzstreifen",
+      "attributes": [
+      ],
+      "children": [
+      ]
+    }
+  ]
+}
+@endjson
