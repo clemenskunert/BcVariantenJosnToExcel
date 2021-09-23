@@ -840,6 +840,54 @@
           ]
         },
         {
+          "code": "F8B820DD28",
+          "__comment": "KOPIE",
+          "description": "Flügel Repetierfeder Feld 2",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+
+          ]
+        },
+        {
+          "code": "66FB260F98",
+          "__comment": "KOPIE",
+          "description": "Flügel Repetierfeder Feld 3",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+
+          ]
+        },
+        {
+          "code": "56BAEC842D",
+          "__comment": "KOPIE",
+          "description": "Flügel Repetierfeder Feld 4",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+
+          ]
+        },
+        {
+          "code": "A43E64C754",
+          "__comment": "KOPIE",
+          "description": "Flügel Repetierfeder Feld 5",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+
+          ]
+        },
+        {
           "code": "B49744FB0D",
           "description": "Hebeglied mit Stoßzunge",
           "standardValue": "1",
@@ -955,7 +1003,7 @@
         },
         {
           "code": "7302C7F26C",
-          "description": "Hebeglied Tragfeder Sorte",
+          "description": "Hebeglied Tragfeder Feld 1",
           "standardValue": "",
           "art": 1,
           "dataType": 1,
@@ -1009,6 +1057,50 @@
                 }
               ]
             }
+          ]
+        },
+        {
+          "code": "EF8B9CB303",
+          "__comment": "KOPIE",
+          "description": "Flügel Tragfeder Feld 2",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+          ]
+        },
+        {
+          "code": "A8A3BE6739",
+          "__comment": "KOPIE",
+          "description": "Flügel Tragfeder Feld 3",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+          ]
+        },
+        {
+          "code": "BC56614C84",
+          "__comment": "KOPIE",
+          "description": "Flügel Tragfeder 4",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+          ]
+        },
+        {
+          "code": "0B6BBC9776",
+          "__comment": "KOPIE",
+          "description": "Flügel Tragfeder 5",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
           ]
         },
         {
