@@ -475,7 +475,7 @@
         },
         {
           "code": "AE680FEBE7",
-          "description": "Flügel Hebeglied Kapsel",
+          "description": "Flügel Hebeglied Kapsel Feld 1",
           "standardValue": "",
           "art": 1,
           "dataType": 1,
@@ -589,6 +589,50 @@
                 }
               ]
             }
+          ]
+        },
+        {
+          "code": "F9A6740B29",
+          "__comment": "KOPIE",
+          "description": "Flügel Hebeglied Kapsel Feld 2",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+
+          ]
+        },
+        {
+          "code": "D50378B977",
+          "__comment": "KOPIE",
+          "description": "Flügel Hebeglied Kapsel Feld 3",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+          ]
+        },
+        {
+          "code": "C0C9D7F5E6",
+          "__comment": "KOPIE",
+          "description": "Flügel Hebeglied Kapsel Feld 4",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+          ]
+        },
+        {
+          "code": "B235F2F624",
+          "description": "Flügel Hebeglied Kapsel Feld 5",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
           ]
         },
         {
