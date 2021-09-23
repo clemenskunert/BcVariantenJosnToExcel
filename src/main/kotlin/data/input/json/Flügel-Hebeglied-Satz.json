@@ -10,1071 +10,1110 @@
       "description": "Flügel Hebeglied Feld",
       "attributes": [
         {
-          "code": "076B2E716B",
-          "description": "Anzahl Flügel Hebeglieder",
-          "standardValue": "88",
+          "code": "3BEE7BBF61",
+          "description": "Anzahl Flügel Hebeglieder Feld 1",
+          "standardValue": "",
           "art": 0,
           "dataType": 0,
           "nullAble": 0,
           "decimal": 0,
           "rangeStart": 1,
-          "rangeEnd": 100,
+          "rangeEnd": 88,
           "step": 1
-        }
-      ],
-      "children": [
+        },
         {
-          "code": "CE3FB81D80",
-          "description": "Flügel Hebeglied Baugruppe",
-          "attributes": [
+          "code": "A05C2B1297",
+          "description": "Anzahl Flügel Hebeglieder Feld 2",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 88,
+          "step": 1
+        },
+        {
+          "code": "7B2FC0E183",
+          "description": "Anzahl Flügel Hebeglieder Feld 3",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 88,
+          "step": 1
+        },
+        {
+          "code": "BF0DF43DC7",
+          "description": "Anzahl Flügel Hebeglieder Feld 4",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 88,
+          "step": 1
+        },
+        {
+          "code": "FB1D5F98C5",
+          "description": "Anzahl Flügel Hebeglieder Feld 5",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 1,
+          "rangeEnd": 88,
+          "step": 1
+        },
+        {
+          "code": "56E621C19B",
+          "description": "Flügel Hebeglied mit Ruhepolster",
+          "standardValue": "JA",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
             {
-              "code": "56E621C19B",
-              "description": "Flügel Hebeglied mit Ruhepolster",
-              "standardValue": "JA",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 1,
-              "expressions": [
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "147E174951",
+          "description": "Flügel Hebeglied Grundkörper",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "5A83476D51",
+              "expression": "Steinway HH",
+              "description": "Steinway HH",
+              "parts": [
                 {
-                  "code": "JANEIN",
-                  "expression": "JA",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
-                },
-                {
-                  "code": "JANEIN",
-                  "expression": "NEIN",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
+                  "number": "922107065",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "147E174951",
-              "description": "Flügel Hebeglied Grundkörper",
-              "standardValue": "",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
+              "code": "0E1B3E51DB",
+              "expression": "US-201",
+              "description": "US-201",
+              "parts": [
                 {
-                  "code": "5A83476D51",
-                  "expression": "Steinway HH",
-                  "description": "Steinway HH",
-                  "parts": [
-                    {
-                      "number": "922107065",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "0E1B3E51DB",
-                  "expression": "US-201",
-                  "description": "US-201",
-                  "parts": [
-                    {
-                      "number": "922107065",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "2546483D7D",
-                  "expression": "US-OLD",
-                  "description": "US-OLD",
-                  "parts": [
-                    {
-                      "number": "922107113",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "DF09C7360B",
-                  "expression": "US-OLD mit Nut",
-                  "description": "US-OLD mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107070",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "7516FD43AD",
-                  "expression": "US",
-                  "description": "US",
-                  "parts": [
-                    {
-                      "number": "922107067",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "932D0C039A",
-                  "expression": "US mit Nut",
-                  "description": "US mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107073",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "3F2402AA74",
-                  "expression": "Grau Grau Blau",
-                  "description": "Grau Grau Blau",
-                  "parts": [
-                    {
-                      "number": "922107105",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "9371CE8244",
-                  "expression": "Grau Grau Blau mit Nut",
-                  "description": "Grau Grau Blau mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107078",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "85949CF9B4",
-                  "expression": "Rot Rot",
-                  "description": "Rot Rot",
-                  "parts": [
-                    {
-                      "number": "922107108",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "5BFDF1E206",
-                  "expression": "Rot Rot mit Nut",
-                  "description": "Rot Rot mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107071",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "2885DADB94",
-                  "expression": "Grau Grau",
-                  "description": "Grau Grau",
-                  "parts": [
-                    {
-                      "number": "922107106",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "2885DADB94",
-                  "expression": "Grau Grau mit Nut",
-                  "description": "Grau Grau mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107079",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "05261FFFAD",
-                  "expression": "Grau Grau verkürzt",
-                  "description": "Grau Grau verkürzt",
-                  "parts": [
-                    {
-                      "number": "922107118",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "6A0FD5C181",
-                  "expression": "Grau Grau Gelb",
-                  "description": "Grau Grau Gelb",
-                  "parts": [
-                    {
-                      "number": "922107110",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "7DB9BAFCDE",
-                  "expression": "Gra Grau Gelb mit Nut",
-                  "description": "Gra Grau Gelb mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107072",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "167588620F",
-                  "expression": "Grau Grün",
-                  "description": "Grau Grün",
-                  "parts": [
-                    {
-                      "number": "922107111",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "8B0E7800BD",
-                  "expression": "Grau Grün mit Nut",
-                  "description": "Grau Grün mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107090",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "BD8B802C8D",
-                  "expression": "Universal",
-                  "description": "Universal",
-                  "parts": [
-                    {
-                      "number": "922107069",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "E1D91E3279",
-                  "expression": "Rot",
-                  "description": "Rot",
-                  "parts": [
-                    {
-                      "number": "922107096",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "99CC543CEA",
-                  "expression": "Rot mit Nut",
-                  "description": "Rot mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107082",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "4BD4E5438F",
-                  "expression": "Rot Grün",
-                  "description": "Rot Grün",
-                  "parts": [
-                    {
-                      "number": "922107112",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "5B6E7E335E",
-                  "expression": "Grau Grau Grün",
-                  "description": "Grau Grau Grün",
-                  "parts": [
-                    {
-                      "number": "922107107",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "D40CCE490C",
-                  "expression": "Grau Grau Grün mit Nut",
-                  "description": "Grau Grau Grün mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107076",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "FD9DCAA5F7",
-                  "expression": "Grau Blau mit Nut",
-                  "description": "Grau Blau mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107081",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "B9570EF48E",
-                  "expression": "Grau Gelb",
-                  "description": "Grau Gelb",
-                  "parts": [
-                    {
-                      "number": "922107104",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "4D09953B93",
-                  "expression": "Grau Gelb mit Nut",
-                  "description": "Grau Gelb mit Nut",
-                  "parts": [
-                    {
-                      "number": "922107089",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "CAEDC624AF",
-                  "expression": "Grün",
-                  "description": "Grün",
-                  "parts": [
-                    {
-                      "number": "922107101",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "338541D5D4",
-                  "expression": "Grün Grün",
-                  "description": "Grün Grün",
-                  "parts": [
-                    {
-                      "number": "922107114",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "42B4A04687",
-                  "expression": "FNN ohne Sattel",
-                  "description": "FNN ohne Sattel",
-                  "parts": [
-                    {
-                      "number": "922107115",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "051CAD615A",
-                  "expression": "Grau",
-                  "description": "Grau",
-                  "parts": [
-                    {
-                      "number": "922107097",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "4B8163E423",
-                  "expression": "Braun",
-                  "description": "Braun",
-                  "parts": [
-                    {
-                      "number": "922107100",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
+                  "number": "922107065",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "AE680FEBE7",
-              "description": "Flügel Hebeglied Kapsel",
-              "standardValue": "",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
+              "code": "2546483D7D",
+              "expression": "US-OLD",
+              "description": "US-OLD",
+              "parts": [
                 {
-                  "code": "548AD6BA68",
-                  "expression": "Renner",
-                  "description": "Renner",
-                  "parts": [
-                    {
-                      "number": "922107037",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "1B6B90B022",
-                  "expression": "Renner mit Schnur",
-                  "description": "Renner mit Schnur",
-                  "parts": [
-                    {
-                      "number": "922107005",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "2A5289986C",
-                  "expression": "Steinway",
-                  "description": "Steinway",
-                  "parts": [
-                    {
-                      "number": "922107005",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "002F27E506",
-                  "expression": "MH",
-                  "description": "MH",
-                  "parts": [
-                    {
-                      "number": "802107006",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "31917677A6",
-                  "expression": "FORD",
-                  "description": "FORD",
-                  "parts": [
-                    {
-                      "number": "802107020",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "348BEDB24C",
-                  "expression": "Falcone",
-                  "description": "Falcone",
-                  "parts": [
-                    {
-                      "number": "802107008",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "DEA1204D01",
-                  "expression": "Renner Kurz",
-                  "description": "Renner Kurz",
-                  "parts": [
-                    {
-                      "number": "922107003",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "58C287A78F",
-                  "expression": "Renner Kurz mit Schnur",
-                  "description": "Renner Kurz mit Schnur",
-                  "parts": [
-                    {
-                      "number": "922107004",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "24C1177285",
-                  "expression": "Fazioli T-2",
-                  "description": "Fazioli T-2",
-                  "parts": [
-                    {
-                      "number": "922107021",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
+                  "number": "922107113",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "E9D53D079E",
-              "description": "Flügel Hebeglied Repetierschenkel",
-              "standardValue": "",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
+              "code": "DF09C7360B",
+              "expression": "US-OLD mit Nut",
+              "description": "US-OLD mit Nut",
+              "parts": [
                 {
-                  "code": "2A5289986C",
-                  "expression": "Steinway",
-                  "description": "Steinway",
-                  "parts": [
-                    {
-                      "number": "922107026",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "CCD9D5AA48",
-                  "expression": "Fazioli 308/ 310",
-                  "description": "Fazioli 308/ 310",
-                  "parts": [
-                    {
-                      "number": "922107024",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "AD7AD50C91",
-                  "expression": "Renner 18mm",
-                  "description": "Renner 18mm",
-                  "parts": [
-                    {
-                      "number": "922107034",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "A1F25CA2B0",
-                  "expression": "Renner 20mm",
-                  "description": "Renner 20mm",
-                  "parts": [
-                    {
-                      "number": "922107031",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "31253D3561",
-                  "expression": "Renner mit Stellschraube 18mm",
-                  "description": "Renner mit Stellschraube 18mm",
-                  "parts": [
-                    {
-                      "number": "922107030",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "0F6F8C74FC",
-                  "expression": "Renner mit Stellschraube 20mm",
-                  "description": "Renner mit Stellschraube 20mm",
-                  "parts": [
-                    {
-                      "number": "922107033",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "E2C2D5E0FF",
-                  "expression": "Steinway mit Stellschraube",
-                  "description": "Steinway mit Stellschraube",
-                  "parts": [
-                    {
-                      "number": "922107035",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ]
+                  "number": "922107070",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "6955773B32",
-              "description": "Flügel Repetierfeder",
-              "standardValue": "0,95",
-              "art": 0,
-              "dataType": 0,
-              "nullAble": 0,
-              "decimal": 2,
-              "rangeStart": 0.75,
-              "rangeEnd": 1.0,
-              "step": 0.05,
-              "expression": [
+              "code": "7516FD43AD",
+              "expression": "US",
+              "description": "US",
+              "parts": [
                 {
-                  "code": "B1FEF09B41",
-                  "expression": "0,75 mm",
-                  "description": "0,75 mm",
-                  "parts": [
-                    {
-                      "number": "925652528",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.75,
-                  "numberEnd": 0.75
-                },
-                {
-                  "code": "82E98A3D8F",
-                  "expression": "0,80 mm",
-                  "description": "0,80 mm",
-                  "parts": [
-                    {
-                      "number": "925654529",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.8,
-                  "numberEnd": 0.8
-                },
-                {
-                  "code": "AA9546530E",
-                  "expression": "0,85 mm",
-                  "description": "0,85 mm",
-                  "parts": [
-                    {
-                      "number": "925652530",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.85,
-                  "numberEnd": 0.85
-                },
-                {
-                  "code": "DF0C94DA90",
-                  "expression": "0,90 mm",
-                  "description": "0,90 mm",
-                  "parts": [
-                    {
-                      "number": "925654531",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.9,
-                  "numberEnd": 0.9
-                },
-                {
-                  "code": "680788B710",
-                  "expression": "0,95 mm",
-                  "description": "0,95 mm",
-                  "parts": [
-                    {
-                      "number": "925654532",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.95,
-                  "numberEnd": 0.95
-                },
-                {
-                  "code": "AA27890B3D",
-                  "expression": "1,0 mm",
-                  "description": "1,0 mm",
-                  "parts": [
-                    {
-                      "number": "925654533",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 1.0,
-                  "numberEnd": 1.0
-                },
-                {
-                  "code": "0C9765BF47",
-                  "expression": "0,85 mm Stellbar",
-                  "description": "0,85 mm Stellbar",
-                  "parts": [
-                    {
-                      "number": "925654534",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.85,
-                  "numberEnd": 0.85
-                },
-                {
-                  "code": "DF0C94DA90",
-                  "expression": "0,90 mm",
-                  "description": "0,90 mm",
-                  "parts": [
-                    {
-                      "number": "925654535",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.9,
-                  "numberEnd": 0.9
-                },
-                {
-                  "code": "680788B710",
-                  "expression": "0,95 mm",
-                  "description": "0,95 mm",
-                  "parts": [
-                    {
-                      "number": "925654536",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.95,
-                  "numberEnd": 0.95
-                },
-                {
-                  "code": "82E98A3D8F",
-                  "expression": "0,80 mm",
-                  "description": "0,80 mm",
-                  "parts": [
-                    {
-                      "number": "925654537",
-                      "quantity": "1",
-                      "unit": 8
-                    }
-                  ],
-                  "numberStart": 0.8,
-                  "numberEnd": 0.8
+                  "number": "922107067",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "B49744FB0D",
-              "description": "Hebeglied mit Stoßzunge",
-              "standardValue": "1",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 1,
-              "expressions": [
+              "code": "932D0C039A",
+              "expression": "US mit Nut",
+              "description": "US mit Nut",
+              "parts": [
                 {
-                  "code": "JANEIN",
-                  "expression": "JA",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
-                },
-                {
-                  "code": "JANEIN",
-                  "expression": "NEIN",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
+                  "number": "922107073",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "B65DF1F634",
-              "description": "Hebeglied Stoßzungen Sorte",
-              "standardValue": "",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
+              "code": "3F2402AA74",
+              "expression": "Grau Grau Blau",
+              "description": "Grau Grau Blau",
+              "parts": [
                 {
-                  "code": "0B9765C175",
-                  "expression": "Stoßzunge Renner",
-                  "description": "Stoßzunge Renner",
-                  "parts": [
-                    {
-                      "number": "922107014",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "15AFBC7CE8",
-                  "expression": "Stoßzunge Steinway",
-                  "description": "Stoßzunge Steinway",
-                  "parts": [
-                    {
-                      "number": "922107012",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "0EC8C721F0",
-                  "expression": "Stoßzunge US",
-                  "description": "Stoßzunge US",
-                  "parts": [
-                    {
-                      "number": "922107016",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "0F9B1C3F62",
-                  "expression": "Stoßzunge MH",
-                  "description": "Stoßzunge MH",
-                  "parts": [
-                    {
-                      "number": "922107015",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "3C6CCD1BC0",
-                  "expression": "Stoßzunge Baldwin",
-                  "description": "Stoßzunge Baldwin",
-                  "parts": [
-                    {
-                      "number": "922107013",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
+                  "number": "922107105",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "C1BF8039BC",
-              "description": "Hebeglied mit Tragfeder",
-              "standardValue": "0",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 1,
-              "expressions": [
+              "code": "9371CE8244",
+              "expression": "Grau Grau Blau mit Nut",
+              "description": "Grau Grau Blau mit Nut",
+              "parts": [
                 {
-                  "code": "JANEIN",
-                  "expression": "JA",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
-                },
-                {
-                  "code": "JANEIN",
-                  "expression": "NEIN",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
+                  "number": "922107078",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "7302C7F26C",
-              "description": "Hebeglied Tragfeder Sorte",
-              "standardValue": "",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
+              "code": "85949CF9B4",
+              "expression": "Rot Rot",
+              "description": "Rot Rot",
+              "parts": [
                 {
-                  "code": "836D4B22BA",
-                  "expression": "0,55 mm Renner",
-                  "description": "0,55 mm Renner",
-                  "parts": [
-                    {
-                      "number": "925611027",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "6F3DA3E9D5",
-                  "expression": "0,60 mm Renner",
-                  "description": "0,60 mm Renner",
-                  "parts": [
-                    {
-                      "number": "925611028",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "D5F3A87055",
-                  "expression": "0,70 mm Renner",
-                  "description": "0,70 mm Renner",
-                  "parts": [
-                    {
-                      "number": "925611029",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "68B5460624",
-                  "expression": "0,70 mm USA",
-                  "description": "0,70 mm USA",
-                  "parts": [
-                    {
-                      "number": "925611030",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
+                  "number": "922107108",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "2835FCDFF4",
-              "description": "Renner Logo vorhanden",
-              "standardValue": "1",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 1,
-              "expressions": [
+              "code": "5BFDF1E206",
+              "expression": "Rot Rot mit Nut",
+              "description": "Rot Rot mit Nut",
+              "parts": [
                 {
-                  "code": "JANEIN",
-                  "expression": "JA",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
-                },
-                {
-                  "code": "JANEIN",
-                  "expression": "NEIN",
-                  "description": "Ja / Nein",
-                  "numberValue": 0.0
+                  "number": "922107071",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "2C0E0E4C85",
-              "description": "Stärke Flügel Hammerruhepolster",
-              "standardValue": "8.7",
-              "art": 1,
-              "dataType": 0,
-              "nullAble": 0,
-              "decimal": 1,
-              "expressions": [
+              "code": "2885DADB94",
+              "expression": "Grau Grau",
+              "description": "Grau Grau",
+              "parts": [
                 {
-                  "code": "C7E1249FFC",
-                  "expression": "8.7",
-                  "description": "8.7",
-                  "numberStart": 8.7,
-                  "numberEnd": 8.7,
-                  "parts": [
-                    {
-                      "number": "924628405",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "C20AD4D76F",
-                  "expression": "12",
-                  "description": "12",
-                  "numberStart": 12,
-                  "numberEnd": 12,
-                  "parts": [
-                    {
-                      "number": "924628406",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
+                  "number": "922107106",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             },
             {
-              "code": "A23EEACD89",
-              "description": "Hebeglied Repetierfeder Aufhängung",
-              "standardValue": "Kordel",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
+              "code": "2885DADB94",
+              "expression": "Grau Grau mit Nut",
+              "description": "Grau Grau mit Nut",
+              "parts": [
                 {
-                  "code": "F0BA0EDBAD",
-                  "expression": "Kordel",
-                  "description": "Kordel",
-                  "parts": [
-                    {
-                      "__comment": "Fehlender Artikel im System Repetierfederkordel Zuschnitt mit Spitze aus 997850286",
-                      "number": "",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
+                  "number": "922107079",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "05261FFFAD",
+              "expression": "Grau Grau verkürzt",
+              "description": "Grau Grau verkürzt",
+              "parts": [
                 {
-                  "code": "6D9FED9398",
-                  "expression": "Stift",
-                  "description": "Stift",
-                  "parts": [
-                    {
-                      "number": "997850040",
-                      "quantity": 0.017,
-                      "unit": 8
-                    },
-                    {
-                      "number": "924652544",
-                      "quantity": 0.0277,
-                      "unit": 8
-                    }
-                  ]
+                  "number": "922107118",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "6A0FD5C181",
+              "expression": "Grau Grau Gelb",
+              "description": "Grau Grau Gelb",
+              "parts": [
+                {
+                  "number": "922107110",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "7DB9BAFCDE",
+              "expression": "Gra Grau Gelb mit Nut",
+              "description": "Gra Grau Gelb mit Nut",
+              "parts": [
+                {
+                  "number": "922107072",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "167588620F",
+              "expression": "Grau Grün",
+              "description": "Grau Grün",
+              "parts": [
+                {
+                  "number": "922107111",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "8B0E7800BD",
+              "expression": "Grau Grün mit Nut",
+              "description": "Grau Grün mit Nut",
+              "parts": [
+                {
+                  "number": "922107090",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "BD8B802C8D",
+              "expression": "Universal",
+              "description": "Universal",
+              "parts": [
+                {
+                  "number": "922107069",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "E1D91E3279",
+              "expression": "Rot",
+              "description": "Rot",
+              "parts": [
+                {
+                  "number": "922107096",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "99CC543CEA",
+              "expression": "Rot mit Nut",
+              "description": "Rot mit Nut",
+              "parts": [
+                {
+                  "number": "922107082",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "4BD4E5438F",
+              "expression": "Rot Grün",
+              "description": "Rot Grün",
+              "parts": [
+                {
+                  "number": "922107112",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "5B6E7E335E",
+              "expression": "Grau Grau Grün",
+              "description": "Grau Grau Grün",
+              "parts": [
+                {
+                  "number": "922107107",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "D40CCE490C",
+              "expression": "Grau Grau Grün mit Nut",
+              "description": "Grau Grau Grün mit Nut",
+              "parts": [
+                {
+                  "number": "922107076",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "FD9DCAA5F7",
+              "expression": "Grau Blau mit Nut",
+              "description": "Grau Blau mit Nut",
+              "parts": [
+                {
+                  "number": "922107081",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "B9570EF48E",
+              "expression": "Grau Gelb",
+              "description": "Grau Gelb",
+              "parts": [
+                {
+                  "number": "922107104",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "4D09953B93",
+              "expression": "Grau Gelb mit Nut",
+              "description": "Grau Gelb mit Nut",
+              "parts": [
+                {
+                  "number": "922107089",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "CAEDC624AF",
+              "expression": "Grün",
+              "description": "Grün",
+              "parts": [
+                {
+                  "number": "922107101",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "338541D5D4",
+              "expression": "Grün Grün",
+              "description": "Grün Grün",
+              "parts": [
+                {
+                  "number": "922107114",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "42B4A04687",
+              "expression": "FNN ohne Sattel",
+              "description": "FNN ohne Sattel",
+              "parts": [
+                {
+                  "number": "922107115",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "051CAD615A",
+              "expression": "Grau",
+              "description": "Grau",
+              "parts": [
+                {
+                  "number": "922107097",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "4B8163E423",
+              "expression": "Braun",
+              "description": "Braun",
+              "parts": [
+                {
+                  "number": "922107100",
+                  "quantity": "1",
+                  "unit": 8
                 }
               ]
             }
-
-          ],
-          "children": [
+          ]
+        },
+        {
+          "code": "AE680FEBE7",
+          "description": "Flügel Hebeglied Kapsel",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "548AD6BA68",
+              "expression": "Renner",
+              "description": "Renner",
+              "parts": [
+                {
+                  "number": "922107037",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "1B6B90B022",
+              "expression": "Renner mit Schnur",
+              "description": "Renner mit Schnur",
+              "parts": [
+                {
+                  "number": "922107005",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "2A5289986C",
+              "expression": "Steinway",
+              "description": "Steinway",
+              "parts": [
+                {
+                  "number": "922107005",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "002F27E506",
+              "expression": "MH",
+              "description": "MH",
+              "parts": [
+                {
+                  "number": "802107006",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "31917677A6",
+              "expression": "FORD",
+              "description": "FORD",
+              "parts": [
+                {
+                  "number": "802107020",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "348BEDB24C",
+              "expression": "Falcone",
+              "description": "Falcone",
+              "parts": [
+                {
+                  "number": "802107008",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "DEA1204D01",
+              "expression": "Renner Kurz",
+              "description": "Renner Kurz",
+              "parts": [
+                {
+                  "number": "922107003",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "58C287A78F",
+              "expression": "Renner Kurz mit Schnur",
+              "description": "Renner Kurz mit Schnur",
+              "parts": [
+                {
+                  "number": "922107004",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "24C1177285",
+              "expression": "Fazioli T-2",
+              "description": "Fazioli T-2",
+              "parts": [
+                {
+                  "number": "922107021",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "E9D53D079E",
+          "description": "Flügel Hebeglied Repetierschenkel",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "2A5289986C",
+              "expression": "Steinway",
+              "description": "Steinway",
+              "parts": [
+                {
+                  "number": "922107026",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "CCD9D5AA48",
+              "expression": "Fazioli 308/ 310",
+              "description": "Fazioli 308/ 310",
+              "parts": [
+                {
+                  "number": "922107024",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "AD7AD50C91",
+              "expression": "Renner 18mm",
+              "description": "Renner 18mm",
+              "parts": [
+                {
+                  "number": "922107034",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "A1F25CA2B0",
+              "expression": "Renner 20mm",
+              "description": "Renner 20mm",
+              "parts": [
+                {
+                  "number": "922107031",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "31253D3561",
+              "expression": "Renner mit Stellschraube 18mm",
+              "description": "Renner mit Stellschraube 18mm",
+              "parts": [
+                {
+                  "number": "922107030",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "0F6F8C74FC",
+              "expression": "Renner mit Stellschraube 20mm",
+              "description": "Renner mit Stellschraube 20mm",
+              "parts": [
+                {
+                  "number": "922107033",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "E2C2D5E0FF",
+              "expression": "Steinway mit Stellschraube",
+              "description": "Steinway mit Stellschraube",
+              "parts": [
+                {
+                  "number": "922107035",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "6955773B32",
+          "description": "Flügel Repetierfeder Feld 1",
+          "standardValue": "0,95",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 2,
+          "rangeStart": 0.75,
+          "rangeEnd": 1.0,
+          "step": 0.05,
+          "expression": [
+            {
+              "code": "B1FEF09B41",
+              "expression": "0,75 mm",
+              "description": "0,75 mm",
+              "parts": [
+                {
+                  "number": "925652528",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.75,
+              "numberEnd": 0.75
+            },
+            {
+              "code": "82E98A3D8F",
+              "expression": "0,80 mm",
+              "description": "0,80 mm",
+              "parts": [
+                {
+                  "number": "925654529",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.8,
+              "numberEnd": 0.8
+            },
+            {
+              "code": "AA9546530E",
+              "expression": "0,85 mm",
+              "description": "0,85 mm",
+              "parts": [
+                {
+                  "number": "925652530",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.85,
+              "numberEnd": 0.85
+            },
+            {
+              "code": "DF0C94DA90",
+              "expression": "0,90 mm",
+              "description": "0,90 mm",
+              "parts": [
+                {
+                  "number": "925654531",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.9,
+              "numberEnd": 0.9
+            },
+            {
+              "code": "680788B710",
+              "expression": "0,95 mm",
+              "description": "0,95 mm",
+              "parts": [
+                {
+                  "number": "925654532",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.95,
+              "numberEnd": 0.95
+            },
+            {
+              "code": "AA27890B3D",
+              "expression": "1,0 mm",
+              "description": "1,0 mm",
+              "parts": [
+                {
+                  "number": "925654533",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 1.0,
+              "numberEnd": 1.0
+            },
+            {
+              "code": "0C9765BF47",
+              "expression": "0,85 mm Stellbar",
+              "description": "0,85 mm Stellbar",
+              "parts": [
+                {
+                  "number": "925654534",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.85,
+              "numberEnd": 0.85
+            },
+            {
+              "code": "DF0C94DA90",
+              "expression": "0,90 mm",
+              "description": "0,90 mm",
+              "parts": [
+                {
+                  "number": "925654535",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.9,
+              "numberEnd": 0.9
+            },
+            {
+              "code": "680788B710",
+              "expression": "0,95 mm",
+              "description": "0,95 mm",
+              "parts": [
+                {
+                  "number": "925654536",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.95,
+              "numberEnd": 0.95
+            },
+            {
+              "code": "82E98A3D8F",
+              "expression": "0,80 mm",
+              "description": "0,80 mm",
+              "parts": [
+                {
+                  "number": "925654537",
+                  "quantity": "1",
+                  "unit": 8
+                }
+              ],
+              "numberStart": 0.8,
+              "numberEnd": 0.8
+            }
+          ]
+        },
+        {
+          "code": "B49744FB0D",
+          "description": "Hebeglied mit Stoßzunge",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "B65DF1F634",
+          "description": "Hebeglied Stoßzungen Sorte",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "0B9765C175",
+              "expression": "Stoßzunge Renner",
+              "description": "Stoßzunge Renner",
+              "parts": [
+                {
+                  "number": "922107014",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "15AFBC7CE8",
+              "expression": "Stoßzunge Steinway",
+              "description": "Stoßzunge Steinway",
+              "parts": [
+                {
+                  "number": "922107012",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "0EC8C721F0",
+              "expression": "Stoßzunge US",
+              "description": "Stoßzunge US",
+              "parts": [
+                {
+                  "number": "922107016",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "0F9B1C3F62",
+              "expression": "Stoßzunge MH",
+              "description": "Stoßzunge MH",
+              "parts": [
+                {
+                  "number": "922107015",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "3C6CCD1BC0",
+              "expression": "Stoßzunge Baldwin",
+              "description": "Stoßzunge Baldwin",
+              "parts": [
+                {
+                  "number": "922107013",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "C1BF8039BC",
+          "description": "Hebeglied mit Tragfeder",
+          "standardValue": "0",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "7302C7F26C",
+          "description": "Hebeglied Tragfeder Sorte",
+          "standardValue": "",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "836D4B22BA",
+              "expression": "0,55 mm Renner",
+              "description": "0,55 mm Renner",
+              "parts": [
+                {
+                  "number": "925611027",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "6F3DA3E9D5",
+              "expression": "0,60 mm Renner",
+              "description": "0,60 mm Renner",
+              "parts": [
+                {
+                  "number": "925611028",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "D5F3A87055",
+              "expression": "0,70 mm Renner",
+              "description": "0,70 mm Renner",
+              "parts": [
+                {
+                  "number": "925611029",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "68B5460624",
+              "expression": "0,70 mm USA",
+              "description": "0,70 mm USA",
+              "parts": [
+                {
+                  "number": "925611030",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "2835FCDFF4",
+          "description": "Renner Logo vorhanden",
+          "standardValue": "1",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 1,
+          "expressions": [
+            {
+              "code": "JANEIN",
+              "expression": "JA",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            },
+            {
+              "code": "JANEIN",
+              "expression": "NEIN",
+              "description": "Ja / Nein",
+              "numberValue": 0.0
+            }
+          ]
+        },
+        {
+          "code": "2C0E0E4C85",
+          "description": "Stärke Flügel Hammerruhepolster",
+          "standardValue": "8.7",
+          "art": 1,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 1,
+          "expressions": [
+            {
+              "code": "C7E1249FFC",
+              "expression": "8.7",
+              "description": "8.7",
+              "numberStart": 8.7,
+              "numberEnd": 8.7,
+              "parts": [
+                {
+                  "number": "924628405",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "C20AD4D76F",
+              "expression": "12",
+              "description": "12",
+              "numberStart": 12,
+              "numberEnd": 12,
+              "parts": [
+                {
+                  "number": "924628406",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "A23EEACD89",
+          "description": "Hebeglied Repetierfeder Aufhängung",
+          "standardValue": "Kordel",
+          "art": 1,
+          "dataType": 1,
+          "nullAble": 0,
+          "expressions": [
+            {
+              "code": "F0BA0EDBAD",
+              "expression": "Kordel",
+              "description": "Kordel",
+              "parts": [
+                {
+                  "__comment": "Fehlender Artikel im System Repetierfederkordel Zuschnitt mit Spitze aus 997850286",
+                  "number": "",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            },
+            {
+              "code": "6D9FED9398",
+              "expression": "Stift",
+              "description": "Stift",
+              "parts": [
+                {
+                  "number": "997850040",
+                  "quantity": 0.017,
+                  "unit": 8
+                },
+                {
+                  "number": "924652544",
+                  "quantity": 0.0277,
+                  "unit": 8
+                }
+              ]
+            }
           ]
         }
+      ],
+      "children": [
       ]
     }
   ]
