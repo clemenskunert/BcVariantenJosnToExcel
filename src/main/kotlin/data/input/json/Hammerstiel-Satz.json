@@ -22,6 +22,18 @@
           "description": "Ja / Nein"
         }
       ]
+    },
+    {
+      "code": "EF928DC97D",
+      "expression": "Flügel Hammerstiel Anzahl Felder",
+      "description": "Flügel Hammerstiel Anzahl Felder",
+      "parts": [
+        {
+          "number": "",
+          "quantity": 1,
+          "unit": 8
+        }
+      ]
     }
   ],
   "children": [
@@ -346,8 +358,101 @@
               ]
             },
             {
+              "code": "A9CC465B76",
+              "description": "Flügel Hammerstiel Art Feld 2",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                
+              ]
+            },
+            {
+              "code": "AF51AC1922",
+              "description": "Flügel Hammerstiel Art Feld 3",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 1,
+              "expressions": [
+                
+              ]
+            },
+            {
+              "code": "A75580D979",
+              "description": "Flügel Hammerstiel Art Feld 4 ",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 1,
+              "nullAble": 0,
+              "expressions": [
+                
+              ]
+            },
+            {
+              "code": "19968E644F",
+              "description": "Flügel Hammerstiel Anzahl der Felder",
+              "standardValue": "3",
+              "art": 0,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "rangeStart": 1,
+              "rangeEnd": 4,
+              "step": 1
+            },
+            {
+              "code": "A9D3490E73",
+              "expression": "Flügel Hammerstiel Art Feld 5",
+              "description": "Flügel Hammerstiel Art Feld 5",
+              "parts": [
+                {
+                  "number": "",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+            {
+              "code": "A75580D979",
+              "expression": "Flügel Hammerstiel Art Feld 4",
+              "description": "Flügel Hammerstiel Art Feld 4",
+              "parts": [
+                {
+                  "number": "",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+            {
+              "code": "AF51AC1922",
+              "expression": "Flügel Hammerstiel Art Feld 3",
+              "description": "Flügel Hammerstiel Art Feld 3",
+              "parts": [
+                {
+                  "number": "",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+            {
+              "code": "FA90143DFC",
+              "expression": "Flügelhammer Stiel Art Feld 2",
+              "description": "Flügelhammer Stiel Art Feld 2",
+              "parts": [
+                {
+                  "number": "",
+                  "quantity": 1,
+                  "unit": 8
+                }
+              ]
+            }
+            {
               "code": "217B29C3D5",
-              "description": "Flügelhammerstiel Stiel Art",
+              "description": "Flügelhammerstiel Stiel Art Feld 1",
               "standardValue": "",
               "art": 1,
               "dataType": 1,
@@ -607,6 +712,7 @@
                 }
               ]
             },
+            
             {
               "code": "3E83303B1C",
               "description": "Kapsle vorhanden",
