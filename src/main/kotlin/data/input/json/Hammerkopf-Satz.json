@@ -5,23 +5,48 @@
     "aktionSets": [
       {
         "code": "E4EA0C1117",
-        "description": "Akion Set Hammerkopf Piano Teilungsnummer 1"
+        "description": "Akion Set Hammerkopf Teilungsnummer 1"
       },
       {
         "code": "644BA8ECB8",
-        "description": "Aktion Set Hammerkopf Piano Teilungsnummer 2"
+        "description": "Aktion Set Hammerkopf Teilungsnummer 2"
       },
       {
         "code": "3EB5FE940E",
-        "description": "Aktion Set Hammerkopf Piano Teiliungsnummer 3"
+        "description": "Aktion Set Hammerkopf Teiliungsnummer 3"
       },
       {
         "code": "C2B442F8B5",
-        "description": "Aktion Set Hammerkopf Piano Teilungsnummer 4"
+        "description": "Aktion Set Hammerkopf Teilungsnummer 4"
+      },
+      {
+        "code": "1DDB572F37",
+        "expression": "Hammerkopf Teilungsnummer für Piano",
+        "description": "Hammerkopf Teilungsnummer für Piano"
+      },
+      {
+        "code": "F059657ECE",
+        "expression": "Hammerkopf Teilungsnummer für Flügel",
+        "description": "Hammerkopf Teilungsnummer für Flügel"
       },
       {
         "code": "0160546D24",
         "description": "Aktion Set Hammerkopf Totallänge"
+      },
+      {
+        "code": "91F0E2AD6B",
+        "expression": "Hammerkopf Anzahl der Kerne berechnen",
+        "description": "Hammerkopf Anzahl der Kerne berechnen"
+      },
+      {
+        "code": "C84B48DEC0",
+        "expression": "Hammerkopf Meldung Totallänge",
+        "description": "Hammerkopf Meldung Totallänge"
+      },
+      {
+        "code": "91EC0EB301",
+        "expression": "Hammerkopf berechne Totallänge",
+        "description": "Hammerkopf berechne Totallänge"
       }
     ]
   },
