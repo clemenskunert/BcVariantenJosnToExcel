@@ -1314,7 +1314,82 @@
       "code": "ACE7A02F80",
       "expression": "Flügel Hebeglied Felder Ausblenden 2",
       "description": "Flügel Hebeglied Felder Ausblenden 2"
-    }
+    },
+    {
+      "code": "71EF6E8133",
+      "expression": "Flügel Hebeglied Tragfeder Ausblenden",
+      "description": "Flügel Hebeglied Tragfeder Ausblenden"
+    },
+    {
+      "code": "71EF6E8133",
+      "expression": "Flügel Hebeglied Tragfeder ausblenden",
+      "description": "Flügel Hebeglied Tragfeder ausblenden"
+    },
+    {
+      "code": "2D1BBBC080",
+      "expression": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 1",
+      "description": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 1"
+    },
+    {
+      "code": "1C522D1D99",
+      "expression": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 2",
+      "description": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 2"
+    },
+    {
+      "code": "4BBC361D92",
+      "expression": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 3",
+      "description": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 3"
+    },
+    {
+      "code": "0C67ACB9A5",
+      "expression": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 4",
+      "description": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 4"
+    },
+    {
+      "code": "F66E82E8B3",
+      "expression": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 5",
+      "description": "Flügel Hebeglied Tragfeder Kapsel Prüfen Feld 5"
+    },
+    {
+      "code": "FD12C0EB24",
+      "expression": "Flügel Hebeglied Tragfeder Repetierschenkel Prüfung",
+      "description": "Flügel Hebeglied Tragfeder Repetierschenkel Prüfung"
+    },
+    {
+      "code": "BF244DE0FC",
+      "expression": "Flügel Hebeglied Grundkörper Tragfeder Prüfen",
+      "description": "Flügel Hebeglied Grundkörper Tragfeder Prüfen"
+    },
+    {
+      "code": "CFE13E96BA",
+      "expression": "Flügel Repetierfeder Aufhängung Prüfen",
+      "description": "Flügel Repetierfeder Aufhängung Prüfen"
+    },
+    {
+      "code": "34D7018999",
+      "expression": "Flügel Hebeglied Vorbelegung abhängig vom Grundkörper",
+      "description": "Flügel Hebeglied Vorbelegung abhängig vom Grundkörper"
+    },
+    {
+      "code": "8BC4F35547",
+      "expression": "Flügel Hebeglied Vorbelegung 1",
+      "description": "Flügel Hebeglied Vorbelegung 1"
+    },
+    {
+      "code": "49A34D6292",
+      "expression": "Flügel Hebeglied Vorbelegung 2",
+      "description": "Flügel Hebeglied Vorbelegung 2"
+    },
+    {
+      "code": "84198211DA",
+      "expression": "Flügel Hebeglied Vorbelegung 3",
+      "description": "Flügel Hebeglied Vorbelegung 3"
+    },
+    {
+      "code": "93D0176D71",
+      "expression": "Flügel Hebeglied Vorbelegung 4",
+      "description": "Flügel Hebeglied Vorbelegung 4"
+    },
   ],
   "actionSet": [
     {
@@ -1365,6 +1440,11 @@
       "code": "ACE7A02F80",
       "expression": "Flügel Hebeglied Felder Ausblenden 2",
       "description": "Flügel Hebeglied Felder Ausblenden 2"
+    },
+    {
+      "code": "4D56B14D9F",
+      "expression": "Flügel Teilungsnummer",
+      "description": "Flügel Teilungsnummer"
     }
   ]
 }
