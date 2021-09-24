@@ -219,6 +219,13 @@
     }
   ],
   "children": [
+  ],
+  "decisionDefinition":[
+    {
+      "code": "57FBE70919",
+      "expression": "Flügel Fängersatz Teilungsnummer Vorbelegung",
+      "description": "Flügel Fängersatz Teilungsnummer Vorbelegung"
+    }
   ]
 }
 @endjson

@@ -786,6 +786,65 @@
                   ]
                 }
               ]
+            },
+            {
+              "code": "A3DD59A650",
+              "description": "Flügel Hammerstiel Anzahl Feld 1",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal":0,
+              "expressions": [
+              ]
+            },
+            {
+              "code": "AA761E59E1",
+              "description": "Flügel Hammerstiel Anzahl Feld 2",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "expressions": [
+
+              ]
+            },
+            {
+              "code": "C818DC2FC0",
+              "description": "Flügel Hammerstiel Anzahl Feld 3",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "expressions": [
+
+              ]
+            },
+            {
+              "code": "61C00E101C",
+              "description": "Flügel Hammerstiel Anzahl Feld 4",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "expressions": [
+
+              ]
+            },
+            {
+              "code": "BC2F5A81F6",
+              "description": "Flügel Hammerstiel Anzahl Feld 5",
+              "standardValue": "",
+              "art": 1,
+              "dataType": 0,
+              "nullAble": 0,
+              "decimal": 0,
+              "expressions": [
+
+              ]
             }
           ],
           "children": [
@@ -793,6 +852,29 @@
         }
       ]
     }
+  ],
+  "decisionDefinition": [
+    {
+      "code": "4EFBE41D53",
+      "expression": "Flügel Hammerstiel Teilungsnummer Vorbelegung 1",
+      "description": "Flügel Hammerstiel Teilungsnummer Vorbelegung 1"
+    },
+    {
+      "code": "5E207D69A9",
+      "expression": "Flügel Hammerstiel Teilungsnummer Vorbelegung 2",
+      "description": "Flügel Hammerstiel Teilungsnummer Vorbelegung 2"
+    },
+    {
+      "code": "215DBA2921",
+      "expression": "Flügel Hammerstiel Felder ausblenden",
+      "description": "Flügel Hammerstiel Felder ausblenden"
+    }
+  ],
+  "actionSet": [
+    
+  ],
+  "conditionalSet": [
+    
   ]
 }
 @endjson
