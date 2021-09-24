@@ -3,270 +3,272 @@
   "code": "613111774F",
   "description": "Flügel Dämpferarm Satz",
   "attributes": [
+    {
+      "code": "18FB8C693A",
+      "description": "Anzahl Flügel Dämpferarme",
+      "standardValue": "71",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 80,
+      "step": 1
+    },
+    {
+      "code": "7074E7A037",
+      "description": "Dämpferarm Ausgebleit",
+      "standardValue": "1",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein"
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein"
+        }
+      ]
+    },
+    {
+      "code": "A112632DA8",
+      "description": "Flügel Dämpferarm Sorte",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "B5423F4714",
+          "expression": "Steinway 3",
+          "description": "Steinway 3",
+          "parts": [
+            {
+              "number": "924623206",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "729F4B1F93",
+          "expression": "Steinway 2",
+          "description": "Steinway 2",
+          "parts": [
+            {
+              "number": "924623205",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7B6168ABAA",
+          "expression": "Steinway 1",
+          "description": "Steinway 1",
+          "parts": [
+            {
+              "number": "924623204",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "287474C10E",
+          "expression": "Steinway ohne",
+          "description": "Steinway ohne",
+          "parts": [
+            {
+              "number": "924623203",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9F53CFF423",
+          "expression": "US Pilote 3",
+          "description": "US Pilote 3",
+          "parts": [
+            {
+              "number": "924623215",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "19536057A6",
+          "expression": "US Pilote 2",
+          "description": "US Pilote 2",
+          "parts": [
+            {
+              "number": "924623214",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "23277D14BB",
+          "expression": "US Pilote 1",
+          "description": "US Pilote 1",
+          "parts": [
+            {
+              "number": "924623213",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "C06794672F",
+          "expression": "US Pilote ohne",
+          "description": "US Pilote ohne",
+          "parts": [
+            {
+              "number": "924623212",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "9798E8C93C",
+          "expression": "US Federlauf 3",
+          "description": "US Federlauf",
+          "parts": [
+            {
+              "number": "924623190",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "8BCEE0C7F1",
+          "expression": "US Federlauf 2",
+          "description": "US Federlauf 2",
+          "parts": [
+            {
+              "number": "924623189",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "90BBE9DD48",
+          "expression": "US Federlauf 1",
+          "description": "US Federlauf 1",
+          "parts": [
+            {
+              "number": "924623188",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "112FF5252C",
+          "expression": "US Federlauf ohne",
+          "description": "US Federlauf ohne",
+          "parts": [
+            {
+              "number": "924623187",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "BF24E65A8E",
+      "description": "Dämpferarm Pilote vorhanden",
+      "standardValue": "0",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 1,
+      "expressions": [
+        {
+          "code": "JANEIN",
+          "expression": "JA",
+          "description": "Ja / Nein"
+        },
+        {
+          "code": "JANEIN",
+          "expression": "NEIN",
+          "description": "Ja / Nein"
+        }
+      ]
+    },
+    {
+      "code": "D04B0C3AA9",
+      "description": "Dämpferarm Piloten Eindrehhöhe",
+      "standardValue": "14",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 11,
+      "rangeEnd": 15,
+      "step": 1
+    },
+    {
+      "code": "4B263CCF47",
+      "description": "Flügel Dämpferarm Kapsel",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+        {
+          "code": "FE27961217",
+          "expression": "Steinway Hamburg",
+          "description": "Steinway Hamburg",
+          "parts": [
+            {
+              "number": "923122002",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        },
+        {
+          "code": "7516FD43AD",
+          "expression": "US",
+          "description": "US",
+          "parts": [
+            {
+              "number": "923122003",
+              "quantity": 1,
+              "unit": 8
+            }
+          ]
+        }
+      ]
+    }
   ],
   "children": [
     {
       "code": "19075DFA26",
       "description": "Flügel Dämpferarm Feld",
       "attributes": [
-        {
-          "code": "18FB8C693A",
-          "description": "Anzahl Flügel Dämpferarme",
-          "standardValue": "71",
-          "art": 0,
-          "dataType": 0,
-          "nullAble": 0,
-          "decimal": 0,
-          "rangeStart": 1,
-          "rangeEnd": 80,
-          "step": 1
-        }
+
       ],
       "children": [
         {
           "code": "8832ACC927",
           "description": "Flügel Dämpferarm Baugruppe US",
           "attributes": [
-            {
-              "code": "7074E7A037",
-              "description": "Dämpferarm Ausgebleit",
-              "standardValue": "1",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 1,
-              "expressions": [
-                {
-                  "code": "JANEIN",
-                  "expression": "JA",
-                  "description": "Ja / Nein"
-                },
-                {
-                  "code": "JANEIN",
-                  "expression": "NEIN",
-                  "description": "Ja / Nein"
-                }
-              ]
-            },
-            {
-              "code": "A112632DA8",
-              "description": "Flügel Dämpferarm Sorte",
-              "standardValue": "",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
-                {
-                  "code": "B5423F4714",
-                  "expression": "Steinway 3",
-                  "description": "Steinway 3",
-                  "parts": [
-                    {
-                      "number": "924623206",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "729F4B1F93",
-                  "expression": "Steinway 2",
-                  "description": "Steinway 2",
-                  "parts": [
-                    {
-                      "number": "924623205",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "7B6168ABAA",
-                  "expression": "Steinway 1",
-                  "description": "Steinway 1",
-                  "parts": [
-                    {
-                      "number": "924623204",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "287474C10E",
-                  "expression": "Steinway ohne",
-                  "description": "Steinway ohne",
-                  "parts": [
-                    {
-                      "number": "924623203",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "9F53CFF423",
-                  "expression": "US Pilote 3",
-                  "description": "US Pilote 3",
-                  "parts": [
-                    {
-                      "number": "924623215",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "19536057A6",
-                  "expression": "US Pilote 2",
-                  "description": "US Pilote 2",
-                  "parts": [
-                    {
-                      "number": "924623214",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "23277D14BB",
-                  "expression": "US Pilote 1",
-                  "description": "US Pilote 1",
-                  "parts": [
-                    {
-                      "number": "924623213",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "C06794672F",
-                  "expression": "US Pilote ohne",
-                  "description": "US Pilote ohne",
-                  "parts": [
-                    {
-                      "number": "924623212",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "9798E8C93C",
-                  "expression": "US Federlauf 3",
-                  "description": "US Federlauf",
-                  "parts": [
-                    {
-                      "number": "924623190",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "8BCEE0C7F1",
-                  "expression": "US Federlauf 2",
-                  "description": "US Federlauf 2",
-                  "parts": [
-                    {
-                      "number": "924623189",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "90BBE9DD48",
-                  "expression": "US Federlauf 1",
-                  "description": "US Federlauf 1",
-                  "parts": [
-                    {
-                      "number": "924623188",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "112FF5252C",
-                  "expression": "US Federlauf ohne",
-                  "description": "US Federlauf ohne",
-                  "parts": [
-                    {
-                      "number": "924623187",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "code": "BF24E65A8E",
-              "description": "Dämpferarm Pilote vorhanden",
-              "standardValue": "0",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 1,
-              "expressions": [
-                {
-                  "code": "JANEIN",
-                  "expression": "JA",
-                  "description": "Ja / Nein"
-                },
-                {
-                  "code": "JANEIN",
-                  "expression": "NEIN",
-                  "description": "Ja / Nein"
-                }
-              ]
-            },
-            {
-              "code": "D04B0C3AA9",
-              "description": "Dämpferarm Piloten Eindrehhöhe",
-              "standardValue": "14",
-              "art": 0,
-              "dataType": 0,
-              "nullAble": 0,
-              "decimal": 0,
-              "rangeStart": 11,
-              "rangeEnd": 15,
-              "step": 1
-            },
-            {
-              "code": "4B263CCF47",
-              "description": "Flügel Dämpferarm Kapsel",
-              "standardValue": "",
-              "art": 1,
-              "dataType": 1,
-              "nullAble": 0,
-              "expressions": [
-                {
-                  "code": "FE27961217",
-                  "expression": "Steinway Hamburg",
-                  "description": "Steinway Hamburg",
-                  "parts": [
-                    {
-                      "number": "923122002",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                },
-                {
-                  "code": "7516FD43AD",
-                  "expression": "US",
-                  "description": "US",
-                  "parts": [
-                    {
-                      "number": "923122003",
-                      "quantity": 1,
-                      "unit": 8
-                    }
-                  ]
-                }
-              ]
-            }
+
           ],
           "children": [
             {
