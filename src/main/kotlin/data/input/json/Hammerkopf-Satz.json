@@ -47,6 +47,36 @@
         "code": "91EC0EB301",
         "expression": "Hammerkopf berechne Totallänge",
         "description": "Hammerkopf berechne Totallänge"
+      },
+      {
+        "code": "75F37D915E",
+        "expression": "Hammerkopf Fleder ausblenden",
+        "description": "Hammerkopf Fleder ausblenden"
+      },
+      {
+        "code": "9125AD18C2",
+        "expression": "Hammerkopf eingesackt",
+        "description": "Hammerkopf eingesackt"
+      },
+      {
+        "code": "DACDCF100C",
+        "expression": "Hammerkopf Select Flügel Kehlstab",
+        "description": "Hammerkopf Select Flügel Kehlstab"
+      },
+      {
+        "code": "F1163C0AA5",
+        "expression": "Hammerkopf Select Oberfilz",
+        "description": "Hammerkopf Select Oberfilz",
+      },
+      {
+        "code": "F9404EFB3C",
+        "expression": "Hammerkopf Select Piano Kehlstab",
+        "description": "Hammerkopf Select Piano Kehlstab"
+      },
+      {
+        "code": "85F36D672A",
+        "expression": "Hammerkopf Select Unterfilz",
+        "description": "Hammerkopf Select Unterfilz"
       }
     ]
   },

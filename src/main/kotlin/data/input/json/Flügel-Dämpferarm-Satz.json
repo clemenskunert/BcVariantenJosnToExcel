@@ -4,9 +4,69 @@
   "description": "Flügel Dämpferarm Satz",
   "attributes": [
     {
+      "code": "00531162B9",
+      "description": "Flügel Dämpferarm Anzahl Felder",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "expressions": [
+
+      ]
+    },
+    {
       "code": "18FB8C693A",
-      "description": "Anzahl Flügel Dämpferarme",
+      "description": "Flügel Dämpferarme Anzahl Feld 1",
       "standardValue": "71",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 80,
+      "step": 1
+    },
+    {
+      "code": "AC97F6F07A",
+      "description": "Flügel Dämpferarme Anzahl Feld 2",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal":0 ,
+      "rangeStart": 1,
+      "rangeEnd": 80,
+      "step": 1
+    },
+    {
+      "code": "1EABC6F795",
+      "description": "Flügel Dämpferarme Anzahl Feld 3",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 80,
+      "step": 1
+    },
+    {
+      "code": "7F7A0DEC57",
+      "description": "Flügel Dämpferarme Anzahl Feld 4",
+      "standardValue": "",
+      "art": 0,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "rangeStart": 1,
+      "rangeEnd": 80,
+      "step": 1
+    },
+    {
+      "code": "122EBE2D53",
+      "description": "Flügel Dämpferarme Anzahl Feld 5",
+      "standardValue": "",
       "art": 0,
       "dataType": 0,
       "nullAble": 0,
@@ -37,7 +97,7 @@
     },
     {
       "code": "A112632DA8",
-      "description": "Flügel Dämpferarm Sorte",
+      "description": "Flügel Dämpferarm Sorte Feld 1",
       "standardValue": "",
       "art": 1,
       "dataType": 1,
@@ -187,6 +247,50 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "code": "924D4C0136",
+      "description": "Flügel Dämpferarm Sorte Feld 2",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+
+      ]
+    },
+    {
+      "code": "22A32B83CB",
+      "description": "Flügel Dämpferarm Sorte Feld 3",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+
+      ]
+    },
+    {
+      "code": "27847C5C09",
+      "description": "Flügel Dämpferarm Sorte Feld 4",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+
+      ]
+    },
+    {
+      "code": "C233496A88",
+      "description": "Flügel Dämpferarm Sorte Feld 5",
+      "standardValue": "",
+      "art": 1,
+      "dataType": 1,
+      "nullAble": 0,
+      "expressions": [
+
       ]
     },
     {
@@ -720,6 +824,23 @@
           ]
         }
       ]
+    }
+  ],
+  "conditionalSet":[
+    {
+      "code": "722BFBEC0F",
+      "expression": "Flügel Dämpferarm Felder ausblenden",
+      "description": "Flügel Dämpferarm Felder ausblenden"
+    },
+    {
+      "code": "5F8C9BEE7F",
+      "expression": "Flügel Dämpferarme Teilungsnummer Vorbelegung 1",
+      "description": "Flügel Dämpferarme Teilungsnummer Vorbelegung 1"
+    },
+    {
+      "code": "C20334308C",
+      "expression": "Flügel Dämpferarme Teilungsnummer Vorbelegung 2",
+      "description": "Flügel Dämpferarme Teilungsnummer Vorbelegung 2"
     }
   ]
 }

@@ -197,7 +197,7 @@
           "description": "1015-35 18x400mm Standard",
           "parts": [
             {
-              "number": "924615076",
+              "number": "924615078",
               "quantity": "1",
               "unit": 8
             }
@@ -209,7 +209,7 @@
           "description": "1015-45 18x400mm geschärft",
           "parts": [
             {
-              "number": "924615076",
+              "number": "924615079",
               "quantity": "1",
               "unit": 8
             }
@@ -225,7 +225,12 @@
       "code": "57FBE70919",
       "expression": "Flügel Fängersatz Teilungsnummer Vorbelegung",
       "description": "Flügel Fängersatz Teilungsnummer Vorbelegung"
-    }
+    },
+    {
+      "code": "527187F8E1",
+      "expression": "Flügel Fängersatz mit Draht",
+      "description": "Flügel Fängersatz mit Draht"
+    },
   ]
 }
 @endjson

@@ -767,8 +767,8 @@
       "step": 1
     },
     {
-      "__comment": "Wenn Ja dann Stückliste ergänzen um Klasse Hammerruheleiste",
       "code": "D5E7750050",
+      "__comment": "Wenn Ja dann Stückliste ergänzen um Klasse Hammerruheleiste",
       "description": "FlügelMechanik Gestell mit Hammerruheleiste",
       "standardValue": "0",
       "art": 1,
@@ -788,16 +788,28 @@
           "numberValue": 0.0
         }
       ]
+    },
+    {
+      "code": "22BCA70DFF",
+      "description": "Flügel Mechanikgestell Anzahl Felder",
+      "standardValue": "3",
+      "art": 1,
+      "dataType": 0,
+      "nullAble": 0,
+      "decimal": 0,
+      "expressions": [
+        
+      ]
     }
   ],
   "children": [
     {
       "code": "4303A2D28A",
-      "description": "Flügel Mechanikgestell Feld",
+      "description": "Flügel Mechanik Gestell Feld 1",
       "attributes": [
         {
           "code": "341D8234F1",
-          "description": "Anzahl Töne im Feld",
+          "description": "Flügel Mechanik Gestell Anzahl Töne Feld 1",
           "standardValue": "20",
           "art": 0,
           "dataType": 0,
@@ -1047,8 +1059,106 @@
             }
           ],
           "children": [
+          ],
+          "conditionalSet": [
+            {
+              "code": "417DADFECC",
+              "expression": "Flügel Auslösepuppen Leisten Teilungsnummer Vorbelegung",
+              "description": "Flügel Auslösepuppen Leisten Teilungsnummer Vorbelegung"
+            }
           ]
         }
+      ],
+      "conditionalSet":[
+        {
+          "code": "D275866158",
+          "expression": "Flügel Mechanikgestell Feld Vorbelegung",
+          "description": "Flügel Mechanikgestell Feld Vorbelegung"
+        }
+      ]
+    },
+    {
+      "__comment": "KOPIE 4303A2D28A",
+      "code": "6BB0639346",
+      "description": "Flügel Mechanikgestell Feld 2",
+      "attributes": [
+        {
+          "code": "4F74636035",
+          "description": "Flügel Mechanik Gestell Anzahl Töne Feld 2",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 0,
+          "rangeEnd": 95,
+          "step": 1
+        }
+      ],
+      "children": [
+      ]
+    },
+    {
+      "__comment": "KOPIE 4303A2D28A",
+      "code": "E92A33E34D",
+      "description": "Flügel Mechanikgestell Feld 3",
+      "attributes": [
+        {
+          "code": "CC82C5BC6C",
+          "description": "Flügel Mechanik Gestell Anzahl Töne Feld 3",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 0,
+          "rangeEnd": 95,
+          "step": 1
+        }
+      ],
+      "children": [
+      ]
+    },
+    {
+      "__comment": "KOPIE 4303A2D28A",
+      "code": "084653ED22",
+      "description": "Flügel Mechanikgestell Feld 4",
+      "attributes": [
+        {
+          "code": "6ACB77479C",
+          "description": "Flügel Mechanik Gestell Anzahl Töne Feld 4",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 0,
+          "rangeEnd": 95,
+          "step": 1
+        }
+      ],
+      "children": [
+      ]
+    },
+    {
+      "__comment": "KOPIE 4303A2D28A",
+      "code": "016B75955A",
+      "description": "Flügel Mechanikgestell Feld 5",
+      "attributes": [
+        {
+          "code": "6AE4C6538C",
+          "description": "Flügel Mechanik Gestell Anzahl Töne Feld 5",
+          "standardValue": "",
+          "art": 0,
+          "dataType": 0,
+          "nullAble": 0,
+          "decimal": 0,
+          "rangeStart": 0,
+          "rangeEnd": 95,
+          "step": 1
+        }
+      ],
+      "children": [
       ]
     },
     {
@@ -1193,6 +1303,13 @@
         }
       ],
       "children": [
+      ],
+      "conditionalSet": [
+        {
+          "code": "665A44C53D",
+          "expression": "Flügel Mechanik Balken Teilungsnummer Vorbelegung",
+          "description": "Flügel Mechanik Balken Teilungsnummer Vorbelegung"
+        }
       ]
     },
     {
@@ -1325,6 +1442,13 @@
         }
       ],
       "children": [
+      ],
+      "conditionalSet": [
+        {
+          "code": "DF95ACEC38",
+          "expression": "Flügel Hebegliedleiste Teilungsnummer Vorbelegung",
+          "description": "Flügel Hebegliedleiste Teilungsnummer Vorbelegung"
+        }
       ]
     },
     {
@@ -1437,6 +1561,13 @@
         }
       ],
       "children": [
+      ],
+      "conditionalSet":[
+        {
+          "code": "1108065EE1",
+          "expression": "Flügel Hammerruhe Leiste Teilungsnummer Vorbelegung",
+          "description": "Flügel Hammerruhe Leiste Teilungsnummer Vorbelegung"
+        }
       ]
     }
   ]
